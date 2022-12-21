@@ -44,6 +44,11 @@ Base wash - turmeric/neem in hot boiling water
 
 neutral Salt wash - sea salt in hot boiling water
 
+Hot boiling water only for utensils/clothes
+
+Never take shower bath in hot water, especially head wash, not even in winter 
+If it is too cold weather then boil the water to 25° celsius not above
+
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 
 
