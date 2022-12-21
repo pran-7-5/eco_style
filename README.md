@@ -208,7 +208,7 @@ gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh
 
 Makeup
 =======
-Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade
+Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
 
 **Coloring hair tip will also soak ammonia compounds in hair color into skin
