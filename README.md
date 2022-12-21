@@ -215,6 +215,7 @@ Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not a
 Fragrance () 
 ==========
 Pure coconut oil/amla (hair oil) 
+
 Lotus oil (scent) 
 Sandalwood oil (scent)
 Rajnigandha oil (scent)
@@ -270,4 +271,4 @@ Mac n cheese pasta
 
 Cheese
 
-Avocado oil (use rare) 
+olive/Avocado oil (use rare) 
