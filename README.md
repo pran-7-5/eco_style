@@ -246,25 +246,6 @@ Coconut water
 
 
 
-Alcohol
-========
-White wine (green grapes) 
-
-Rum (sugarcane) 
-
-Wheat beer (only available in Germany) 
-
-**Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided
-
-Smoke
-======
-
-Ganja/bhang (can cure all diseases, it has no side effects or overdose) 
-
-Opium (can cure all diseases but it has overdose so caution is required) 
-
-**Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
-
 
 =========== western Type use rarely======
 
