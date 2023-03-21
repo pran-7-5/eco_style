@@ -192,13 +192,15 @@ Sweet potato
 
 Baigan(only one in a day not more, and small one not big one, big one is gmo) 
 
+Raddish
+
 Green bananas
 
 Chili ( careful don't buy big gmo ones) 
 
 Lemon
 
-**Onion, tomato, corn, okra, carrot, turnip, raddish, cauliflower, cabbage, broccoli, palak, peas, bell pepper, beans should be avoided
+**Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, beans should be avoided
 
 ____________women specific_____________
 
@@ -250,6 +252,27 @@ Fruit juice (Grape, mango, sugarcane, orange)
 Coconut water
 
 **Tea, coffee, health drinks(horlicks), chocolate, redbull,  cola, soda, lassi, milkshake, aloe vera are dangerous
+
+
+Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
+=====
+===
+White wine (green grapes) 
+
+Rum (sugarcane) 
+
+Wheat beer (only available in Germany) 
+
+**Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided
+
+Smoke(enhance decision making process, decreases the anger) 
+======
+
+Ganja/bhang (can cure all diseases, it has no side effects or overdose) 
+
+Opium (can cure all diseases but it has overdose so caution is required) 
+
+**Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
 
 
 
