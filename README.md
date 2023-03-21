@@ -301,3 +301,74 @@ Mac n cheese pasta
 Cheese
 
 olive/Avocado oil (use rare) 
+
+
+
+First shopping
+****************************************
+Cleaning gloves kitchen+bathroom
+
+Toilet brush x 2
+
+Scrubbing brush with C type handle x 2
+
+Long mop for wet
+
+Broom stick
+
+Scthbrite x 4
+
+Microfiber bundle
+
+Garbage bags
+
+
+*******************************************
+
+Vim
+
+Surf 
+
+Harpic
+
+Lysol
+
+Isopropyl alcohol
+
+*******************************************
+
+Mattress cover 
+
+Mattress topper 
+
+
+Cooking
+*****************************************
+               BreakF      Lunch      Snacks      Dinner
+
+Mon      idli              dalma       murri          sattu
+
+Tue       spoha        friedrice    vada         sattu
+
+We'd     luchi          dalma         murri        sattu
+
+Thur      spoha       friedrice    noodles    sattu
+
+Fri          dosa         rice                               sattu
+
+Sat      cereal         pulav                            sattu
+
+Sun      cereal        pulav                            sattu
+
+
+Special
+=======
+
+Puri + kala chana dal (without cover) 
+
+
+
+
+
+
+
