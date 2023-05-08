@@ -20,7 +20,7 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing bowl
 
-** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided
+** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system
 
 Packaging
 =========
@@ -64,7 +64,7 @@ Wheat (atta, maida, suji)
 
 arhar Dal(dalma) 
 
-Moong dal(dalma/ saag mung)
+Moong dal(dalma/ saag mung dal)
 
 Chana dal(dalma)(besan) 
 
@@ -72,7 +72,7 @@ Biri/urad dal(dosa, idli, vada)
 
 Atta (puri/paratha) 
 
-Maida (luchi/roll paratha/kachori/nimki/golgappa/noodles) 
+Maida (luchi/roll paratha/kachori/nimki/pani puri/noodles) 
 
 Besan (pakoda) 
 
@@ -86,13 +86,13 @@ Sooji(dosa, idli, vada,upma/) (kheer)
 
 Chudda(poha) 
 
-Muddi (jhal murri) 
+Muddi(puffed rice) (jhal murri) 
 
-Ukhudda
+Ukhudda(popped rice) (khoi)
 
-Jaggery
+Jaggery(raw unrefined sugarcane)
 
-Misri 
+Misri (crystall raw unrefined sugarcane)
 
 **masoor dal, refined sugar should be avoided
 
@@ -152,9 +152,10 @@ Dried amla
 ******************fat**********************
 Mustard oil
 
-Ghee(bilona ghee not factory one) 
+Ghee(bilona ghee not factory one)(A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
+ghee = butter - fat
 
-Butter
+Butter (A2 milk based)(unsalted)
 
 Dahi (sour not sweet) 
 
@@ -168,7 +169,7 @@ Orange
 
 Bananas (big ones are gmo) 
 
-Green Grapes with seed (non seed is gmo) (dark grapes are gmo) 
+Green Grapes  (dark grapes are gmo) 
 
 Coconut
 
@@ -182,7 +183,7 @@ Amla
 
 *****************vegetables*******************
 
-Koshola saag
+Koshola saag (other saags should be avoided)
 
 Pumpkin (very big ones are gmo) 
 
@@ -198,7 +199,7 @@ Green bananas
 
 Chili ( careful don't buy big gmo ones) 
 
-Lemon
+Lemon (what to say its magical)
 
 **Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, beans should be avoided
 
@@ -235,7 +236,7 @@ Cloth fabric
 
 Cotton
 Silk
-Wool
+
 Hemp
 
 Color- light color
@@ -251,7 +252,7 @@ Lemonade
 Fruit juice (Grape, mango, sugarcane, orange) 
 Coconut water
 
-**Tea, coffee, health drinks(horlicks), chocolate, redbull,  cola, soda, lassi, milkshake, aloe vera are dangerous
+**Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous
 
 
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
@@ -277,7 +278,7 @@ Opium (can cure all diseases but it has overdose so caution is required)
 
 
 
-=========== western Type use rarely======
+=========== western GMO Type use rarely======
 
 Peas
 
@@ -295,10 +296,7 @@ Capsicum
 
 Veg pizza
 
-Mac n cheese pasta
 ****************************************
-
-Cheese
 
 olive/Avocado oil (use rare) 
 
@@ -344,21 +342,18 @@ Mattress topper
 
 Cooking
 *****************************************
-               BreakF      Lunch      Snacks      Dinner
 
-Mon      idli              dalma       murri          sattu
+Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
+------------------------|-----------------------------|-----------|-------------|-------------|-----------------------
+Mon                     | idli                        |dalma      | murri       | sattu       |  
+Tue                     | spoha                       |friedrice  | vada        | sattu       |  
+wed                     | luchi                       |dalma      | murri       | sattu       |  
+Thur                    | spoha                       |friedrice  | noodles     | sattu       |  
+Fri                     | dosa                        |rice       | murri       | sattu       |  
+Sat                     | cereal                      |pulav      | murri       | sattu       |  
+Sun                     | cereal                      |pulav      | murri       | sattu       |  
 
-Tue       spoha        friedrice    vada         sattu
 
-We'd     luchi          dalma         murri        sattu
-
-Thur      spoha       friedrice    noodles    sattu
-
-Fri          dosa         rice                               sattu
-
-Sat      cereal         pulav                            sattu
-
-Sun      cereal        pulav                            sattu
 
 
 Special
