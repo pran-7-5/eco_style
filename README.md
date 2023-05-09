@@ -3,6 +3,8 @@
 Planet safe
 ============================================================================================
 
+utensils
+--------------------------------------------------------------------------------------------
 ```
 Only clay and cast iron utensils should be used
 
@@ -26,21 +28,17 @@ Dough mixing bowl
 ```
 
 Packaging
-============================================================================================
-
+--------------------------------------------------------------------------------------------
+```
 Clay and leaf is recommend
 
 
 **Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
-
-
-
-
-
+```
 
 Cleaner (utensils/hair/body/cloths) (base wash should be avoided in case of cloths specially white color) 
-============================================================================================
-
+--------------------------------------------------------------------------------------------
+```
 Acid wash- lemon/orange/amla juice in hot boiling water
 
 Base wash - turmeric/neem in hot boiling water
@@ -54,11 +52,11 @@ Never take shower bath in hot water, especially head wash, not even in winter
 If it is too cold weather then boil the water to 25° celsius not above
 
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
+```
 
-
-
-
-****************************************
+grocery
+--------------------------------------------------------------------------------------------
+```
 Gmo- genetically modified organisms
 
 Rice (dosa, idli, vada) (kheer) 
@@ -99,29 +97,30 @@ Jaggery(raw unrefined sugarcane)
 Misri (crystall raw unrefined sugarcane)
 
 **masoor dal, refined sugar should be avoided
+```
 
-
-Food
-===========
+food
+--------------------------------------------------------------------------------------------
+```
 Mustard paste curries 
 Mango khatta
 Dahi vada
-
-
+```
 
 Dessert
-===========
-
+--------------------------------------------------------------------------------------------
+```
 Peda
 Ladoo(boondi/coconut) 
 Brown Rasogola odisha style (jaggery) 
 Gulab jamun
 
 **Cashew barfi, should be avoided
+```
 
-
-*****************dry fruits*******************
-
+dry fruits
+--------------------------------------------------------------------------------------------
+```
 Almonds
 
 Pistachio
@@ -129,10 +128,11 @@ Pistachio
 Raisins
 
 **Avoid walnut, cashew, peanut, dates
+```
 
-******************spices**********************
-
-
+spices
+--------------------------------------------------------------------------------------------
+```
 Hing
 
 Mustard seeds
@@ -152,9 +152,11 @@ Dried mango
 Dried amla
 
 **garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
+```
 
-******************fat**********************
-
+fat
+--------------------------------------------------------------------------------------------
+```
 Mustard oil
 
 Ghee(bilona ghee not factory one)(A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
@@ -167,9 +169,11 @@ Dahi (sour not sweet)
 **Paneer, raw milk should be avoided
 
 **Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided
+```
 
-*********************fruits*******************
-
+fruits
+--------------------------------------------------------------------------------------------
+```
 Orange
 
 Bananas (big ones are gmo) 
@@ -185,9 +189,11 @@ Bael
 Amla
 
 **Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided
+```
 
-*****************vegetables*******************
-
+vegetables
+--------------------------------------------------------------------------------------------
+```
 Koshola saag (other saags should be avoided)
 
 Pumpkin (very big ones are gmo) 
@@ -207,9 +213,11 @@ Chili ( careful don't buy big gmo ones)
 Lemon (what to say its magical)
 
 **Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, beans should be avoided
+```
 
-____________women specific_____________
-
+women_specific
+--------------------------------------------------------------------------------------------
+```
 Jewelry 
 =======
 gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels
@@ -249,20 +257,21 @@ Color- light color
 **dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
 
 ** elastane, spandex, linen, polyester, should be avoided
+```
 
 Drinks
-=======
-
+--------------------------------------------------------------------------------------------
+```
 Lemonade
 Fruit juice (Grape, mango, sugarcane, orange) 
 Coconut water
 
 **Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous
-
+```
 
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
-=====
-===
+--------------------------------------------------------------------------------------------
+```
 White wine (green grapes) 
 
 Rum (sugarcane) 
@@ -270,21 +279,21 @@ Rum (sugarcane)
 Wheat beer (only available in Germany) 
 
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided
+```
 
 Smoke(enhance decision making process, decreases the anger) 
-======
-
+--------------------------------------------------------------------------------------------
+```
 Ganja/bhang (can cure all diseases, it has no side effects or overdose) 
 
 Opium (can cure all diseases but it has overdose so caution is required) 
 
 **Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
+```
 
-
-
-
-=========== western GMO Type use rarely======
-
+western GMO Type use rarely
+--------------------------------------------------------------------------------------------
+```
 Peas
 
 Carrots
@@ -301,14 +310,13 @@ Capsicum
 
 Veg pizza
 
-****************************************
-
 olive/Avocado oil (use rare) 
-
+```
 
 
 First shopping
-****************************************
+--------------------------------------------------------------------------------------------
+```
 Cleaning gloves kitchen+bathroom
 
 Toilet brush x 2
@@ -343,10 +351,11 @@ Isopropyl alcohol
 Mattress cover 
 
 Mattress topper 
-
+```
 
 Cooking
-*****************************************
+--------------------------------------------------------------------------------------------
+```
 never eat too much at once, eat less but 4 times ...
 
 Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
@@ -358,11 +367,11 @@ Thur                    | salty poha                  |dal+rice   | noodles     
 Fri                     | idli                        |dal+rice   | murri       | chana sattu |  
 Sat                     | dosa                        |pulav      | murri       | chana sattu |  
 Sun                     | vada                        |pulav      | murri       | chana sattu |  
-
+```
 
 Appliances
------------
-
+--------------------------------------------------------------------------------------------
+```
 Bulb - 4 to 9 watts enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes
 
 
@@ -392,7 +401,7 @@ On spot power generation recomended (transmission lines are very inefficient mor
 solar panel = 500 w * 2 (life = 25 years)
 solar inverter with wifi phone app = 4 kw (life = depends)
 battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky)
-
+```
 
 
 
