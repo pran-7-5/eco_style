@@ -1,7 +1,9 @@
 # sustainable_lifestyle
-Planet safe
-===============
 
+Planet safe
+============================================================================================
+
+```
 Only clay and cast iron utensils should be used
 
 cast iron kadhai/wok with lid 3L x 1
@@ -21,9 +23,10 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 Dough mixing bowl
 
 ** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system
+```
 
 Packaging
-=========
+============================================================================================
 
 Clay and leaf is recommend
 
@@ -36,7 +39,8 @@ Clay and leaf is recommend
 
 
 Cleaner (utensils/hair/body/cloths) (base wash should be avoided in case of cloths specially white color) 
-****************************************
+============================================================================================
+
 Acid wash- lemon/orange/amla juice in hot boiling water
 
 Base wash - turmeric/neem in hot boiling water
