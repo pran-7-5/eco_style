@@ -218,11 +218,11 @@ Lemon (what to say its magical)
 women_specific
 --------------------------------------------------------------------------------------------
 ```
-Jewelry 
+'Jewelry'
 =======
 gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels
 
-Makeup
+'Makeup'
 =======
 Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
@@ -234,7 +234,7 @@ Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not a
 
 **Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
-Fragrance () 
+'Fragrance'
 ==========
 Pure coconut oil/amla (hair oil) 
 
@@ -244,7 +244,7 @@ Rajnigandha oil (scent)
 
 **perfume, deo (lots of chemical) should be avoided
 
-Cloth fabric
+'Cloth fabric'
 ===========
 
 Cotton
