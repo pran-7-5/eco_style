@@ -403,6 +403,7 @@ refridgerator =  200 liters 5 star inverter fridge
 
 ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference 
 
+> ## **washing machine link [washing machine]([https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it).**
 washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best 
 
 dishwasher = 5 star inverter
