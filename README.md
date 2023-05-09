@@ -342,24 +342,60 @@ Mattress topper
 
 Cooking
 *****************************************
+never eat too much at once, eat less but 4 times ...
 
 Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
 ------------------------|-----------------------------|-----------|-------------|-------------|-----------------------
-Mon                     | idli                        |dalma      | murri       | sattu       |  
-Tue                     | spoha                       |friedrice  | vada        | sattu       |  
-wed                     | luchi                       |dalma      | murri       | sattu       |  
-Thur                    | spoha                       |friedrice  | noodles     | sattu       |  
-Fri                     | dosa                        |rice       | murri       | sattu       |  
-Sat                     | cereal                      |pulav      | murri       | sattu       |  
-Sun                     | cereal                      |pulav      | murri       | sattu       |  
+Mon                     | puri                        |dalma+rice | murri       | chana sattu |  
+Tue                     | sweet poha                  |dal+rice   | vada        | chana sattu |  
+wed                     | luchi                       |dalma+rice | chuda       | chana sattu |  
+Thur                    | salty poha                  |dal+rice   | noodles     | chana sattu |  
+Fri                     | idli                        |dal+rice   | murri       | chana sattu |  
+Sat                     | dosa                        |pulav      | murri       | chana sattu |  
+Sun                     | vada                        |pulav      | murri       | chana sattu |  
+
+
+Appliances
+-----------
+
+Bulb - 4 to 9 watts enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes
+
+
+fan - 30 to 40 watts, bldc motor fans
+
+stove - wood fire, infrared cooker (heating coil) not induction cooker(magnetism)
+
+water purifier - live near river drink direct, well water drink direct....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
+
+1 star = very high consumption, highest bill, lowest efficincy
+2
+3
+4
+5 star = very low consumption, lowest bill, highest efficincy
+
+refridgerator =  200 liters 5 star inverter fridge
+
+ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference 
+
+washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best 
+
+dishwasher = 5 star inverter
+
+
+On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
+--------------------------
+solar panel = 500 w * 2 (life = 25 years)
+solar inverter with wifi phone app = 4 kw (life = depends)
+battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky)
 
 
 
 
-Special
-=======
 
-Puri + kala chana dal (without cover) 
+
+
+
+
 
 
 
