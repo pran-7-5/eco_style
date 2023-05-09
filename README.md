@@ -1,8 +1,7 @@
 # sustainable_lifestyle
 
-'Planet safe'
+Planet safe
 ============================================================================================
-bgbhgng nhntnn 'vgvtgvgt'
 
 utensils
 --------------------------------------------------------------------------------------------
@@ -219,7 +218,7 @@ Lemon (what to say its magical)
 women_specific
 --------------------------------------------------------------------------------------------
 ```
-'Jewelry'
+`Jewelry`
 =======
 gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels
 
