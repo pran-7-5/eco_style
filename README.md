@@ -6,15 +6,15 @@
 utensils
 --------------------------------------------------------------------------------------------
 ```
-Only clay and cast iron utensils should be used
+Only unglazed clay and 100 % cast iron(not cast iron alloy) utensils should be used
 
 cast iron kadhai/wok with lid 3L x 1
 
-Pressure cooker 3L x 1  only for boiling (saves lot of energy) ( it's aluminum not ideal but alternative is not available right now don't scratch inside or don't use metal spatula, anodized metal is also not good or stainless steel) 
+Pressure cooker 3L x 1  only for boiling (saves lot of energy) ( it's aluminum not ideal but alternative is not available right, now don't scratch inside or don't use metal spatula. Anodized metal is also not good or stainless steel. 
 
 Flat Pan/ tawa cast iron
 
-Wooden Board + rolling pin (avoid stone, plastic, metal) 
+neem Wood Board + rolling pin (avoid stone, plastic, metal) 
 
 Knifes big + small (wooden handle is recommend) 
 
@@ -24,7 +24,7 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing bowl
 
-** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system
+** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO2 and CuSO4. ceramic has paint.
 ```
 
 Packaging
@@ -34,6 +34,16 @@ Clay and leaf is recommend
 
 
 **Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
+```
+
+teeth
+--------------------------------------------------------------------------------------------
+```
+dried ginger powder
+dried amla powder
+dried turmeric powder
+dried clove powder
+raw unrefined sea salt
 ```
 
 Cleaner (utensils/hair/body/cloths) (base wash should be avoided in case of cloths specially white color) 
