@@ -150,6 +150,7 @@ Dried amla
 **garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
 
 ******************fat**********************
+
 Mustard oil
 
 Ghee(bilona ghee not factory one)(A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
