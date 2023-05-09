@@ -368,7 +368,7 @@ Mattress topper
 Cooking
 --------------------------------------------------------------------------------------------
 ```
-never eat too much at once, eat less but 4 times ...
+never eat too much at once, eat less but 4 times and if not feeling hungry reduce the previous meal next time ...
 
 Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
 ------------------------|-----------------------------|-----------|-------------|-------------|-----------------------
