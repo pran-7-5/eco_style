@@ -382,6 +382,7 @@ Sun                     | vada                        |pulav      | murri       
 ```
 
 Appliances
+
 --------------------------------------------------------------------------------------------
 
 Bulb - 4 to 9 watts enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes
