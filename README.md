@@ -1,6 +1,6 @@
 # sustainable_lifestyle
 
-> ## **All of the content in this repository lives in the [Wiki](https://github).**
+> ## **All of the content in this repository lives in the [folder](https://github).**
 
 `Planet safe`
 ============================================================================================
