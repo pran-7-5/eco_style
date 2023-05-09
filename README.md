@@ -1,6 +1,6 @@
 # sustainable_lifestyle
 
-Planet safe
+'Planet safe'
 ============================================================================================
 
 utensils
