@@ -416,7 +416,7 @@ dishwasher = 5 star inverter = 300 dollar max(availiable all around the world)
 
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
-solar panel = mono perc 500 w * 2 (life = 25 years) = 300 dollar max(availiable all around the world)
+solar panel = mono perc 500 w (life = 25 years) = 300 dollar max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
 solar inverter with wifi phone app = 4 kw (life = depends) = 200 dollar max(availiable all around the world)
 battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 dollar max(availiable all around the world)
 ```
@@ -434,7 +434,7 @@ best car in the world = cheapest ev availiable(citroen e-c3) = 15000 usd max (ti
 House construction
 ------------------------
 
-never build cement house(those who live near earthquake zones)
+never build cement house(especially those who live near earthquake zones)
 
 wood and mud combined houses are best and you will be so happy
 
@@ -453,7 +453,24 @@ stop diging mines = we dont need metals anymore = natural and carbon fiber parts
 stop constructing new roads, new ports, alternate is coming is few years
 
 
-So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(dance, music, movies) , exploration, tourism thats where you should focus on
+schemes
+----------------
+
+banning of older vehicles
+
+free speech
+
+banning of currency notes immidietly and digital apps are already there
+
+shutdown schools and colleges rather sports and art clubs, online apps are enough already.
+
+collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
+
+
+
+
+
+So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
 
 
