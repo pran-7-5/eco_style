@@ -384,7 +384,7 @@ Sun                     | vada                        |pulav      | murri       
 Appliances
 
 --------------------------------------------------------------------------------------------
-
+```
 Bulb - 4 to 9 watts enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes
 
 
@@ -415,7 +415,7 @@ On spot power generation recomended (transmission lines are very inefficient mor
 solar panel = 500 w * 2 (life = 25 years)
 solar inverter with wifi phone app = 4 kw (life = depends)
 battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky)
-
+```
 
 
 
