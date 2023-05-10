@@ -268,6 +268,11 @@ Color- light color
 **dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
 
 ** elastane, spandex, linen, polyester, should be avoided
+
+hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution)
+
+protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
+
 ```
 
 Drinks
@@ -328,21 +333,21 @@ olive/Avocado oil (use rare)
 First shopping
 --------------------------------------------------------------------------------------------
 ```
-Cleaning gloves kitchen+bathroom
+Cleaning gloves kitchen+bathroom(ok just this one use plastic)
 
-Toilet brush x 2
+Toilet brush x 2(ok just this one use plastic)
 
-Scrubbing brush with C type handle x 2
+Scrubbing brush with C type handle x 2(coir)
 
-Long mop for wet
+Long mop for wet(cloth instead of sponge)
 
-Broom stick
+Broom stick(natural fibers)
 
-Scthbrite x 4
+Scthbrite x 4(coir)
 
-Microfiber bundle
+Microfiber bundle(reuse old fabric)
 
-Garbage bags
+Garbage bags(dont use these)
 
 
 *******************************************
@@ -426,6 +431,29 @@ best car in the world = cheapest ev availiable(citroen e-c3) = 15000 usd max (ti
 
 
 
+House construction
+------------------------
+
+never build cement house(those who live near earthquake zones)
+
+wood and mud combined houses are best and you will be so happy
+
+well ancient stucture like rome and temples of india are made of (lime mortar) it is a natural ecofriendly cement made from baked sea shells picked and collected from sea shore
+
+todays cement = modern cement = the CaCO3 is obtained in mining
+
+every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
+
+
+Mineral mines
+----------------
+
+stop diging mines = we dont need metals anymore = natural and carbon fiber parts are used now and more efficient and light weight
+
+stop constructing new roads, new ports, alternate is coming is few years
+
+
+So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(dance, music, movies) , exploration, tourism thats where you should focus on
 
 
 
