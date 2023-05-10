@@ -1,7 +1,5 @@
 # sustainable_lifestyle
 
-> ## **All of the content in this repository lives in the [folder](https://github).**
-
 `Planet safe`
 ============================================================================================
 
@@ -38,14 +36,15 @@ Clay and leaf is recommend
 **Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
 ```
 
-teeth
+teeth cleaning
 --------------------------------------------------------------------------------------------
 ```
 dried ginger powder
 dried amla powder
 dried turmeric powder
 dried clove powder
-raw unrefined sea salt
+raw unrefined sea salt crystalls
+mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 ```
 
 Cleaner (utensils/hair/body/cloths) (base wash should be avoided in case of cloths specially white color) 
@@ -278,7 +277,7 @@ Lemonade
 Fruit juice (Grape, mango, sugarcane, orange) 
 Coconut water
 
-**Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous
+** all type of suppliments(you don't need them=expensive urine)Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous
 ```
 
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
@@ -385,12 +384,12 @@ Appliances
 
 --------------------------------------------------------------------------------------------
 ```
-Bulb - 4 to 9 watts enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes
+Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 dollar max(availiable all around the world)
 
 
-fan - 30 to 40 watts, bldc motor fans
+fan - 30 to 40 watts, bldc motor fans = 30 dollar max(availiable all around the world)
 
-stove - wood fire, infrared cooker (heating coil) not induction cooker(magnetism)
+stove - wood fire, infrared cooker (heating coil) not induction cooker(magnetism) = 20 dollar max(availiable all around the world)
 
 water purifier - live near river drink direct, well water drink direct....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
 
@@ -400,25 +399,30 @@ water purifier - live near river drink direct, well water drink direct....never 
 4
 5 star = very low consumption, lowest bill, highest efficincy
 
-refridgerator =  200 liters 5 star inverter fridge
+refridgerator =  200 liters 5 star inverter fridge = 200 dollar max
 
-ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference 
+ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference  = 600 dollar max(availiable all around the world)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
-washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best 
+washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best  = 300 dollar max(availiable all around the world)
 
-dishwasher = 5 star inverter
+dishwasher = 5 star inverter = 300 dollar max(availiable all around the world)
 
 
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
-solar panel = 500 w * 2 (life = 25 years)
-solar inverter with wifi phone app = 4 kw (life = depends)
-battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky)
+solar panel = mono perc 500 w * 2 (life = 25 years) = 300 dollar max(availiable all around the world)
+solar inverter with wifi phone app = 4 kw (life = depends) = 200 dollar max(availiable all around the world)
+battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 dollar max(availiable all around the world)
 ```
 
+internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
+
+bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
 
+
+best car in the world = cheapest ev availiable = 15000 usd max
 
 
 
