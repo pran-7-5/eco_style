@@ -422,7 +422,7 @@ bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
 
 
-best car in the world = cheapest ev availiable = 15000 usd max
+best car in the world = cheapest ev availiable(citroen e-c3) = 15000 usd max (till 2023)
 
 
 
