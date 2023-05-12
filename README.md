@@ -72,18 +72,18 @@ grocery
 ```
 Gmo- genetically modified organisms
 
-Rice (dosa, idli, vada) (kheer) 
+Rice (dosa, idli, vada) (kheer)= key ingridients (complex carbohydrates) good for body 
 Avoid basmati it's gmo
 
-Wheat (atta, maida, suji) 
+Wheat (atta, maida, suji) = key ingridients (complex carbohydrates) good for body  
 
-arhar Dal(dalma) 
+arhar Dal(dalma) = key ingridients (plant proteins) good for body 
 
-Moong dal(dalma/ saag mung dal)
+Moong dal(dalma/ saag mung dal)= key ingridients (plant proteins) good for body 
 
-Chana dal(dalma)(besan) 
+Chana dal(dalma)(besan) = key ingridients (plant proteins) good for body 
 
-Biri/urad dal(dosa, idli, vada)
+Biri/urad dal(dosa, idli, vada)= key ingridients (plant proteins) good for body 
 
 Atta (puri/paratha) 
 
@@ -243,7 +243,7 @@ gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh
 Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
 
-**Coloring hair tip will also soak ammonia compounds in hair color into skin
+**Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
 
 **Henna mehndi is also very bad
 
@@ -475,6 +475,8 @@ banning of current public transports = reduce vehicle weight and size
 
 banning of trucks, only air drops for defence equipments
 
+banning of trains, track maintainace creating too pollution because a lot of metal is required.
+
 army vehicles are not efficient
 
 banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
@@ -499,7 +501,7 @@ free speech
 
 banning of currency notes immidietly and digital apps are already there.
 
-abolition of schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already.
+reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
