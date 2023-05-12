@@ -8,7 +8,7 @@ utensils
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy) utensils should be used
 
-cast iron kadhai/wok with lid 3L x 1
+100% cast iron kadhai/wok with lid 3L x 1
 
 Pressure cooker 3L x 1  only for boiling (saves lot of energy) ( it's aluminum not ideal but alternative is not available right, now don't scratch inside or don't use metal spatula. Anodized metal is also not good or stainless steel. 
 
@@ -24,7 +24,7 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing bowl
 
-** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO2 and CuSO4. ceramic has paint.
+** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
 ```
 
 Packaging
@@ -210,6 +210,8 @@ Amla
 vegetables
 --------------------------------------------------------------------------------------------
 ```
+*** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by workouts so there is no issue.
+
 Koshola saag (other saags should be avoided)
 
 Pumpkin (very big ones are gmo) 
@@ -257,6 +259,7 @@ Pure coconut oil/amla (hair oil)
 Lotus oil (scent) 
 Sandalwood oil (scent)
 Rajnigandha oil (scent)
+Merigold oil (scent)
 
 **perfume, deo (lots of chemical) should be avoided
 
@@ -397,11 +400,11 @@ Appliances
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(availiable all around the world)
 
 
-fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
+BLDC fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
 
-stove - wood fire, cast iron hot plate cooker(heating coil inside) not induction cooker(magnetism) = 20 USD max(availiable all around the world)
+stove - wood fire, cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(availiable all around the world)
 
-water purifier - live near river drink direct, well water drink direct....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
+water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells)....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
 
 1 star = very high consumption, highest bill, lowest efficincy
 2
@@ -430,7 +433,7 @@ internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch so
 
 bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
-phone + tab + pc in one device ()
+phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)
 
@@ -444,6 +447,8 @@ never build cement house(especially those who live near earthquake zones)
 wood and mud combined houses are best and you will be so happy
 
 well ancient stucture like rome and temples of india are made of (lime mortar) it is a natural ecofriendly cement made from baked sea shells picked and collected from sea shore
+
+bricks = baked is solar powered furnace
 
 todays cement = modern cement = the CaCO3 is obtained in mining
 
