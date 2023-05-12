@@ -430,7 +430,7 @@ internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch so
 
 bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
-
+phone + tab + pc in one device ()
 
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)
 
