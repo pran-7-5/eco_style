@@ -112,7 +112,7 @@ Misri (crystall raw unrefined sugarcane)
 **masoor dal, refined sugar should be avoided
 ```
 
-food
+other food items
 --------------------------------------------------------------------------------------------
 ```
 Mustard paste curries 
@@ -171,6 +171,9 @@ fat
 --------------------------------------------------------------------------------------------
 ```
 Mustard oil
+
+dairy(I am lactose intollerant so keep me out) but these are very good and very high protein 
+-------
 
 Ghee(bilona ghee not factory one)(A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
 ghee = butter - fat
@@ -434,7 +437,7 @@ best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (ti
 
 
 House construction
-------------------------
+--------------------------------------------------------------------------------------------
 
 never build cement house(especially those who live near earthquake zones)
 
@@ -448,23 +451,21 @@ every person should get his own room in a family (not a small room, mind needs m
 
 
 Mineral mines
-----------------
+--------------------------------------------------------------------------------------------
+
+shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
 
 stop diging mines = we dont need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and light weight
 
 stop constructing new roads, bridges, new ports, alternate is coming is few years
 
+collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
 
-schemes
-----------------
+recycling facility - solar powered small blast furnance
+without battery only morning operations 
 
-gov has no buisness in buisness. convert all gov manufacturing and service to private
-
-shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
-
-reduction of pol muscle and fire and vehicles speed.
-
-banning of paper 
+future of transportation
+--------------------------------------------------------------------------------------------
 
 banning of formula 1, formula-e is there
 
@@ -479,18 +480,20 @@ army vehicles are not efficient
 banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
 shipment = only technology, not everything grow food at your country
 
+schemes
+--------------------------------------------------------------------------------------------
+
+gov has no buisness in buisness. convert all gov manufacturing and service to private
+
+reduction of pol muscle and fire and vehicles speed.
+
+banning of paper 
+
 free speech
 
 banning of currency notes immidietly and digital apps are already there
 
 abolition of schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already.
-
-
-collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
-
-
-recycling facility - solar powered small blast furnance
-without battery only morning operations 
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
