@@ -508,6 +508,8 @@ banning of currency notes immidietly and digital apps are already there.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
+A reduced feature phones for children. basic apps, payment and gps.(good for elderly people also)
+
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
 
