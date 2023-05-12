@@ -3,6 +3,8 @@
 `Planet safe`
 ============================================================================================
 
+Methods and material are abundant, can be launched immidietly effectively 
+
 utensils
 --------------------------------------------------------------------------------------------
 ```
@@ -315,7 +317,7 @@ Opium (can cure all diseases but it has overdose so caution is required)
 **Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
 ```
 
-western GMO Type use rarely
+GMO Type use rarely
 --------------------------------------------------------------------------------------------
 ```
 Peas
@@ -412,22 +414,21 @@ water purifier - live near river drink direct, well water drink direct(not stead
 4
 5 star = very low consumption, lowest bill, highest efficincy
 
-refridgerator =  200 liters 5 star inverter fridge = 200 USD max
+refridgerator(100w) =  200 liters 5 star inverter fridge = 200 USD max
 
-ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference  = 600 USD max(availiable all around the world)
+ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference  = 600 USD max(availiable all around the world)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
-washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best  = 300 USD max(availiable all around the world)
+washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best  = 300 USD max(availiable all around the world)
 
-dishwasher = 5 star inverter = 300 USD max(availiable all around the world)
+dishwasher(200w) = 5 star inverter = 300 USD max(availiable all around the world)
 
 
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
-solar panel = mono perc 500 w (life = 25 years) = 300 USD max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
-solar inverter with wifi phone app = 4 kw (life = depends) = 200 USD max(availiable all around the world)
-battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 USD max(availiable all around the world)
-```
+solar panel = mono perc [500 w] (life = 25 years) = 300 USD max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
+solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD max(availiable all around the world)
+battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 USD max(availiable all around the world)
 
 internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
 
@@ -435,8 +436,8 @@ bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
-best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)
-
+best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
+```
 
 
 House construction
