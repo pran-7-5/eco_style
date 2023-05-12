@@ -483,6 +483,12 @@ shipment = only technology, not everything grow food at your country
 schemes
 --------------------------------------------------------------------------------------------
 
+No need for capital and cities. 5G and satellite internet is already here. disperse the crowd
+
+wheat, rice, pulses can be bought only. rest grow on your own.
+
+satellite land allocatiion, same for each person
+
 gov has no buisness in buisness. convert all gov manufacturing and service to private
 
 reduction of pol muscle and fire and vehicles speed.
@@ -491,7 +497,7 @@ banning of paper
 
 free speech
 
-banning of currency notes immidietly and digital apps are already there
+banning of currency notes immidietly and digital apps are already there.
 
 abolition of schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already.
 
