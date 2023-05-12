@@ -47,20 +47,22 @@ raw unrefined sea salt crystalls
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 ```
 
-Cleaner (utensils/hair/body/cloths) (base wash should be avoided in case of cloths specially white color) 
+Cleaner (utensils/hair/body/cloths)  
 --------------------------------------------------------------------------------------------
 ```
+body + cloth
+------
 Acid wash- lemon/orange/amla juice in hot boiling water
-
-Base wash - turmeric/neem in hot boiling water
-
-
-neutral Salt wash - sea salt in hot boiling water
-
-Hot boiling water only for utensils/clothes
 
 Never take shower bath in hot water, especially head wash, not even in winter 
 If it is too cold weather then boil the water to 25° celsius not above
+
+Base wash - turmeric/neem in hot boiling water(base wash should be avoided in case of cloths specially white color)
+
+utensils
+----------
+neutral Salt wash - sea salt in hot boiling water
+
 
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 ```
@@ -389,12 +391,12 @@ Appliances
 
 --------------------------------------------------------------------------------------------
 ```
-Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 dollar max(availiable all around the world)
+LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(availiable all around the world)
 
 
-fan - 30 to 40 watts, bldc motor fans = 30 dollar max(availiable all around the world)
+fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
 
-stove - wood fire, infrared cooker (heating coil) not induction cooker(magnetism) = 20 dollar max(availiable all around the world)
+stove - wood fire, cast iron hot plate cooker(heating coil inside) not induction cooker(magnetism) = 20 USD max(availiable all around the world)
 
 water purifier - live near river drink direct, well water drink direct....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
 
@@ -404,21 +406,21 @@ water purifier - live near river drink direct, well water drink direct....never 
 4
 5 star = very low consumption, lowest bill, highest efficincy
 
-refridgerator =  200 liters 5 star inverter fridge = 200 dollar max
+refridgerator =  200 liters 5 star inverter fridge = 200 USD max
 
-ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference  = 600 dollar max(availiable all around the world)
+ac = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not availiable can by single inverter not much difference  = 600 USD max(availiable all around the world)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
-washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best  = 300 dollar max(availiable all around the world)
+washing machine = 8 kg, 5 star inverter automatic with hot water feature, dont buy dryer, or inbuit dryer(use rare) for rainy days ...sun dry is best  = 300 USD max(availiable all around the world)
 
-dishwasher = 5 star inverter = 300 dollar max(availiable all around the world)
+dishwasher = 5 star inverter = 300 USD max(availiable all around the world)
 
 
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
-solar panel = mono perc 500 w (life = 25 years) = 300 dollar max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
-solar inverter with wifi phone app = 4 kw (life = depends) = 200 dollar max(availiable all around the world)
-battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 dollar max(availiable all around the world)
+solar panel = mono perc 500 w (life = 25 years) = 300 USD max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
+solar inverter with wifi phone app = 4 kw (life = depends) = 200 USD max(availiable all around the world)
+battery = lead battery (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 USD max(availiable all around the world)
 ```
 
 internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
@@ -427,7 +429,7 @@ bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
 
 
-best car in the world = cheapest ev availiable(citroen e-c3) = 15000 usd max (till 2023)
+best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)
 
 
 
@@ -448,27 +450,47 @@ every person should get his own room in a family (not a small room, mind needs m
 Mineral mines
 ----------------
 
-stop diging mines = we dont need metals anymore = natural and carbon fiber parts are used now and more efficient and light weight
+stop diging mines = we dont need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and light weight
 
-stop constructing new roads, new ports, alternate is coming is few years
+stop constructing new roads, bridges, new ports, alternate is coming is few years
 
 
 schemes
 ----------------
 
+gov has no buisness in buisness. convert all gov manufacturing and service to private
+
+shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
+
+reduction of pol muscle and fire and vehicles speed.
+
+banning of paper 
+
+banning of formula 1, formula-e is there
+
 banning of older vehicles
+
+banning of current public transports = reduce vehicle weight and size
+
+banning of trucks, only air drops for defence equipments
+
+army vehicles are not efficient
+
+banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
+shipment = only technology, not everything grow food at your country
 
 free speech
 
 banning of currency notes immidietly and digital apps are already there
 
-shutdown schools and colleges rather sports and art clubs, online apps are enough already.
+abolition of schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already.
+
 
 collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
 
 
-
-
+recycling facility - solar powered small blast furnance
+without battery only morning operations 
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
