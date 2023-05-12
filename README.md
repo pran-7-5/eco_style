@@ -52,9 +52,9 @@ mix above ingridients (no cavity ever)(remember than if you have eaten factory m
 Cleaner (utensils/hair/body/cloths)  
 --------------------------------------------------------------------------------------------
 ```
-body + cloth
+body + cloth(hot water) 
 ------
-Acid wash- lemon/orange/amla juice in hot boiling water
+Acid wash- lemon/orange/amla juice 
 
 Never take shower bath in hot water, especially head wash, not even in winter 
 If it is too cold weather then boil the water to 25° celsius not above
