@@ -436,6 +436,10 @@ bluetooth speaker = apple home/alexa studio/sony srs-xb43
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
+security camera = your own country brands, just infrared vision for night
+
+door lock = design change required by replacing steel with carbon fiber or flax fiber
+
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
 ```
 
@@ -451,13 +455,15 @@ well ancient stucture like rome and temples of india are made of (lime mortar) i
 
 bricks = baked is solar powered furnace
 
-todays cement = modern cement = the CaCO3 is obtained in mining
+todays cement = modern cement = the CaCO3 is obtained by mining
 
 every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
 
 
 Mineral mines
 --------------------------------------------------------------------------------------------
+
+satellite land allocatiion, same for each person
 
 shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
 
@@ -495,8 +501,6 @@ No need for capital and cities. 5G and satellite internet is already here. dispe
 
 wheat, rice, pulses can be bought only. rest grow on your own.
 
-satellite land allocatiion, same for each person
-
 gov has no buisness in buisness. convert all gov manufacturing and service to private
 
 reduction of pol muscle and fire and vehicles speed.
@@ -506,6 +510,10 @@ banning of paper
 free speech
 
 banning of currency notes immidietly and digital apps are already there.
+
+banning of fiber optic cables.
+
+banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole 
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
