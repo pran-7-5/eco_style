@@ -440,6 +440,8 @@ security camera = your own country brands, just infrared vision for night
 
 door lock = design change required by replacing steel with carbon fiber or flax fiber
 
+tv = well tv uses a lot of plastic, portable laser Projector = anker capsule similar
+
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
 ```
 
@@ -458,6 +460,9 @@ bricks = baked is solar powered furnace
 todays cement = modern cement = the CaCO3 is obtained by mining
 
 every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
+
+Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only
+
 
 
 Mineral mines
@@ -521,9 +526,15 @@ A reduced feature phones for children. basic apps, payment and gps.(good for eld
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
+Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in data center another should be peer to peer distributed 
 
+Be careful that even small things can cause lot of pollution
 
+Metal cement petroleum and transportation
 
+Anything linked to this creates pollution
+
+Because these are obtained through mining. 
 
 
 
