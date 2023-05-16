@@ -312,7 +312,15 @@ Smoke(enhance decision making process, decreases the anger)
 ```
 Ganja/bhang (can cure all diseases, it has no side effects or overdose) 
 
-Opium (can cure all diseases but it has overdose so caution is required) 
+Opium (can cure all diseases but it has overdose so caution is required)
+
+Well a disease is an idea, I had panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... U can smoke pot first and then drink alcohol and then smoke again if u want.... 
+
+But if you drink first and then smoke pot... Then you will get a panic attack, well nothing serious just sleep for 1 hr on the spot... Every thing will get normal... Max you will get unconscious
+
+The reason is thc is stronger than alcohol... That means if you smoke first then alcohol will not have effect... 
+
+It is like you eat the less sweet first and then the more sweet item
 
 **Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
 ```
@@ -432,17 +440,19 @@ battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell is 
 
 internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
 
-bluetooth speaker = apple home/alexa studio/sony srs-xb43
+bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exist but profit coming in the way, just need four drivers 
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
-security camera = your own country brands, just infrared vision for night
+security camera = your own country brands, just infrared vision for night, free cloud storage for a week atleast for crime detection, but the data center needs to be secure and in the same country 
 
 door lock = design change required by replacing steel with carbon fiber or flax fiber
 
-tv = well tv uses a lot of plastic, portable laser Projector = anker capsule similar
+tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule similar
 
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
+
+best car is toyota mirai but very expensive write now, coz its life span is 150 years, it is called a forever car.
 ```
 
 
@@ -502,7 +512,7 @@ shipment = only technology, not everything grow food at your country
 schemes
 --------------------------------------------------------------------------------------------
 
-No need for capital and cities. 5G and satellite internet is already here. disperse the crowd
+No need for capital and cities. 5G and satellite internet is already here. disperse the crowd ( new invention required : oneweb to 5G converter technology do not exist)
 
 wheat, rice, pulses can be bought only. rest grow on your own.
 
