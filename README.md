@@ -38,7 +38,7 @@ Clay and leaf is recommend
 **Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
 ```
 
-teeth cleaning
+teeth cleaning (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
 dried ginger powder
@@ -49,7 +49,7 @@ raw unrefined sea salt crystalls
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 ```
 
-Cleaner (utensils/hair/body/cloths)  
+Cleaner (utensils/hair/body/cloths) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
 body + cloth(hot water) 
@@ -504,8 +504,6 @@ shutdown all types of power plants. homes in cities can be power by solar just 1
 
 stop diging mines = we dont need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and light weight
 
-stop constructing new roads, bridges, new ports, alternate is coming is few years
-
 collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
 
 recycling facility - solar powered small blast furnance
@@ -515,6 +513,8 @@ without battery only morning operations
 future of transportation
 --------------------------------------------------------------------------------------------
 ```
+stop constructing new roads, bridges, new ports, alternate is coming is few years 
+
 banning of formula 1, formula-e is there
 
 banning of older vehicles
