@@ -478,7 +478,7 @@ best car is toyota mirai but very expensive write now, coz its life span is 150 
 
 House construction
 --------------------------------------------------------------------------------------------
-
+```
 never build cement house(especially those who live near earthquake zones)
 
 wood and mud combined houses are best and you will be so happy
@@ -492,12 +492,12 @@ todays cement = modern cement = the CaCO3 is obtained by mining
 every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
 
 Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only
-
+```
 
 
 Mineral mines
 --------------------------------------------------------------------------------------------
-
+```
 satellite land allocatiion, same for each person
 
 shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
@@ -510,10 +510,11 @@ collection of existing metal items from common homes to gov offices, except abso
 
 recycling facility - solar powered small blast furnance
 without battery only morning operations 
+```
 
 future of transportation
 --------------------------------------------------------------------------------------------
-
+```
 banning of formula 1, formula-e is there
 
 banning of older vehicles
@@ -528,10 +529,11 @@ army vehicles are not efficient
 
 banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
 shipment = only technology, not everything grow food at your country
+```
 
 schemes
 --------------------------------------------------------------------------------------------
-
+```
 No need for capital and cities. 5G and satellite internet is already here. disperse the crowd ( new invention required : oneweb to 5G converter technology do not exist)
 
 wheat, rice, pulses can be bought only. rest grow on your own.
@@ -565,7 +567,7 @@ Metal cement petroleum and transportation
 Anything linked to this creates pollution
 
 Because these are obtained through mining. 
-
+```
 
 
 
