@@ -127,7 +127,7 @@ Dessert
 ```
 Peda
 Ladoo(boondi/coconut) 
-Brown Rasogola odisha style (jaggery) 
+ 
 Gulab jamun
 
 **Cashew barfi, should be avoided
@@ -177,7 +177,7 @@ Mustard oil
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein 
 -------
 
-Ghee(bilona ghee not factory one)(A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
+Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
 ghee = butter - fat
 
 Butter (A2 milk based)(unsalted)
@@ -322,7 +322,9 @@ The reason is thc is stronger than alcohol... That means if you smoke first then
 
 It is like you eat the less sweet first and then the more sweet item
 
-**Never use ciggarette, cocaine (these are synthetic, inorganic, lab made, lots of chemical
+hemp ciggarette can replace the nicotine(hemp has very low THC than mariju)
+
+**Never use ciggarette(carcinogenic), cocaine (these are synthetic, inorganic, lab made, lots of chemical
 ```
 
 GMO Type use rarely
@@ -344,7 +346,7 @@ Capsicum
 
 Veg pizza
 
-olive/Avocado oil (use rare) 
+olive/Avocado oil 
 ```
 
 
@@ -353,13 +355,13 @@ First shopping
 ```
 Cleaning gloves kitchen+bathroom(ok just this one use plastic)
 
-Toilet brush x 2(ok just this one use plastic)
+Toilet brush x 2(wooden handle)
 
-Scrubbing brush with C type handle x 2(coir)
+Scrubbing brush with C type handle x 2(coir)(wooden handle)
 
-Long mop for wet(cloth instead of sponge)
+Long mop for wet(cloth instead of sponge)(wooden handle)
 
-Broom stick(natural fibers)
+Broom stick(natural fibers)(wooden handle)
 
 Scthbrite x 4(coir)
 
@@ -369,6 +371,7 @@ Garbage bags(dont use these)
 
 
 *******************************************
+should only be used to remove chemical exposure
 
 Vim
 
@@ -392,15 +395,30 @@ Cooking
 ```
 never eat too much at once, eat less but 4 times and if not feeling hungry reduce the previous meal next time ...
 
+cooking time = 15 - 20 minutes MAX, I live at sea level (might need more in few areas like norway or himalayas altitude affects the pressure, population density is low , so no problem)
+
+procedure
+-----------
+rice and dishes
+_______________________
+oil(fat) goes first 
+spices if required
+veges or rice
+close lid 
+boil it 15 mins until done, dont open the lid yet
+fine tuneing the technique, after few rounds you will get the idea
+
+world cooks bread well no need to specify.
+
 Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
 ------------------------|-----------------------------|-----------|-------------|-------------|-----------------------
 Mon                     | puri                        |dalma+rice | murri       | chana sattu |  
 Tue                     | sweet poha                  |dal+rice   | vada        | chana sattu |  
 wed                     | luchi                       |dalma+rice | chuda       | chana sattu |  
 Thur                    | salty poha                  |dal+rice   | noodles     | chana sattu |  
-Fri                     | idli                        |dal+rice   | murri       | chana sattu |  
-Sat                     | dosa                        |pulav      | murri       | chana sattu |  
-Sun                     | vada                        |pulav      | murri       | chana sattu |  
+Fri                     | idli                        |dal+rice   | khoi        | chana sattu |  
+Sat                     | dosa                        |pulav      |             | chana sattu |  
+Sun                     | vada                        |pulav      |             | chana sattu |  
 ```
 
 Appliances
@@ -532,7 +550,7 @@ banning of street lights and pole = solar powered, 20 w LED enough ....should be
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
-A reduced feature phones for children. basic apps, payment and gps.(good for elderly people also)
+pre set adult content filter by google and all
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
