@@ -268,8 +268,10 @@ Merigold oil (scent)
 'Cloth fabric'
 ===========
 
-Cotton
-Silk
+Basic cloths not too much
+
+Cotton(normal)
+Silk(ocassions)
 
 Hemp
 
