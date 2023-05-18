@@ -1,9 +1,21 @@
 # sustainable_lifestyle
 
-`Planet safe`
+`Planet safe``This info will tune your intellect to absolute`
 ============================================================================================
 
 Methods and material are abundant, can be launched immidietly effectively 
+
+Don't approach too fast, may back fire... Slow adaptation.. Not too slow either
+
+You can't change the world without changing your self first. and we can change ourselves.
+
+Can't push the change if alternative is not there find the alternative first.
+
+Don't make rules that can't be enforced. 
+
+If executive comes in way blow the whistle by judiciary.
+
+What we are trying here is to minimize the use of materials that are mined - metal, cement, minerals. As well as inorganic lab made synthetic like plastic. 
 
 utensils
 --------------------------------------------------------------------------------------------
@@ -29,6 +41,8 @@ Dough mixing pot
 strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possibl. 
 
 silicone spatula should be avoided
+
+Just don't use plastic plates
 
 ** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
 ```
@@ -501,6 +515,22 @@ every person should get his own room in a family (not a small room, mind needs m
 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals)
 
+Home decors, are not eco friendly
+
+Wall paints are synthetic
+
+coir mattress only
+
+Ban pencils, clips, pins, pen, clipboard , duct tape
+
+Ban paper towels
+
+Ban the books
+
+Acrylic paints for artworks, canvas from leaf fiber
+
+Children toys are metal, plastic ban it
+
 Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only
 ```
 
@@ -545,6 +575,8 @@ schemes
 --------------------------------------------------------------------------------------------
 ```
 No need for capital and cities. 5G and satellite internet is already here. disperse the crowd ( new invention required : oneweb to 5G converter technology do not exist)
+
+Ban public chairs, seats from cement plastic stone metal by wood only
 
 wheat, rice, pulses can be bought only. rest grow on your own.
 
