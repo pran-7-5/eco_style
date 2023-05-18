@@ -22,17 +22,11 @@ utensils
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash)
 
-100% cast iron wok with lid 3L x 1
-
-cast iron pot with lid for boiling
-
-Flat Pan cast iron
+100% cast iron wok with lid 3L x 1, cast iron pot with lid for boiling, Flat Pan cast iron
 
 neem Wood Board + rolling pin (avoid stone, plastic, metal) 
 
-Knifes big + small (wooden handle is recommend) 
-
-Cutting board wooden (avoid stone, plastic or metal) 
+Knifes big + small (wooden handle is recommend), Cutting board neem wood (avoid stone, plastic or metal) 
 
 Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage) 
 
@@ -58,7 +52,7 @@ Clay and leaf is recommend
 teeth cleaning (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
-dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls
+dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 ```
 
@@ -151,9 +145,7 @@ Almonds, Pistachio, Raisins
 spices
 --------------------------------------------------------------------------------------------
 ```
-Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla
-
-Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
+Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
 
 **garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
 ```
@@ -164,7 +156,6 @@ fat
 Mustard oil (banned by godfather(usa), lift the ban)
 
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein. 
-
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
 **Paneer, raw milk should be avoided
@@ -210,8 +201,7 @@ Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not a
 ==========
 Pure coconut oil/amla (hair oil if you use) 
 
-Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent)
-may be more flowers, needs more research
+Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research
 
 **perfume, deo (lots of chemical) should be avoided
 
@@ -359,6 +349,8 @@ internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch so
 bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exist but profit coming in the way, just need four drivers. 
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
+
+printer = thermal printers(not for every one, save paper)
 
 Ban watches, smartwatches are there.
 
