@@ -26,7 +26,7 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing pot
 
-** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
+** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
 ```
 
 Packaging
