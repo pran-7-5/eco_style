@@ -135,7 +135,7 @@ Mustard paste curries, Mango khatta, Dahi vada
 Dessert
 --------------------------------------------------------------------------------------------
 ```
-Peda, Ladoo(boondi/coconut), Gulab jamun
+Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
 
 **Cashew barfi, should be avoided
 ```
@@ -163,13 +163,9 @@ fat
 ```
 Mustard oil (banned by godfather(usa), lift the ban)
 
-dairy(I am lactose intollerant so keep me out) but these are very good and very high protein 
--------
+dairy(I am lactose intollerant so keep me out) but these are very good and very high protein. 
 
-Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
-ghee = butter - fat
-
-Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
+Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
 **Paneer, raw milk should be avoided
 **Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisions)
@@ -237,6 +233,7 @@ Color- light color
 hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution)
 protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
 
+well more awareness should be provided to girls from young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
 ```
 
 Drinks
@@ -286,7 +283,7 @@ Scthbrite x 4(coir)
 Microfiber bundle(reuse old fabric)
 Garbage bags(dont use these)
 
-should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, Isopropyl alcohol
+should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, acid, Isopropyl alcohol
 ```
 
 Cooking
@@ -326,7 +323,6 @@ Appliances
 ```
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(availiable all around the world)
 
-
 BLDC fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
 
 stove - wood fire, cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(availiable all around the world)
@@ -352,7 +348,6 @@ washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, 
 
 dishwasher(200w) = 5 star inverter = 300 USD max(availiable all around the world)
 
-
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
 solar panel = mono perc [500 w] (life = 25 years) = 300 USD max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
@@ -361,7 +356,7 @@ battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell is 
 
 internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
 
-bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exist but profit coming in the way, just need four drivers 
+bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exist but profit coming in the way, just need four drivers. 
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
@@ -390,7 +385,7 @@ wood and mud combined houses are best and you will be so happy
 
 well ancient stucture like rome and temples of india are made of (lime mortar) it is a natural ecofriendly cement made from baked sea shells picked and collected from sea shore
 
-bricks = baked is solar powered furnace
+bricks = baked is solar powered curing furnace
 
 todays cement = modern cement = the CaCO3 is obtained by mining
 
