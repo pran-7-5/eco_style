@@ -297,6 +297,8 @@ Hemp
 Jeans(factory worker)(takes huge water to manufacture) and h&m  
 I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
 
+Ban collar, ties, coats, and replace zips with buttons.
+
 Well comfort is the first priority, too much tight and skinny cloths should be avoided
 
 Color- light color
@@ -486,6 +488,8 @@ bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speak
 
 phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste)
 
+Ban watches, smartwatches are there.
+
 security camera = your own country brands, just infrared vision for night, free cloud storage for a week atleast for crime detection, but the data center needs to be secure and in the same country 
 
 door lock = design change required by replacing steel with carbon fiber or flax fiber
@@ -578,6 +582,14 @@ No need for capital and cities. 5G and satellite internet is already here. dispe
 
 Ban public chairs, seats from cement plastic stone metal by wood only
 
+Ban glass items
+
+Fans can be made with flax fiber why metal and plastic.
+
+Stop building statues... Planet doesn't even like a stone to be picked up
+
+Stop building dams.
+
 wheat, rice, pulses can be bought only. rest grow on your own.
 
 gov has no buisness in buisness. convert all gov manufacturing and service to private
@@ -593,6 +605,8 @@ banning of currency notes immidietly and digital apps are already there.
 banning of fiber optic cables.
 
 banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole 
+
+Ban the boats except wood and electric ones.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
