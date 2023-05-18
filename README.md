@@ -172,7 +172,7 @@ Dried amla
 fat
 --------------------------------------------------------------------------------------------
 ```
-Mustard oil
+Mustard oil (banned by godfather(us), lift the ban)
 
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein 
 -------
@@ -182,11 +182,11 @@ ghee = butter - fat
 
 Butter (A2 milk based)(unsalted)
 
-Dahi (sour not sweet) 
+Dahi(greek yogurt) (sour not sweet) 
 
 **Paneer, raw milk should be avoided
 
-**Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided
+**Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisions)
 ```
 
 fruits
@@ -206,13 +206,13 @@ Bael
 
 Amla
 
-**Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided
+**Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided (steve jobs died because of this)
 ```
 
 vegetables
 --------------------------------------------------------------------------------------------
 ```
-*** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by workouts so there is no issue.
+*** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by doing excercise so there is no issue.
 
 Koshola saag (other saags should be avoided)
 
@@ -228,7 +228,7 @@ Raddish
 
 Green bananas
 
-Chili ( careful don't buy big gmo ones) 
+green Chili ( careful don't buy big gmo ones) 
 
 Lemon (what to say its magical)
 
@@ -240,7 +240,8 @@ women_specific
 ```
 `Jewelry`
 =======
-gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels
+gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
+avoid gem stones = there is math formula to calculate what is suitable to whom
 
 'Makeup'
 =======
@@ -251,17 +252,17 @@ Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not a
 
 **Henna mehndi is also very bad
 
-
 **Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
 'Fragrance'
 ==========
-Pure coconut oil/amla (hair oil) 
+Pure coconut oil/amla (hair oil if you use) 
 
 Lotus oil (scent) 
 Sandalwood oil (scent)
 Rajnigandha oil (scent)
 Merigold oil (scent)
+may be more, needs more research
 
 **perfume, deo (lots of chemical) should be avoided
 
@@ -274,6 +275,11 @@ Cotton(normal)
 Silk(ocassions)
 
 Hemp
+
+Jeans(factory worker)(takes huge water to manufacture) and h&m  
+I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
+
+Well comfort is the first priority, too much tight and skinny cloths should be avoided
 
 Color- light color
 
@@ -322,7 +328,7 @@ But if you drink first and then smoke pot... Then you will get a panic attack, w
 
 The reason is thc is stronger than alcohol... That means if you smoke first then alcohol will not have effect... 
 
-It is like you eat the less sweet first and then the more sweet item
+It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first
 
 hemp ciggarette can replace the nicotine(hemp has very low THC than mariju)
 
@@ -345,8 +351,6 @@ Corn
 Cashew
 
 Capsicum
-
-Veg pizza
 
 olive/Avocado oil 
 ```
@@ -490,6 +494,8 @@ bricks = baked is solar powered furnace
 todays cement = modern cement = the CaCO3 is obtained by mining
 
 every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
+
+Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals)
 
 Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only
 ```
