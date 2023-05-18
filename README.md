@@ -574,6 +574,8 @@ banning of trucks, only air drops for defence equipments
 
 banning of trains, track maintainace creating too pollution because a lot of metal is required.
 
+Ban the boats except wood and electric ones.
+
 army vehicles are not efficient
 
 banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
@@ -611,8 +613,6 @@ banning of fiber optic cables.
 
 banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole 
 
-Ban the boats except wood and electric ones.
-
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
@@ -626,9 +626,7 @@ Automatic deletion of data = google, Microsoft, meta ... Free up data centers...
 Be careful that even small things can cause lot of pollution
 
 Metal cement petroleum and transportation
-
 Anything linked to this creates pollution
-
 Because these are obtained through mining. 
 ```
 
