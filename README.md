@@ -509,6 +509,8 @@ best car is toyota mirai but very expensive write now, coz its life span is 150 
 House construction
 --------------------------------------------------------------------------------------------
 ```
+satellite land allocatiion, same for each person
+
 never build cement house(especially those who live near earthquake zones)
 
 wood and mud combined houses are best and you will be so happy
@@ -546,7 +548,6 @@ Ban on Fences are important- wire, metal, wall, wood should be avoided... Can pl
 Mineral mines
 --------------------------------------------------------------------------------------------
 ```
-satellite land allocatiion, same for each person
 
 shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
 
