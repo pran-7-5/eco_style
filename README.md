@@ -300,7 +300,7 @@ Lemonade
 Fruit juice (Grape, mango, sugarcane, orange) 
 Coconut water
 
-** all type of suppliments(you don't need them=expensive urine)Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous
+** all type of suppliments(you don't need them=expensive urine)Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors)
 ```
 
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
@@ -318,7 +318,7 @@ Wheat beer (only available in Germany)
 Smoke(enhance decision making process, decreases the anger) 
 --------------------------------------------------------------------------------------------
 ```
-Ganja/bhang (can cure all diseases, it has no side effects or overdose) 
+Ganja/bhang (can cure all diseases, it has no side effects or overdose) (brain has canabidol receptors by default)
 
 Opium (can cure all diseases but it has overdose so caution is required)
 
