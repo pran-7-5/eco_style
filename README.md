@@ -190,7 +190,7 @@ Dried amla
 fat
 --------------------------------------------------------------------------------------------
 ```
-Mustard oil (banned by godfather(us), lift the ban)
+Mustard oil (banned by godfather(usa), lift the ban)
 
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein 
 -------
@@ -320,7 +320,7 @@ Lemonade
 Fruit juice (Grape, mango, sugarcane, orange) 
 Coconut water
 
-** all type of suppliments(you don't need them=expensive urine)Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors)
+** all type of suppliments(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors).
 ```
 
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
@@ -611,6 +611,8 @@ banning of fiber optic cables.
 banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole 
 
 Ban the boats except wood and electric ones.
+
+The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
