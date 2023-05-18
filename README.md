@@ -8,7 +8,7 @@ Methods and material are abundant, can be launched immidietly effectively
 utensils
 --------------------------------------------------------------------------------------------
 ```
-Only unglazed clay and 100 % cast iron(not cast iron alloy) utensils should be used
+Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash)
 
 100% cast iron wok with lid 3L x 1
 
@@ -26,7 +26,7 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing pot
 
-** non-stick teflon, aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
+** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
 ```
 
 Packaging
@@ -61,7 +61,7 @@ If it is too cold weather then boil the water to 25° celsius not above
 
 Base wash - turmeric/neem in hot boiling water(base wash should be avoided in case of cloths specially white color)
 
-utensils
+cast iron utensils
 ----------
 neutral Salt wash - sea salt in hot boiling water
 
