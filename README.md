@@ -1,11 +1,11 @@
 # sustainable_lifestyle
 
-`Planet safe``This info will tune your intellect to absolute`
+`Planet safe This info will tune your intellect to absolute`
 ============================================================================================
 
-Methods and material are abundant, can be launched immidietly effectively 
+Methods and material are abundant, can be launched immidietly effectively. 
 
-Don't approach too fast, may back fire... Slow adaptation.. Not too slow either
+Don't approach too fast, may back fire... Slow adaptation.. Not too slow either.
 
 You can't change the world without changing your self first. and we can change ourselves.
 
@@ -457,6 +457,10 @@ LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color 
 BLDC fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
 
 stove - wood fire, cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(availiable all around the world)
+
+microwave and other ovens - stainless steel and teflon coating inside, very dangerous
+
+mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these 
 
 water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells)....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
 
