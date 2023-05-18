@@ -52,18 +52,13 @@ Packaging
 ```
 Clay and leaf is recommend
 
-
 **Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
 ```
 
 teeth cleaning (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
-dried ginger powder
-dried amla powder
-dried turmeric powder
-dried clove powder
-raw unrefined sea salt crystalls
+dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 ```
 
@@ -82,7 +77,6 @@ Base wash - turmeric/neem in hot boiling water(base wash should be avoided in ca
 cast iron utensils
 ----------
 neutral Salt wash - sea salt in hot boiling water
-
 
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 ```
@@ -135,18 +129,13 @@ Misri (crystall raw unrefined sugarcane)
 other food items
 --------------------------------------------------------------------------------------------
 ```
-Mustard paste curries 
-Mango khatta
-Dahi vada
+Mustard paste curries, Mango khatta, Dahi vada
 ```
 
 Dessert
 --------------------------------------------------------------------------------------------
 ```
-Peda
-Ladoo(boondi/coconut) 
- 
-Gulab jamun
+Peda, Ladoo(boondi/coconut), Gulab jamun
 
 **Cashew barfi, should be avoided
 ```
@@ -154,11 +143,7 @@ Gulab jamun
 dry fruits
 --------------------------------------------------------------------------------------------
 ```
-Almonds
-
-Pistachio
-
-Raisins
+Almonds, Pistachio, Raisins
 
 **Avoid walnut, cashew, peanut, dates
 ```
@@ -166,23 +151,9 @@ Raisins
 spices
 --------------------------------------------------------------------------------------------
 ```
-Hing
-
-Mustard seeds
-
-Turmeric whole
-
-Clove whole
-
-Ginger whole
-
-Fennel seeds
+Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla
 
 Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
-
-Dried mango
-
-Dried amla
 
 **garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
 ```
@@ -198,31 +169,16 @@ dairy(I am lactose intollerant so keep me out) but these are very good and very 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species) 
 ghee = butter - fat
 
-Butter (A2 milk based)(unsalted)
-
-Dahi(greek yogurt) (sour not sweet) 
+Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
 **Paneer, raw milk should be avoided
-
 **Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisions)
 ```
 
 fruits
 --------------------------------------------------------------------------------------------
 ```
-Orange
-
-Bananas (big ones are gmo) 
-
-Green Grapes  (dark grapes are gmo) 
-
-Coconut
-
-Mangoes (avoid Alphonso it's gmo) 
-
-Bael
-
-Amla
+Orange, Bananas (big ones are gmo), Green Grapes  (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
 
 **Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided (steve jobs died because of this)
 ```
@@ -232,25 +188,9 @@ vegetables
 ```
 *** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by doing excercise so there is no issue.
 
-Koshola saag (other saags should be avoided)
+Koshola saag (other saags should be avoided), Pumpkin (very big ones are gmo), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is gmo), Raddish, Green bananas, green Chili ( careful don't buy big gmo ones), Lemon (what to say its magical)
 
-Pumpkin (very big ones are gmo) 
-
-Potal
-
-Sweet potato
-
-Baigan(only one in a day not more, and small one not big one, big one is gmo) 
-
-Raddish
-
-Green bananas
-
-green Chili ( careful don't buy big gmo ones) 
-
-Lemon (what to say its magical)
-
-**Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, beans should be avoided
+**Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans should be avoided
 ```
 
 women_specific
@@ -267,48 +207,34 @@ Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not a
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
 
 **Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
-
 **Henna mehndi is also very bad
-
 **Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
 'Fragrance'
 ==========
 Pure coconut oil/amla (hair oil if you use) 
 
-Lotus oil (scent) 
-Sandalwood oil (scent)
-Rajnigandha oil (scent)
-Merigold oil (scent)
-may be more, needs more research
+Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent)
+may be more flowers, needs more research
 
 **perfume, deo (lots of chemical) should be avoided
 
 'Cloth fabric'
 ===========
 
-Basic cloths not too much
-
-Cotton(normal)
-Silk(ocassions)
-
-Hemp
+Cotton(normal), Silk(ocassions), Hemp
 
 Jeans(factory worker)(takes huge water to manufacture) and h&m  
 I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
 
 Ban collar, ties, coats, and replace zips with buttons.
-
 Well comfort is the first priority, too much tight and skinny cloths should be avoided
 
 Color- light color
-
 **dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
-
 ** elastane, spandex, linen, polyester, should be avoided
 
 hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution)
-
 protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
 
 ```
@@ -316,9 +242,7 @@ protection = non lubricated condoms (example brand = trojan)(lubricated = chemic
 Drinks
 --------------------------------------------------------------------------------------------
 ```
-Lemonade
-Fruit juice (Grape, mango, sugarcane, orange) 
-Coconut water
+Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water
 
 ** all type of suppliments(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors).
 ```
@@ -326,11 +250,7 @@ Coconut water
 Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
 --------------------------------------------------------------------------------------------
 ```
-White wine (green grapes) 
-
-Rum (sugarcane) 
-
-Wheat beer (only available in Germany) 
+White wine (green grapes), Rum (sugarcane), Wheat beer (only available in Germany) 
 
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided
 ```
@@ -339,7 +259,6 @@ Smoke(enhance decision making process, decreases the anger)
 --------------------------------------------------------------------------------------------
 ```
 Ganja/bhang (can cure all diseases, it has no side effects or overdose) (brain has canabidol receptors by default)
-
 Opium (can cure all diseases but it has overdose so caution is required)
 
 Well a disease is an idea, I had panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... U can smoke pot first and then drink alcohol and then smoke again if u want.... 
@@ -355,65 +274,19 @@ hemp ciggarette can replace the nicotine(hemp has very low THC than mariju)
 **Never use ciggarette(carcinogenic), cocaine (these are synthetic, inorganic, lab made, lots of chemical
 ```
 
-GMO Type use rarely
---------------------------------------------------------------------------------------------
-```
-Peas
-
-Carrots
-
-Beans
-
-Potato (brownies/fries) 
-
-Corn
-
-Cashew
-
-Capsicum
-
-olive/Avocado oil 
-```
-
-
 First shopping
 --------------------------------------------------------------------------------------------
 ```
 Cleaning gloves kitchen+bathroom(ok just this one use plastic)
-
 Toilet brush x 2(wooden handle)
-
 Scrubbing brush with C type handle x 2(coir)(wooden handle)
-
 Long mop for wet(cloth instead of sponge)(wooden handle)
-
 Broom stick(natural fibers)(wooden handle)
-
 Scthbrite x 4(coir)
-
 Microfiber bundle(reuse old fabric)
-
 Garbage bags(dont use these)
 
-
-*******************************************
-should only be used to remove chemical exposure
-
-Vim
-
-Surf 
-
-Harpic
-
-Lysol
-
-Isopropyl alcohol
-
-*******************************************
-
-Mattress cover 
-
-Mattress topper 
+should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, Isopropyl alcohol
 ```
 
 Cooking
