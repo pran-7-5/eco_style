@@ -10,11 +10,11 @@ utensils
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy) utensils should be used
 
-100% cast iron kadhai/wok with lid 3L x 1
+100% cast iron wok with lid 3L x 1
 
-Pressure cooker 3L x 1  only for boiling (saves lot of energy) ( it's aluminum not ideal but alternative is not available right, now don't scratch inside or don't use metal spatula. Anodized metal is also not good or stainless steel. 
+cast iron pot with lid for boiling
 
-Flat Pan/ tawa cast iron
+Flat Pan cast iron
 
 neem Wood Board + rolling pin (avoid stone, plastic, metal) 
 
@@ -24,9 +24,9 @@ Cutting board wooden (avoid stone, plastic or metal)
 
 Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage) 
 
-Dough mixing bowl
+Dough mixing pot
 
-** aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
+** non-stick teflon, aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to AlO3 and CuSO4. ceramic has paint.
 ```
 
 Packaging
@@ -54,7 +54,7 @@ Cleaner (utensils/hair/body/cloths) (wont work if exposed to chemicals, use the 
 ```
 body + cloth(hot water) 
 ------
-Acid wash- lemon/orange/amla juice 
+Acid wash- lemon/orange/amla juice (squeezing the actual fruit not buying juice bottle from market) 
 
 Never take shower bath in hot water, especially head wash, not even in winter 
 If it is too cold weather then boil the water to 25° celsius not above
