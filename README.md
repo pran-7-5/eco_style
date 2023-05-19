@@ -80,42 +80,24 @@ grocery
 ```
 Gmo- genetically modified organisms
 
-Rice (dosa, idli, vada) (kheer)= key ingridients (complex carbohydrates) good for body 
-Avoid basmati it's gmo
+complex carbohydrates
+Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer 
+Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
 
-Wheat (atta, maida, suji) = key ingridients (complex carbohydrates) good for body  
+plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/besan],  [unpolished Biri/urad dal = dosa/idli/ vada] 
 
-arhar Dal(dalma) = key ingridients (plant proteins) good for body 
-
-Moong dal(dalma/ saag mung dal)= key ingridients (plant proteins) good for body 
-
-Chana dal(dalma)(besan) = key ingridients (plant proteins) good for body 
-
-Biri/urad dal(dosa, idli, vada)= key ingridients (plant proteins) good for body 
-
-Atta (puri/paratha) 
-
-Maida (luchi/roll paratha/kachori/nimki/pani puri/noodles) 
-
+ 
 Besan (pakoda) 
-
 Noodles
-
 Pampad
-
 Achar pickle(mango/amla/lemon/chili/ginger) 
+Sooji()
 
-Sooji(dosa, idli, vada,upma/) (kheer)
-
-Chudda(poha) 
-
+Chudda(poha)(flattened rice) 
 Muddi(puffed rice) (jhal murri) 
-
 Ukhudda(popped rice) (khoi)
 
-Jaggery(raw unrefined sugarcane)
-
-Misri (crystall raw unrefined sugarcane)
+Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
 
 **masoor dal, refined sugar should be avoided
 ```
