@@ -46,7 +46,7 @@ Clay and leaf is recommend
 Cleaner (utensils/hair/body/cloths/teeth) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 
-teeth cleaning (wont work if exposed to chemicals, use the normal soap) = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
+teeth cleaning = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 
 body + cloth(hot water) 
@@ -121,32 +121,21 @@ Koshola saag (other saags should be avoided), Pumpkin (very big ones are gmo), P
 
 women_specific
 --------------------------------------------------------------------------------------------
-`Jewelry`
-=======
-gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
+Jewelry = gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
 avoid gem stones = there is math formula to calculate what is suitable to whom
 
-'Makeup'
-=======
-Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
+Makeup = Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
 
 ** Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
 ** Henna mehndi is also very bad
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
-'Fragrance'
-==========
-Pure coconut oil/amla (hair oil if you use) 
-
-Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research
+Fragrance = Pure coconut oil/amla (hair oil if you use), Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research
 
 ** perfume, deo (lots of chemical) should be avoided
 
-'Cloth fabric'
-===========
-
-Cotton(normal), Silk(ocassions), Hemp
+Cloth fabric = Cotton(normal), Silk(ocassions), Hemp
 
 Jeans(factory worker)(takes huge water to manufacture) and h&m  
 I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
@@ -164,27 +153,17 @@ protection = non lubricated condoms (example brand = trojan)(lubricated = chemic
 well more awareness should be provided to girls from young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
 
 
-Drinks
---------------------------------------------------------------------------------------------
-```
-Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water
+Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water
 
 ** all type of suppliments(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors).
-```
 
-Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) 
---------------------------------------------------------------------------------------------
-```
-White wine (green grapes), Rum (sugarcane), Wheat beer (only available in Germany) 
+
+Alcohol (decision making ability is affected and leads to poor judgement, enhance the anger) = White wine (green grapes), Rum (sugarcane), Wheat beer (only available in Germany) 
 
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided
-```
 
-Smoke(enhance decision making process, decreases the anger) 
---------------------------------------------------------------------------------------------
-```
-Ganja/bhang (can cure all diseases, it has no side effects or overdose) (brain has canabidol receptors by default)
-Opium (can cure all diseases but it has overdose so caution is required)
+
+Smoke(enhance decision making process, decreases the anger) = Ganja/bhang (can cure all diseases, it has no side effects or overdose) (brain has canabidol receptors by default), Opium (can cure all diseases but it has overdose so caution is required)
 
 Well a disease is an idea, I had panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... U can smoke pot first and then drink alcohol and then smoke again if u want.... 
 
@@ -244,10 +223,7 @@ Fri                     | idli                        |dal+rice   | khoi        
 Sat                     | dosa                        |pulav      |             | chana sattu |  
 Sun                     | vada                        |pulav      |             | chana sattu |  
 
-other food items
---------------------------------------------------------------------------------------------
-Mustard paste curries, Mango khatta, Dahi vada
-
+other food items = Mustard paste curries, Mango khatta, Dahi vada
 ```
 
 Appliances
