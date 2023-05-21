@@ -43,14 +43,12 @@ Clay and leaf is recommend
 ** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
 
 
-teeth cleaning (wont work if exposed to chemicals, use the normal soap)
+Cleaner (utensils/hair/body/cloths/teeth) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
-dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
+
+teeth cleaning (wont work if exposed to chemicals, use the normal soap) = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 
-
-Cleaner (utensils/hair/body/cloths) (wont work if exposed to chemicals, use the normal soap)
---------------------------------------------------------------------------------------------
 body + cloth(hot water) 
 ------
 Acid wash- lemon/orange/amla juice (squeezing the actual fruit not buying juice bottle from market) 
@@ -72,50 +70,31 @@ grocery
 Gmo- genetically modified organisms
 
 complex carbohydrates
-Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/poha/jhal murri/khoi 
-Chudda(poha)(flattened rice), Muddi(puffed rice) (jhal murri), Ukhudda(popped rice) (khoi)
+Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/Chudda(poha)(flattened rice)/Muddi(puffed rice)(jhal murri)/Ukhudda(popped rice)(khoi)
 
 Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
 
-plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/besan],  [unpolished Biri/urad dal = dosa/idli/ vada] 
+plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/besan/pampad],  [unpolished Biri/urad dal = dosa/idli/ vada] 
 
- 
-Besan (pakoda), Noodles, Pampad, Achar pickle(mango/amla/lemon/chili/ginger) 
+Achar pickle(mango/amla/lemon/chili/ginger) 
 
 Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
 
 ** masoor dal, refined sugar should be avoided
 
-
-other food items
---------------------------------------------------------------------------------------------
-Mustard paste curries, Mango khatta, Dahi vada
-
-
-Dessert
---------------------------------------------------------------------------------------------
-Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
+Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
 
 ** Cashew barfi, should be avoided
 
-
-dry fruits
---------------------------------------------------------------------------------------------
-Almonds, Pistachio, Raisins
+dry fruits = Almonds, Pistachio, Raisins
 
 ** Avoid walnut, cashew, peanut, dates
 
-
-spices
---------------------------------------------------------------------------------------------
-Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
+spices = Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
 
 ** garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
 
-
-fat
---------------------------------------------------------------------------------------------
-Mustard oil (banned by godfather(usa), lift the ban)
+fat = Mustard oil (banned by godfather(usa), lift the ban)
 
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein. 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
@@ -264,6 +243,11 @@ Thur                    | salty poha                  |dal+rice   | noodles     
 Fri                     | idli                        |dal+rice   | khoi        | chana sattu |  
 Sat                     | dosa                        |pulav      |             | chana sattu |  
 Sun                     | vada                        |pulav      |             | chana sattu |  
+
+other food items
+--------------------------------------------------------------------------------------------
+Mustard paste curries, Mango khatta, Dahi vada
+
 ```
 
 Appliances
