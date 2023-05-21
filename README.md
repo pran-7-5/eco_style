@@ -31,13 +31,9 @@ Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage)
 
 Dough mixing pot
 
-strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possibl. 
+strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possible. 
 
-silicone spatula should be avoided
-
-Just don't use plastic plates
-
-** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
+** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
 
 
 Packaging
@@ -76,21 +72,15 @@ grocery
 Gmo- genetically modified organisms
 
 complex carbohydrates
-Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer 
+Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/poha/jhal murri/khoi 
+Chudda(poha)(flattened rice), Muddi(puffed rice) (jhal murri), Ukhudda(popped rice) (khoi)
+
 Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
 
 plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/besan],  [unpolished Biri/urad dal = dosa/idli/ vada] 
 
  
-Besan (pakoda) 
-Noodles
-Pampad
-Achar pickle(mango/amla/lemon/chili/ginger) 
-Sooji()
-
-Chudda(poha)(flattened rice) 
-Muddi(puffed rice) (jhal murri) 
-Ukhudda(popped rice) (khoi)
+Besan (pakoda), Noodles, Pampad, Achar pickle(mango/amla/lemon/chili/ginger) 
 
 Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
 
