@@ -19,7 +19,6 @@ What we are trying here is to minimize the use of materials that are mined - met
 
 utensils
 --------------------------------------------------------------------------------------------
-```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash)
 
 100% cast iron wok with lid 3L x 1, cast iron pot with lid for boiling, Flat Pan cast iron
@@ -39,26 +38,23 @@ silicone spatula should be avoided
 Just don't use plastic plates
 
 ** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
-```
+
 
 Packaging
 --------------------------------------------------------------------------------------------
-```
 Clay and leaf is recommend
 
-**Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
-```
+** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
+
 
 teeth cleaning (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
-```
 dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
-```
+
 
 Cleaner (utensils/hair/body/cloths) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
-```
 body + cloth(hot water) 
 ------
 Acid wash- lemon/orange/amla juice (squeezing the actual fruit not buying juice bottle from market) 
@@ -73,11 +69,10 @@ cast iron utensils
 neutral Salt wash - sea salt in hot boiling water
 
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
-```
+
 
 grocery
 --------------------------------------------------------------------------------------------
-```
 Gmo- genetically modified organisms
 
 complex carbohydrates
@@ -99,8 +94,8 @@ Ukhudda(popped rice) (khoi)
 
 Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
 
-**masoor dal, refined sugar should be avoided
-```
+** masoor dal, refined sugar should be avoided
+
 
 other food items
 --------------------------------------------------------------------------------------------
