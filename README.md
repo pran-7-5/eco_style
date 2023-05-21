@@ -99,67 +99,59 @@ Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
 
 other food items
 --------------------------------------------------------------------------------------------
-```
 Mustard paste curries, Mango khatta, Dahi vada
-```
+
 
 Dessert
 --------------------------------------------------------------------------------------------
-```
 Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
 
-**Cashew barfi, should be avoided
-```
+** Cashew barfi, should be avoided
+
 
 dry fruits
 --------------------------------------------------------------------------------------------
-```
 Almonds, Pistachio, Raisins
 
-**Avoid walnut, cashew, peanut, dates
-```
+** Avoid walnut, cashew, peanut, dates
+
 
 spices
 --------------------------------------------------------------------------------------------
-```
 Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
 
-**garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
-```
+** garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
+
 
 fat
 --------------------------------------------------------------------------------------------
-```
 Mustard oil (banned by godfather(usa), lift the ban)
 
 dairy(I am lactose intollerant so keep me out) but these are very good and very high protein. 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
-**Paneer, raw milk should be avoided
-**Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisions)
-```
+** Paneer, raw milk should be avoided
+** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisions)
+
 
 fruits
 --------------------------------------------------------------------------------------------
-```
 Orange, Bananas (big ones are gmo), Green Grapes  (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
 
-**Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided (steve jobs died because of this)
-```
+** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided (steve jobs died because of this)
+
 
 vegetables
 --------------------------------------------------------------------------------------------
-```
 *** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by doing excercise so there is no issue.
 
 Koshola saag (other saags should be avoided), Pumpkin (very big ones are gmo), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is gmo), Raddish, Green bananas, green Chili ( careful don't buy big gmo ones), Lemon (what to say its magical)
 
-**Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans should be avoided
-```
+** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans should be avoided
+
 
 women_specific
 --------------------------------------------------------------------------------------------
-```
 `Jewelry`
 =======
 gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
@@ -170,9 +162,9 @@ avoid gem stones = there is math formula to calculate what is suitable to whom
 Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
  alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
 
-**Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
-**Henna mehndi is also very bad
-**Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
+** Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
+** Henna mehndi is also very bad
+** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
 'Fragrance'
 ==========
@@ -180,7 +172,7 @@ Pure coconut oil/amla (hair oil if you use)
 
 Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research
 
-**perfume, deo (lots of chemical) should be avoided
+** perfume, deo (lots of chemical) should be avoided
 
 'Cloth fabric'
 ===========
@@ -194,14 +186,14 @@ Ban collar, ties, coats, and replace zips with buttons.
 Well comfort is the first priority, too much tight and skinny cloths should be avoided
 
 Color- light color
-**dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
+** dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
 ** elastane, spandex, linen, polyester, should be avoided
 
 hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution)
 protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
 
 well more awareness should be provided to girls from young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
-```
+
 
 Drinks
 --------------------------------------------------------------------------------------------
