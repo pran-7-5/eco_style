@@ -281,7 +281,7 @@ tv = well tv uses a lot of plastic, portable laser Projector are future = anker 
 
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
 
-best car is toyota mirai but very expensive write now, coz its life span is 150 years, it is called a forever car.
+best car is toyota mirai but very expensive write now, coz its life span is 100 years, it is called a forever car.
 ```
 
 
