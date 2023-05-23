@@ -77,7 +77,7 @@ Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/Chudda(poha)(fl
 
 Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
 
-plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/besan/pampad],  [unpolished Biri/urad dal = dosa/idli/ vada] 
+plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/sattu/besan/pampad],  [unpolished Biri/urad dal = dosa/idli/ vada] 
 
 Achar pickle(mango/amla/lemon/chili/ginger) 
 
@@ -99,7 +99,7 @@ spices = Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel 
 
 fat = Mustard oil (banned by godfather(usa), lift the ban)
 
-dairy(I am lactose intollerant so keep me out) but these are very good and very high protein. 
+dairy(very difficult to get these, should be avoided) but these are very good and very high protein. 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
 ** Paneer, raw milk should be avoided
@@ -108,7 +108,7 @@ Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = but
 
 fruits
 --------------------------------------------------------------------------------------------
-Orange, Bananas (big ones are gmo), Green Grapes  (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
+Orange, Bananas (big ones are gmo), Green Grapes (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (steve jobs died because of this, he didnt know which fruit to eat).
 
@@ -139,10 +139,10 @@ Fragrance = Pure coconut oil/amla (hair oil if you use), Lotus oil (scent), Sand
 
 ** perfume, deo (lots of chemical) should be avoided
 
-Cloth fabric = Cotton(normal), Silk(ocassions), Hemp
+Cloth fabric = Cotton(everyday), Silk(ocassions), Hemp
 
-Jeans(factory worker)(takes huge water to manufacture) and h&m  
-I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
+** Jeans(factory worker)(takes huge water to manufacture) and h&m should be avoided 
+** I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
 
 Ban collar, ties, coats, and replace zips with buttons.
 Well comfort is the first priority, too much tight and skinny cloths should be avoided
@@ -151,8 +151,8 @@ Color- light color
 ** dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
 ** elastane, spandex, linen, polyester, should be avoided
 
-hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution)
-protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
+hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution) = https://www.amazon.in/Sirona-Reusable-Sanitary-Pads-Women/dp/B09ZDSZQG6/ref=sr_1_6?crid=1UC5YMYVQB50S&keywords=reusable+pads+for+women&qid=1684813278&sprefix=reus%2Caps%2C305&sr=8-6
+protection = non lubricated condoms (example brand = trojan)(lubricated = chemical) = https://www.amazon.in/Trojan-ENZ-Non-Lubricated-Condoms-Count/dp/B0001Q6DEU
 
 well more awareness should be provided to girls from young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
 ```
@@ -220,15 +220,15 @@ fine tuneing the technique, after few rounds you will get the idea
 
 world cooks bread well no need to specify.
 
-Day                     | BreakF                      | Lunch     | Snacks      |  Dinner     | Conclusion
-------------------------|-----------------------------|-----------|-------------|-------------|-----------------------
-Mon                     | puri                        |dalma+rice | murri       | chana sattu |  
-Tue                     | sweet poha                  |dal+rice   | vada        | chana sattu |  
-wed                     | luchi                       |dalma+rice | chuda       | chana sattu |  
-Thur                    | salty poha                  |dal+rice   | noodles     | chana sattu |  
-Fri                     | idli                        |pulav      | khoi        | chana sattu |  
-Sat                     | dosa                        |dal+rice   |             | chana sattu |  
-Sun                     | vada                        |pulav      |             | chana sattu |  
+Day                     | BreakF                      | Lunch                              | Snacks      |  Dinner     | Conclusion
+------------------------|-----------------------------|------------------------------------|-------------|-------------|-----------------------
+Mon                     | puri                        |dalma+rice                          | murri       |       sattu |  
+Tue                     | sweet poha                  |dal+rice+saag                       | vada        |       sattu |  
+wed                     | luchi                       |dalma+rice                          | chuda       |       sattu |  
+Thur                    | salty poha                  |dal+rice+mustard sauce dish         | noodles     |       sattu |  
+Fri                     | idli                        |pulav                               | khoi        |       sattu |  
+Sat                     | dosa                        |dal+rice+                           |             |       sattu |  
+Sun                     | vada                        |pulav                               |             |       sattu |  
 
 other food items = Mustard paste curries, Mango khatta, Dahi vada
 ```
