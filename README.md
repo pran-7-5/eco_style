@@ -234,7 +234,6 @@ other food items = Mustard paste curries, Mango khatta, Dahi vada
 ```
 
 Appliances
-
 --------------------------------------------------------------------------------------------
 ```
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(availiable all around the world)
