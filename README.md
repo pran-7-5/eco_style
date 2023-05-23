@@ -19,6 +19,7 @@ What we are trying here is to minimize the use of materials that are mined - met
 
 utensils
 --------------------------------------------------------------------------------------------
+```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash)
 
 100% cast iron wok with lid 3L x 1, cast iron pot with lid for boiling, Flat Pan cast iron
@@ -41,11 +42,11 @@ Packaging
 Clay and leaf is recommend
 
 ** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided) 
-
+```
 
 Cleaner (utensils/hair/body/cloths/teeth) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
-
+```
 teeth cleaning = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 
@@ -63,13 +64,15 @@ cast iron utensils
 neutral Salt wash - sea salt in hot boiling water
 
 ** vim, rin, surf, tide, soap, shampoo, handwash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
-
+```
 
 grocery
 --------------------------------------------------------------------------------------------
+```
 Gmo- genetically modified organisms
 
 complex carbohydrates
+
 Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/Chudda(poha)(flattened rice)/Muddi(puffed rice)(jhal murri)/Ukhudda(popped rice)(khoi)
 
 Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
@@ -107,7 +110,7 @@ fruits
 --------------------------------------------------------------------------------------------
 Orange, Bananas (big ones are gmo), Green Grapes  (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
 
-** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry should be avoided (steve jobs died because of this)
+** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (steve jobs died because of this, he didnt know which fruit to eat).
 
 
 vegetables
@@ -116,11 +119,12 @@ vegetables
 
 Koshola saag (other saags should be avoided), Pumpkin (very big ones are gmo), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is gmo), Raddish, Green bananas, green Chili ( careful don't buy big gmo ones), Lemon (what to say its magical)
 
-** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans should be avoided
-
+** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
+```
 
 women_specific
 --------------------------------------------------------------------------------------------
+```
 Jewelry = gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
 avoid gem stones = there is math formula to calculate what is suitable to whom
 
@@ -151,8 +155,11 @@ hygiene= reusable cotton pads (normal is ok for outside purposes but creating po
 protection = non lubricated condoms (example brand = trojan)(lubricated = chemical)
 
 well more awareness should be provided to girls from young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
+```
 
-
+Drinks
+--------------------------------------------------------------------------------------------
+```
 Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water
 
 ** all type of suppliments(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors).
@@ -219,8 +226,8 @@ Mon                     | puri                        |dalma+rice | murri       
 Tue                     | sweet poha                  |dal+rice   | vada        | chana sattu |  
 wed                     | luchi                       |dalma+rice | chuda       | chana sattu |  
 Thur                    | salty poha                  |dal+rice   | noodles     | chana sattu |  
-Fri                     | idli                        |dal+rice   | khoi        | chana sattu |  
-Sat                     | dosa                        |pulav      |             | chana sattu |  
+Fri                     | idli                        |pulav      | khoi        | chana sattu |  
+Sat                     | dosa                        |dal+rice   |             | chana sattu |  
 Sun                     | vada                        |pulav      |             | chana sattu |  
 
 other food items = Mustard paste curries, Mango khatta, Dahi vada
