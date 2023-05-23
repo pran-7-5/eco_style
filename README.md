@@ -1,6 +1,6 @@
 # sustainable_lifestyle
 
-`Planet safe This info will tune your intellect to absolute`
+`Planet safe. This info will tune your mind to absolute intellect`
 ============================================================================================
 
 Methods and material are abundant, can be launched immidietly effectively. 
@@ -39,6 +39,7 @@ Knifes big + small (wooden handle is recommend), Cutting board neem wood (avoid 
 Dough mixing pot stainless steel
 
 strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possible. 
+
 
 ** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
 
@@ -79,29 +80,41 @@ Gmo- genetically modified organisms
 
 complex carbohydrates
 
-Rice (white rice)(Avoid basmati it's gmo) = dosa/idli/vada/kheer/Chudda(poha)(flattened rice)/Muddi(puffed rice)(jhal murri)/Ukhudda(popped rice)(khoi)
+Rice (white rice) = dosa/idli/vada/kheer (Avoid basmati rice it's gmo)
+Chudda(poha)(flattened rice) = sweet poha, salty poha
+Muddi(puffed rice) = jhal murri
+khoi(popped rice) = Ukhudda
 
-Wheat =  [atta(brown flour) puri/paratha],  [maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles]  ,  [suji = dosa/idli/vada/upma/kheer]   
+** red, black, brown are GMO should be avoided
 
-plant proteins = [unpolished arhar Dal = dal/dalma ],  [unpolished Moong dal = dalma/ saag mung/ dal],  [unpolished Chana dal = dal/dalma/sattu/besan/pampad],  [unpolished Biri/urad dal = dosa/idli/ vada] 
+Wheat =  
+atta(brown flour) puri/paratha
+maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles/pizza
+suji(wheat granules) = dosa/idli/vada/upma/kheer
 
-Achar pickle(mango/amla/lemon/chili/ginger) 
-
-Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
+plant proteins = 
+unpolished arhar Dal(lentils/ legume) = dal/dalma 
+unpolished Moong dal = dalma/ saag mung/ dal
+unpolished Chana dal = dal/dalma/sattu/besan/pampad
+unpolished Biri/urad dal = dosa/idli/ vada
 
 ** masoor dal, refined sugar should be avoided
 
-Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
 
-** Cashew barfi, should be avoided
+Achar (pickle) = mango/amla/lemon/chili/ginger
+
+Jaggery(raw unrefined sugarcane), Misri (crystall raw unrefined sugarcane)
+
 
 dry fruits = Almonds, Pistachio, Raisins
 
 ** Avoid walnut, cashew, peanut, dates
 
+
 spices = Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
 
 ** garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
+
 
 fat = Mustard oil (banned by godfather(usa), lift the ban)
 
@@ -134,18 +147,24 @@ women_specific
 Jewelry = gold, silver, diamond, sea shells, pearl(not compatible for everyone), rudraaksh, wood,  feathers)  don't use plastic or other metal jewels.
 avoid gem stones = there is math formula to calculate what is suitable to whom
 
-Makeup = Nail polish (ancient alta was used for mehndi, lipstick and blush) but are not available today in markets but can be homemade. 
- alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure needs more research
+Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
+ alta available in market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either one, not sure about formula needs more research(million dollar startup idea)
 
 ** Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
 ** Henna mehndi is also very bad
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
 
-Fragrance = Pure coconut oil/amla (hair oil if you use), Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research
+hair oil if you use = Pure coconut oil/amla
+
+Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Merigold oil (scent), may be more flowers needs more research.
 
 ** perfume, deo (lots of chemical) should be avoided
 
 Cloth fabric = Cotton(everyday), Silk(ocassions), Hemp
+
+Color- light color
+** dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
+** elastane, spandex, linen, polyester, should be avoided
 
 ** Jeans(factory worker)(takes huge water to manufacture) and h&m should be avoided 
 ** I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And weather is hot already
@@ -153,9 +172,7 @@ Cloth fabric = Cotton(everyday), Silk(ocassions), Hemp
 Ban collar, ties, coats, and replace zips with buttons.
 Well comfort is the first priority, too much tight and skinny cloths should be avoided
 
-Color- light color
-** dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
-** elastane, spandex, linen, polyester, should be avoided
+
 
 hygiene= reusable cotton pads (normal is ok for outside purposes but creating pollution) = https://www.amazon.in/Sirona-Reusable-Sanitary-Pads-Women/dp/B09ZDSZQG6/ref=sr_1_6?crid=1UC5YMYVQB50S&keywords=reusable+pads+for+women&qid=1684813278&sprefix=reus%2Caps%2C305&sr=8-6
 protection = non lubricated condoms (example brand = trojan)(lubricated = chemical) = https://www.amazon.in/Trojan-ENZ-Non-Lubricated-Condoms-Count/dp/B0001Q6DEU
@@ -166,7 +183,7 @@ well more awareness should be provided to girls from young age about masturbatio
 Drinks
 --------------------------------------------------------------------------------------------
 ```
-Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water
+Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
 
 ** all type of suppliments(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugarfree is more dangerous than sugar(dont fake your receptors).
 
@@ -178,20 +195,22 @@ Alcohol (decision making ability is affected and leads to poor judgement, enhanc
 
 Smoke(enhance decision making process, decreases the anger) = Ganja/bhang (can cure all diseases, it has no side effects or overdose) (brain has canabidol receptors by default), Opium (can cure all diseases but it has overdose so caution is required)
 
+
 Well a disease is an idea, I had panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... U can smoke pot first and then drink alcohol and then smoke again if u want.... 
 
 But if you drink first and then smoke pot... Then you will get a panic attack, well nothing serious just sleep for 1 hr on the spot... Every thing will get normal... Max you will get unconscious
 
 The reason is thc is stronger than alcohol... That means if you smoke first then alcohol will not have effect... 
 
-It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first
+It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first.
+
 
 hemp ciggarette can replace the nicotine(hemp has very low THC than mariju)
 
 **Never use ciggarette(carcinogenic), cocaine (these are synthetic, inorganic, lab made, lots of chemical
 ```
 
-First shopping
+scrubs
 --------------------------------------------------------------------------------------------
 ```
 Cleaning gloves kitchen+bathroom(ok just this one use plastic)
@@ -215,7 +234,7 @@ cooking time = 15 - 20 minutes MAX, I live at sea level (might need more in few 
 
 procedure
 -----------
-rice and dishes
+rice/poha and dishes
 _______________________
 oil(fat) goes first 
 spices if required
@@ -226,17 +245,30 @@ fine tuneing the technique, after few rounds you will get the idea
 
 world cooks bread well no need to specify.
 
-Day                     | BreakF                      | Lunch                              | Snacks      |  Dinner     | Conclusion
-------------------------|-----------------------------|------------------------------------|-------------|-------------|-----------------------
-Mon                     | puri                        |dalma+rice                          | murri       |       sattu |  
-Tue                     | sweet poha                  |dal+rice+saag                       | vada        |       sattu |  
-wed                     | luchi                       |dalma+rice                          | chuda       |       sattu |  
-Thur                    | salty poha                  |dal+rice+mustard sauce dish         | noodles     |       sattu |  
-Fri                     | idli                        |pulav                               | khoi        |       sattu |  
-Sat                     | dosa                        |dal+rice+                           |             |       sattu |  
-Sun                     | vada                        |pulav                               |             |       sattu |  
+Day                     | BreakF                      | Lunch                              | Snacks                 |  Dinner               | Conclusion
+------------------------|-----------------------------|------------------------------------|------------------------|-----------------------|-----------------------
+Mon                     | puri                        |dalma+rice                          | murri(no cooking)      |sattu(no cooking)      |  just example you can customize your own
+Tue                     | sweet poha(no cooking)      |dal+rice+saag                       | vada                   |sattu(no cooking)      |
+wed                     | luchi                       |dalma+rice                          | chuda(no cooking)      |sattu(no cooking)      |
+Thur                    | salty poha                  |dal+rice+mustard sauce dish         | noodles                |sattu(no cooking)      |
+Fri                     | idli                        |pulav                               | khoi(no cooking)       |sattu(no cooking)      |
+Sat                     | dosa                        |dal+rice+                           |                        |sattu(no cooking)      |
+Sun                     | vada                        |pulav                               |                        |sattu(no cooking)      |
 
 other food items = Mustard paste curries, Mango khatta, Dahi vada
+
+rice = plain/salty/sweet/pudding
+
+pitha(sanskrit)(greek = pitta/ roman = pizza)(something stiff = bread) 
+rice or suji pitha = dosa/idli/vada
+wheat pitha =  roti/nan(this one is italian pizza)
+fried wheat pitha = puri/luchi
+
+sweet pitha = cakera(sanskrit) = (cake = sweet pizza) (donut/pretzel comes in this category) 
+
+Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi
+
+** Cashew barfi, should be avoided
 ```
 
 Appliances
@@ -246,6 +278,7 @@ LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color 
 
 BLDC fan - 30 to 40 watts, bldc motor fans = 30 USD max(availiable all around the world)
 
+
 stove - wood fire, cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(availiable all around the world)
 
 microwave and other ovens - stainless steel and teflon coating inside, very dangerous
@@ -253,6 +286,7 @@ microwave and other ovens - stainless steel and teflon coating inside, very dang
 mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these 
 
 water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells)....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals
+
 
 1 star = very high consumption, highest bill, lowest efficincy
 2
@@ -269,11 +303,13 @@ washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, 
 
 dishwasher(200w) = 5 star inverter = 300 USD max(availiable all around the world)
 
+
 On spot power generation recomended (transmission lines are very inefficient more than half the power is lost is hysterisis only)
 --------------------------
 solar panel = mono perc [500 w] (life = 25 years) = 300 USD max(availiable all around the world)(might require 2 panels in low sunlight areas like norway)
 solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD max(availiable all around the world)
 battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell is availiable) (life = 10 years if lucky) = 300 USD max(availiable all around the world)
+
 
 internet = starlink(availiable)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required)
 
@@ -291,16 +327,70 @@ door lock = design change required by replacing steel with carbon fiber or flax 
 
 tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule similar
 
-best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to avove calculation)
 
-best car is toyota mirai but very expensive write now, coz its life span is 100 years, it is called a forever car.
+most people should use ebicycles or scooters = vespa electrica and equivalent
+best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to above calculation)
+
+best car is toyota mirai but very expensive write now, coz its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell)(battery = toxic and cant be used in aviation)
+
+** a lot of metals need to be removed from these appliance and replaced by flax fiber.
 ```
 
+
+policy change
+--------------------------------------------------------------------------------------------
+```
+Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
+
+banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole. 
+
+Fans can be made with flax fiber why metal and plastic.
+
+
+banning of paper.
+
+banning of currency notes immidietly and digital apps are already there.
+
+The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
+
+
+Stop building dams.
+
+wheat, rice, pulses can be bought only. rest grow on your own.
+
+
+banning of fiber optic cables.
+
+No need for capital and cities. 5G and satellite internet is already here. disperse the crowd. ( new invention required : oneweb to 5G converter technology do not exist)
+
+gov has no buisness in buisness. convert all gov manufacturing and service to private.
+
+reduction of polic muscle and fire and vehicles speed.
+
+free speech.
+
+reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
+
+pre set adult content filter by google and all.
+
+So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
+
+Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in data center another should be peer to peer distributed. 
+
+Be careful that even small things and negligence can cause lot of pollution.
+
+Metal cement petroleum and transportation,
+anything linked to this creates pollution,
+Because these are obtained through mining. 
+```
 
 House construction
 --------------------------------------------------------------------------------------------
 ```
 satellite land allocatiion, same for each person.
+
+every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible.
+
 
 never build cement house(especially those who live near earthquake zones).
 
@@ -312,13 +402,12 @@ bricks = baked is solar powered curing oven.
 
 todays cement = modern cement = the CaCO3 is obtained by mining.
 
-every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible.
 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
 
 Home decors, are not eco friendly.
 
-Wall paints are synthetic.
+Wall paints(emulsion) are synthetic.
 
 coir mattress only.
 
@@ -354,7 +443,7 @@ recycling facility - solar powered small blast furnance, without battery only mo
 future of transportation
 --------------------------------------------------------------------------------------------
 ```
-stop constructing new roads, bridges, new ports, alternate is coming is few years 
+stop constructing new roads, bridges, new ports, alternate(evtols) are coming is few years 
 
 banning of formula 1, formula-e is there
 
@@ -374,49 +463,25 @@ banning of commercial heavy metal shipping vessels, new vessel = natural flax fi
 shipment = only technology, not everything grow food at your country.
 ```
 
-schemes
---------------------------------------------------------------------------------------------
-```
-Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
 
-banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole. 
 
-banning of paper.
 
-Fans can be made with flax fiber why metal and plastic.
 
-banning of currency notes immidietly and digital apps are already there.
 
-The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
-Stop building dams.
 
-wheat, rice, pulses can be bought only. rest grow on your own.
 
-banning of fiber optic cables.
 
-No need for capital and cities. 5G and satellite internet is already here. disperse the crowd. ( new invention required : oneweb to 5G converter technology do not exist)
 
-gov has no buisness in buisness. convert all gov manufacturing and service to private.
 
-reduction of pol muscle and fire and vehicles speed.
 
-free speech.
 
-reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
-pre set adult content filter by google and all.
 
-So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
-Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in data center another should be peer to peer distributed. 
 
-Be careful that even small things and negligence can cause lot of pollution.
 
-Metal cement petroleum and transportation,
-anything linked to this creates pollution,
-Because these are obtained through mining. 
-```
+
 
 
 
