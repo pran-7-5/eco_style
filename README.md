@@ -22,15 +22,21 @@ utensils
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash)
 
-100% cast iron wok with lid 3L x 1, cast iron pot with lid for boiling, Flat Pan cast iron
+
+100% cast iron wok with lid 3L x 1
+
+cast iron pot with lid for boiling
+
+Flat Pan cast iron
+
+Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage) 
+
 
 neem Wood Board + rolling pin (avoid stone, plastic, metal) 
 
 Knifes big + small (wooden handle is recommend), Cutting board neem wood (avoid stone, plastic or metal) 
 
-Cast iron Mortal and pestle (stone, wooden should be avoided due to breakage) 
-
-Dough mixing pot
+Dough mixing pot stainless steel
 
 strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possible. 
 
@@ -108,7 +114,7 @@ Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = but
 
 fruits
 --------------------------------------------------------------------------------------------
-Orange, Bananas (big ones are gmo), Green Grapes (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla
+Orange, Bananas (big ones are gmo), Green Grapes (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla.
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (steve jobs died because of this, he didnt know which fruit to eat).
 
@@ -117,7 +123,7 @@ vegetables
 --------------------------------------------------------------------------------------------
 *** well growth in carbon diaoxide over past 100 years has made plants addicted so, the plants now have bit high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every people except (physical labour) and sugar can be drained by doing excercise so there is no issue.
 
-Koshola saag (other saags should be avoided), Pumpkin (very big ones are gmo), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is gmo), Raddish, Green bananas, green Chili ( careful don't buy big gmo ones), Lemon (what to say its magical)
+Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones are gmo), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is gmo), Raddish, Green bananas, green Chili ( careful don't buy big gmo ones), Lemon (what to say its magical).
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 ```
@@ -294,39 +300,39 @@ best car is toyota mirai but very expensive write now, coz its life span is 100 
 House construction
 --------------------------------------------------------------------------------------------
 ```
-satellite land allocatiion, same for each person
+satellite land allocatiion, same for each person.
 
-never build cement house(especially those who live near earthquake zones)
+never build cement house(especially those who live near earthquake zones).
 
-wood and mud combined houses are best and you will be so happy
+wood and mud combined houses are best and you will be so happy.
 
-well ancient stucture like rome and temples of india are made of (lime mortar) it is a natural ecofriendly cement made from baked sea shells picked and collected from sea shore
+well ancient stucture like rome and temples of india are made of (lime mortar) it is a natural ecofriendly cement made from baked sea shells picked and collected from sea shore.
 
-bricks = baked is solar powered curing furnace
+bricks = baked is solar powered curing oven.
 
-todays cement = modern cement = the CaCO3 is obtained by mining
+todays cement = modern cement = the CaCO3 is obtained by mining.
 
-every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible
+every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible.
 
-Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals)
+Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
 
-Home decors, are not eco friendly
+Home decors, are not eco friendly.
 
-Wall paints are synthetic
+Wall paints are synthetic.
 
-coir mattress only
+coir mattress only.
 
 Ban pencils, clips, pins, pen, clipboard , duct tape
 
-Ban paper towels
+Ban paper towels.
 
-Ban the books
+Ban the books.
 
-Acrylic paints for artworks, canvas from leaf fiber
+Acrylic paints for artworks, canvas from leaf fiber not cloth.
 
-Children toys are metal, plastic ban it
+Children toys are metal, plastic ban it.
 
-Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only
+Ban on Fences are important- wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
 
 
@@ -336,12 +342,13 @@ Mineral mines
 
 shutdown all types of power plants. homes in cities can be power by solar just 1 panel is required for one home. already availiable.
 
-stop diging mines = we dont need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and light weight
+stop diging mines = we dont need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and light weight.
 
-collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use
+Ban glass items.
 
-recycling facility - solar powered small blast furnance
-without battery only morning operations 
+collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe garded places across world for future use.
+
+recycling facility - solar powered small blast furnance, without battery only morning operations. 
 ```
 
 future of transportation
@@ -351,7 +358,7 @@ stop constructing new roads, bridges, new ports, alternate is coming is few year
 
 banning of formula 1, formula-e is there
 
-banning of older vehicles
+banning of older vehicles.
 
 banning of current public transports = reduce vehicle weight and size
 
@@ -361,57 +368,53 @@ banning of trains, track maintainace creating too pollution because a lot of met
 
 Ban the boats except wood and electric ones.
 
-army vehicles are not efficient
+army vehicles are not efficient.
 
 banning of commercial heavy metal shipping vessels, new vessel = natural flax fiber and carbon fiber + wood + electric propultion + (solar+wind) combo powered.
-shipment = only technology, not everything grow food at your country
+shipment = only technology, not everything grow food at your country.
 ```
 
 schemes
 --------------------------------------------------------------------------------------------
 ```
-No need for capital and cities. 5G and satellite internet is already here. disperse the crowd ( new invention required : oneweb to 5G converter technology do not exist)
+Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
 
-Ban public chairs, seats from cement plastic stone metal by wood only
+banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole. 
 
-Ban glass items
+banning of paper.
 
 Fans can be made with flax fiber why metal and plastic.
 
-Stop building statues... Planet doesn't even like a stone to be picked up
+banning of currency notes immidietly and digital apps are already there.
+
+The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
 Stop building dams.
 
 wheat, rice, pulses can be bought only. rest grow on your own.
 
-gov has no buisness in buisness. convert all gov manufacturing and service to private
+banning of fiber optic cables.
+
+No need for capital and cities. 5G and satellite internet is already here. disperse the crowd. ( new invention required : oneweb to 5G converter technology do not exist)
+
+gov has no buisness in buisness. convert all gov manufacturing and service to private.
 
 reduction of pol muscle and fire and vehicles speed.
 
-banning of paper 
-
-free speech
-
-banning of currency notes immidietly and digital apps are already there.
-
-banning of fiber optic cables.
-
-banning of street lights and pole = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole 
-
-The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
+free speech.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
-pre set adult content filter by google and all
+pre set adult content filter by google and all.
 
 So many things not to do, so what shoud we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism thats where you should focus on.
 
-Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in data center another should be peer to peer distributed 
+Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in data center another should be peer to peer distributed. 
 
-Be careful that even small things can cause lot of pollution
+Be careful that even small things and negligence can cause lot of pollution.
 
-Metal cement petroleum and transportation
-Anything linked to this creates pollution
+Metal cement petroleum and transportation,
+anything linked to this creates pollution,
 Because these are obtained through mining. 
 ```
 
