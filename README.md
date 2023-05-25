@@ -38,7 +38,13 @@ Knifes big + small (wooden handle is recommend), Cutting board neem wood (avoid 
 
 Dough mixing pot stainless steel
 
-strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possible. 
+strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel not ideal. and cast iron not possible.
+
+Natural fiber baskets.
+
+Clay storage jars.
+
+Clay glass. 
 
 
 ** non-stick teflon(very dangerous), aluminium, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non stick Teflon utensils should be avoided, but why ? becasuse = metals have leaching properties, can enter central nervous system, aluminium and copper turns to Al2O3 and CuO. ceramic has paint.
@@ -54,6 +60,8 @@ Clay and leaf is recommend
 Cleaner (utensils/hair/body/cloths/teeth) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
+neem brush - 
+
 teeth cleaning = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
 
@@ -160,7 +168,7 @@ Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), 
 
 ** perfume, deo (lots of chemical) should be avoided
 
-Cloth fabric = Cotton(everyday), Silk(ocassions), Hemp
+Cloth fabric = Cotton(everyday), Silk(ocassions), Hemp (Hand woven, hand stiched)
 
 Color- light color
 ** dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
@@ -368,6 +376,8 @@ gov has no buisness in buisness. convert all gov manufacturing and service to pr
 reduction of polic muscle and fire and vehicles speed.
 
 free speech.
+
+We may have to abolish the marriage, doesn't have any significance today= needs more thinking.
 
 reduction of classrooms in schools and colleges rather sports and art clubs, markets, online apps are enough for meeting discovering new people already. But practical labs should remain the same.
 
