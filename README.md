@@ -226,9 +226,11 @@ Toilet brush x 2(wooden handle)
 Scrubbing brush with C type handle x 2(coir)(wooden handle)
 Long mop for wet(cloth instead of sponge)(wooden handle)
 Broom stick(natural fibers)(wooden handle)
+
 Scthbrite x 4(coir)
 Microfiber bundle(reuse old fabric)
 Garbage bags(dont use these)
+paper towel(dont use these)
 
 should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, acid, Isopropyl alcohol
 ```
