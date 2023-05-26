@@ -60,7 +60,7 @@ Clay and leaf is recommend
 Cleaner (utensils/hair/body/cloths/teeth) (wont work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
-neem brush - 
+neem wood brush - https://www.amazon.in/Origami-Karma-Tooth-Brush-Bristles/dp/B09MLZ2NDH/ref=sr_1_5?crid=2OG0A81Q64JHE&keywords=neem+toothbrush+good&qid=1685100329&sprefix=neem+toothbrush+good%2Caps%2C344&sr=8-5
 
 teeth cleaning = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystalls, tulsi
 mix above ingridients (no cavity ever)(remember than if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after few more times) 
@@ -161,6 +161,7 @@ Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush)
 ** Coloring hair tip will also soak NH3-ammonia compounds in hair color into skin
 ** Henna mehndi is also very bad
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided) 
+** avid Vaseline and other petroleum jellys
 
 hair oil if you use = Pure coconut oil/amla
 
@@ -341,7 +342,7 @@ tv = well tv uses a lot of plastic, portable laser Projector are future = anker 
 most people should use ebicycles or scooters = vespa electrica and equivalent
 best car in the world = cheapest ev availiable(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to above calculation)
 
-best car is toyota mirai but very expensive write now, coz its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell)(battery = toxic and cant be used in aviation)
+best car is toyota mirai but very expensive write now, coz its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell not "Lithium battery = toxic and cant be used in aviation")
 
 ** a lot of metals need to be removed from these appliance and replaced by flax fiber.
 ```
