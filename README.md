@@ -121,7 +121,7 @@ dry fruits = Almonds, Pistachio, Raisins
 
 spices = Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain) 
 
-** garlic, Garam masala, cumin, coriander, cardamom, cinnamon, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
+** garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided
 
 
 fat = Mustard oil (banned by godfather(usa), lift the ban)
