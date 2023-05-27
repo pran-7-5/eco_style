@@ -300,9 +300,7 @@ water purifier - live near river drink direct, well water drink direct(not stead
 
 
 1 star = very high consumption, highest bill, lowest efficincy
-2
-3
-4
+2 star, 3 star, 4 star
 5 star = very low consumption, lowest bill, highest efficincy
 
 refridgerator(100w) =  200 liters 5 star inverter fridge = 200 USD max
