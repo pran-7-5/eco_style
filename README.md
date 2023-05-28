@@ -130,7 +130,7 @@ dairy(very difficult to get these, should be avoided) but these are very good an
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet) 
 
 ** Paneer, raw milk should be avoided
-** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisons)
+** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisons, increases cholesterol resulting heart attacks, these oils + gym is fatal)
 
 
 fruits
@@ -474,7 +474,20 @@ banning of commercial heavy metal shipping vessels, new vessels = natural flax f
 shipment = only technology, not everything, grow food in your country.
 ```
 
+Miscellaneous
+--------------------------------------------------------------------------------------------
+```
+banning of jury system in courts. we have to put one judge to be responsible. 
 
+Digital e-courts except the criminal court.
+
+Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + relaxation...is enough and very safe.
+
+Eye power loss - the inactiveness of the eye lens, So you have to look at the sun while red sunrise and sunset, or moon...not when sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
+And washing eyes and face with cold water atleast 5 times a day or eyes will get damaged.
+ 
+To avoid skin diseases one should take bath atleast twice a day.
+```
 
 
 
