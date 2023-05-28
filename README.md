@@ -477,17 +477,18 @@ shipment = only technology, not everything, grow food in your country.
 Miscellaneous
 --------------------------------------------------------------------------------------------
 ```
-banning of jury system in courts. we have to put one judge to be responsible. 
+Banning the jury system in courts. we have to put one judge to be responsible. 
 
 Digital e-courts except the criminal court.
 
 Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + relaxation...is enough and very safe.
 
-Eye power loss - the inactiveness of the eye lens, So you have to look at the sun while red sunrise and sunset, or moon...not when sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
-And washing eyes and face with cold water atleast 5 times a day or eyes will get damaged.
+Eye power loss - the inactiveness of the eye lens, So you have to look at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
+And washing eyes and face with cold water at least 5 times a day or eyes will get damaged.
  
-To avoid skin diseases one should take bath atleast twice a day.
+To avoid skin diseases one should take bath at least twice a day.
 ```
+
 
 
 
