@@ -1,4 +1,4 @@
-# sustainable_lifestyle
+# Sustainable_lifestyle
 
 `Planet safe. This info will tune your mind to absolute intellect`
 ============================================================================================
@@ -81,7 +81,7 @@ Neutral Salt wash - sea salt in hot boiling water
 ** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 ```
 
-scrubs
+Scrubs
 --------------------------------------------------------------------------------------------
 ```
 Cleaning gloves kitchen+bathroom(ok just this one uses plastic).
@@ -151,14 +151,14 @@ Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = but
 ** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisons, increases cholesterol resulting heart attacks, these oils + gym is fatal)
 
 
-fruits
+Fruits
 --------------------------------------------------------------------------------------------
 Orange, Bananas (big ones are gmo), Green Grapes (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla.
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
 
 
-vegetables
+Vegetables
 --------------------------------------------------------------------------------------------
 *** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 
@@ -167,7 +167,7 @@ Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones are
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 ```
 
-women_specific
+Women_specific
 --------------------------------------------------------------------------------------------
 ```
 Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels.
@@ -362,7 +362,7 @@ The best car is the Toyota Mirai but it is very expensive right now, because its
 ```
 
 
-policy change
+Policy change
 --------------------------------------------------------------------------------------------
 ```
 Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
