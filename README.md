@@ -105,7 +105,7 @@ Gmo- genetically modified organisms.
 
 complex carbohydrates = 
 
-Rice (white rice) = dosa/idli/vada/kheer (Avoid basmati rice, it's gmo).
+Rice (white rice) = dosa/idli/vada/kheer (Avoid basmati rice, it's GMO).
 Chudda(poha)(flattened rice) = sweet poha, salty poha.
 Muddi(puffed rice) = jhal murri.
 khoi(popped rice) = Ukhudda.
@@ -153,7 +153,7 @@ Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = but
 
 Fruits
 --------------------------------------------------------------------------------------------
-Orange, Bananas (big ones are gmo), Green Grapes (dark grapes are gmo), Coconut, Mangoes (avoid Alphonso it's gmo), Bael, Amla.
+Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut, Mangoes (avoid Alphonso it's GMO), Bael, Amla.
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
 
@@ -236,7 +236,11 @@ Alcohol (decision making ability is affected and leads to poor judgment, enhance
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided.
 
 
-Smoke(enhance decision making process, decreases the anger) = Ganja(Marijuana)/bhang(Cannabis)(can cure all diseases, it has no side effects or overdose)(brain has cannabinoid receptors by default), Opium (can cure all diseases but it has overdose so caution is required, that's why the first option is recomended).
+Smoke(enhance decision making process, decreases the anger)
+
+Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no side effects or overdose)(brain has cannabinoid receptors by default)(only sativa all other are GMO)
+
+Opium (can cure all diseases but it has overdose so caution is required, that's why the first option is recomended).
 
 
 Well a disease is an idea, I had a panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... You can smoke pot first and then drink alcohol and then smoke again if you want. 
@@ -387,6 +391,8 @@ Free phones for poor.
 
 Wheat, rice, pulses can be bought only. rest grow on your own.
 
+Ba synthetic chemical fertilizers.
+
 
 Banning of fiber optic cables.
 
@@ -410,6 +416,8 @@ House construction
 Satellite imagery land allocation, same for each person.
 
 Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length 5 meter x breadth 5 meter x height 4 meter, Bathroom size = length 3 meter x breadth 1 meter x height 4 meter)
+
+Area for gardening.
 
 
 Never build cement houses(especially those who live near earthquake zones).(We can't increase weight of the place)
