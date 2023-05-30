@@ -415,7 +415,7 @@ House construction
 ```
 Satellite imagery land allocation, same for each person.
 
-Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length 5 meter x breadth 5 meter x height 4 meter, Bathroom size = length 3 meter x breadth 1 meter x height 4 meter)
+Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length - 5 m, breadth - 5 m, height - 4 m, Bathroom size = length - 3 m, breadth - 1 m, height - 4 m, Kitchen size = length - 5 m, breadth - 2 m, height - 4 m)
 
 Area for gardening.
 
@@ -467,7 +467,7 @@ Mineral mines
 --------------------------------------------------------------------------------------------
 ```
 
-Shutdown all types of power plants. homes in cities can be powered by solar just 1 panel is required for one home. already available.
+Shutdown all types of power plants. Homes in cities can be powered by solar just 1 panel is required for one home, already available.
 
 Stop digging mines = we don't need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and lightweight.
 
