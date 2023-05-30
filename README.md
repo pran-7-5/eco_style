@@ -417,7 +417,7 @@ Satellite imagery land allocation, same for each person.
 
 Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length - 5 m, breadth - 5 m, height - 4 m, Bathroom size = length - 3 m, breadth - 1 m, height - 4 m, Kitchen size = length - 5 m, breadth - 2 m, height - 4 m)
 
-Area for gardening.
+Area for gardening. Minimize gardening tools(more wood, less metal, less power tools).
 
 
 Never build cement houses(especially those who live near earthquake zones).(We can't increase weight of the place)
@@ -447,7 +447,7 @@ Wall paints(emulsion) are synthetic.
 
 Coir mattress only.
 
-Ban pencils, clips, pins, pen, clipboard , duct tape
+Ban pencils, clips, pins, pen, clipboard , duct tape, nails.
 
 Ban paper towels.
 
