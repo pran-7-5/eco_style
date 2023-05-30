@@ -141,7 +141,7 @@ Spices = Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided.
 
 
-Oil/fat = Mustard oil (banned by godfather(usa), lift the ban)
+Oil/fat = Cold pressed(not high temperature and pressure pasturisation) mustard oil (banned by godfather(usa), lift the ban)
 
 Dairy(very difficult to get these, should be avoided) but these are very good and very high in protein. 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet). 
@@ -180,6 +180,7 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Henna mehndi is also very bad.
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided).
 ** Avoid Vaseline and other petroleum jellies.
+** Avoid waxing hair.
 
 Hair oil if you use = Pure coconut oil/amla.
 
@@ -201,6 +202,8 @@ Color- light color.
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
 
+Kids = Boy girl same dress.. Cotton light color... Shorts and half sleeve shirt and tshirt... Not same uniform and color(people are diffrent and diverse).
+
 Health tips = 
 
 Drink water = 5 liters a day.
@@ -210,7 +213,7 @@ To avoid skin diseases one should take bath at least twice a day.
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day or eyes will get damaged.
 
-Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + relaxation...is enough and very safe.
+Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
 
 Ban on cosmetic surgery.
 
@@ -331,14 +334,14 @@ On spot power generation is recommended (transmission lines are very inefficient
 --------------------------
 solar panel = mono perc [500 w] (life = 25 years) = 300 USD max(available all around the world)(might require 2 panels in low sunlight areas like norway).
 solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD max(available all around the world).
-battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell is available) (life = 10 years if lucky) = 300 USD max(available all around the world).
+battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD max(available all around the world).
 
 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
 
 Bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
 
-Phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste).
+Phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste). https://youtu.be/xT9F9eW6mYI
 
 printer = thermal printers(not for everyone, save paper).
 
@@ -368,6 +371,8 @@ Banning of street lights and poles = solar powered, 20 w LED enough ....should b
 
 Fans can be made with flax fiber so why metal and plastic.
 
+Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
+Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require sunny day just morning is enough.
 
 Banning of paper.
 
@@ -377,6 +382,8 @@ The clay artists and over jobs where heat curing is required, the oven power sho
 
 
 Stop building hydro power dams.
+
+Free phones for poor.
 
 Wheat, rice, pulses can be bought only. rest grow on your own.
 
@@ -421,6 +428,8 @@ Ban marble.
 
 Ban metal pipes. (Only this one plastic) 
 
+Wiring = 1mm gauge wire enough to handle the load, not thicker wires or loss will increase.
+
 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
 
@@ -435,6 +444,8 @@ Ban pencils, clips, pins, pen, clipboard , duct tape
 Ban paper towels.
 
 Ban the books.
+
+Ban room heaters.
 
 Acrylic paints for artworks, canvas from leaf fiber not cloth.
 
@@ -457,6 +468,8 @@ Banning of cement.
 Ban glass items.
 
 Collection of existing metal items from common homes to gov offices, except absolute necessary parts like wires, few tools and recycle and store in uniform weight distributed over various safe guarded places across world for future use.
+
+All carbon capturing ideas and what not is a waste of time and money. They are trying to decontaminate by contaminating further. Manufacturing such machines will increase CO2 even more. Why do we need capturing machines if plants are already doing that, we just need to stop producing. 
 
 Recycling facility - solar powered small blast furnace, without battery, only morning operations. 
 ```
@@ -499,12 +512,13 @@ Ban large gatherings.
 
 Ban religion.
 
-Ban Christmas tree, Halloween pumpkin.(This is madness)
+Ban Christmas tree, Halloween pumpkin.(This is madness, I mean few leaves enough but not the whole tree)
 Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from constellation Sagittarius (dhanu) to Capricorn (makara)]
 kranti = transition(english), mas = month(english).
 
 Halo-eve
-Dipa balee(diwali)(sanskrit) = Prince Ram returned home after victory.
+Aluo(sanskrit) = light(english). 
+Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory. Rama = roma(Italy) = romance
 Dipa = butter lamp(english), balee(sacrifice)(english)
 
 Free speech.
@@ -515,7 +529,9 @@ Reduction of classrooms in schools and colleges rather than sports and art clubs
 
 Pre-set adult content filter by google and all.
 
-So many things not to do, so what should we do = decision making, learn, observe, and art, culture(sports, dance, music, movies) , exploration, tourism that's where you should focus on.
+So many things not to do, so what should we do = decision making, learn, observe, art, culture(sports, dance, music, movies) , exploration, tourism that's where you should focus on.
+
+All the jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
 
 
