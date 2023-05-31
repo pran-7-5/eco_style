@@ -240,7 +240,7 @@ To avoid skin diseases one should take bath at least twice a day.
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day or eyes will get damaged.
 
-Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
+Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
 
 Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
 
