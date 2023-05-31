@@ -214,7 +214,8 @@ Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), 
 
 Cloth fabric(Hand woven, hand stitched) = Cotton(everyday), Silk(occasions), Hemp.
 
-Color- light color.
+Color- light color. (Things look black because of Black body radiation, which means the object absorbs all the light that is falling on it making it hot, where as white color objects reflects most of the light falling on it hence reducing the temperature)(yes, I am very sad for all my muslim sisters to go through torture)
+
 ** Dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
 ** Elastane, spandex, linen, polyester, should be avoided
 
@@ -232,12 +233,18 @@ Health tips
 ________________________________________________ 
 Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
 
+Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep at night.(7-8 hours)
+
 To avoid skin diseases one should take bath at least twice a day.
 
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day or eyes will get damaged.
 
 Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well the few pursuing professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
+
+Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
+
+Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take rest, drink water, eat more fruits, you may need to take tablets = esomeprazole 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)
 
 Ban on cosmetic surgery.
 
@@ -374,7 +381,7 @@ printer = thermal printers(not for everyone, save paper).
 
 Ban watches, smartwatches are there.
 
-Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed in all sides)= 30 USD/per camera MAX(available all over the world).
+Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed on all sides)= 30 USD/per camera MAX(available all over the world).
 
 Door lock = design change required by replacing steel with carbon fiber or hemp fiber.
 
@@ -544,6 +551,8 @@ Air taxi = hire,  ambulance.
 
 Intracity(But you have said no road, OK wait, elevated surface automatic mud road leveling machine(roller), we just need to level the mud road time to time, like day after the rain)
 ________________________________________________ 
+Moped. (Two wheeler)
+
 Car hire - 100 Km/h max speed (Autopilot car)
 
 Public transport - 80 Km/h max speed (Autopilot mini bus)(tank like wheel bus)(Men/women separate section right side/ left side) 
@@ -552,7 +561,7 @@ Heavy transport - only helicopter (Rare use)
 
 Near by
 ________________________________________________ 
-Bicycle, moped, e-scooter.
+Bicycle, e-scooter.
 ```
 
 Softwares
@@ -610,6 +619,11 @@ Ban concerts. Ban stadiums. Ban large gatherings.
 
 Ban religion.
 
+Ban on coffins.
+
+How to process a dead body = remove the required organs and donate to organ banks, those who want to bury without the coffin and the cement block they used to build on it,  let them do that, they have free will. (or the enemies will pee on it after getting drunk)
+But the best way is to put the bodies in a solar powered shredder and mix it with desert sand to manufacture organic manure for agriculture. (No, I am not cruel yet)
+
 Ban Christmas tree, Halloween pumpkin.(This is madness, I mean few leaves enough but not the whole tree)
 Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from constellation Sagittarius (dhanu) to Capricorn (makara)]
 kranti = transition(english), mas = month(english).
@@ -624,6 +638,7 @@ So many things not to do, so what should we do = decision making, learn, observe
 
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
+
 
 
 
