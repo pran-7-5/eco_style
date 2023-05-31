@@ -1,7 +1,13 @@
+# hammer_of_thor
+hammer_of_god
+
 # Sustainable_lifestyle
 
 `Planet safe. These lines will tune your mind to absolute intellect`
 ============================================================================================
+It is very difficult to understand that you are a hypocrite. It is very easy to contradict yourself, going round and round. If you won't travel in a straight line in a jungle you will get lost and die.
+
+If you don't observe the details and follow these steps very carefully, you will not get the results that you want to achieve.
 
 Methods and material are abundant, and can be launched immediately effectively. 
 
@@ -32,9 +38,9 @@ Flat Pan cast iron.
 Cast iron Mortar and pestle (stone, wooden should be avoided due to breakage).
 
 
-neem Wood Board + rolling pin (avoid stone, plastic, metal). 
+Neem Wood Board + rolling pin (avoid stone, plastic, metal). (Neem = antibacterial wood)
 
-Knives big + small (wooden handle is recommended), Cutting board neem wood (avoid stone, plastic or metal). 
+Knives big + small (wooden handle is recommended), Cutting board (Neem wood) (avoid stone, plastic or metal). 
 
 Dough mixing pot stainless steel.
 
@@ -65,8 +71,8 @@ Neem wood brush - https://www.amazon.in/Origami-Karma-Tooth-Brush-Bristles/dp/B0
 Teeth cleaning = dried ginger powder, dried amla powder, dried turmeric powder, dried clove powder, raw unrefined sea salt crystals, tulsi.
 Mix the above ingredients (no cavity ever)(remember that if you have eaten factory made things like chocolate then this wont work, use toothpaste, it will work but after a few more times). 
 
-Body and cloth(hot water) 
---------------------------------------------------
+Body(cold water) and cloth(hot water) 
+________________________________________________ 
 Acid wash- lemon/orange/amla juice (squeezing the actual fruit not buying juice bottles from the market). 
 
 Never take a shower bath in hot water, especially head wash, not even in winter. 
@@ -75,10 +81,10 @@ If it is too cold then boil the water to 25° celsius not above.
 Base wash - turmeric/neem in hot boiling water(base wash should be avoided in case of clothes specially white color).
 
 Cast iron utensils
---------------------------------------------------
+________________________________________________ 
 Neutral Salt wash - sea salt in hot boiling water
 
-** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
+** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided. (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 ```
 
 Scrubs
@@ -104,7 +110,7 @@ Grocery(organic is written but not given, so grow your own)
 Gmo- Genetically modified organisms.
 
 complex carbohydrates 
---------------------------------------------------------------------------------------------
+________________________________________________ 
 Rice (white rice) = dosa/idli/vada/kheer (Avoid basmati rice, it's GMO).
 Chudda(poha)(flattened rice) = sweet poha, salty poha.
 Muddi(puffed rice) = jhal murri.
@@ -112,64 +118,73 @@ khoi(popped rice) = Ukhudda.
 
 ** Red, black, brown rice are GMO and should be avoided.
 
-Wheat = 
+Wheat
+________________________________________________ 
 Atta(brown flour) = puri/paratha.
 Maida(white flour) = luchi/roll paratha/kachori/nimki/pani puri/noodles/pizza.
 Suji(wheat granules) = dosa/idli/vada/upma/kheer.
 
 Plant proteins
--------------------------------------------------- 
+________________________________________________ 
 Unpolished arhar Dal(lentils/ legume) = dal/dalma. 
 Unpolished Moong dal = dalma/ saag mung/ dal.
 Unpolished Chana dal = dal/dalma/sattu/besan/pampad.
 Unpolished Biri/urad dal = dosa/idli/ vada.
 
-** Masoor dal, refined sugar should be avoided.
+** Masoor dal should be avoided.
 
+Sweetner
+________________________________________________ 
+Jaggery(raw unrefined sugarcane)(used in sweet rice, sweet dal but not to make lemonade, fruit juice)
 
-Achar (pickle) = mango/amla/lemon/chili/ginger.
+Misri (crystal raw unrefined sugarcane)(used in making lemonade, fruit juice)
 
-Jaggery(raw unrefined sugarcane), Misri (crystal raw unrefined sugarcane).
+** Refined sugar should be avoided.
 
-
-Dry fruits = Almonds, Pistachio, Raisins.
+Dry fruits
+________________________________________________ 
+Almonds, Pistachio, Raisins.
 
 ** Avoid walnuts, cashews, peanuts, dates.
 
+Achar (pickle) = mango/amla/lemon/chili/ginger.
 
 Spices
---------------------------------------------------
+________________________________________________ 
 Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain).
 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided.
 
 
 Oil/fat
---------------------------------------------------
+________________________________________________ 
 Cold pressed(not high temperature and pressure pasteurization) mustard oil (banned by godfather(usa), lift the ban)
 
 Dairy(very difficult to get these, should be avoided) but these are very good and very high in protein. 
---------------------------------------------------
-Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat), Butter (A2 milk based)(unsalted), Dahi(greek yogurt) (sour not sweet). 
+________________________________________________ 
+Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat)
+Butter (A2 milk based)(unsalted)
+Dahi(greek yogurt) (sour not sweet)
 
 ** Paneer, raw milk should be avoided.
 ** Non-dairy milk should be avoided like almond milk because it's fake.
 ** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisons, increases cholesterol resulting heart attacks, these oils + gym is fatal)
 
 
-Fruits
---------------------------------------------------
-Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut, Mangoes (avoid Alphonso it's GMO), Bael, Amla.
 
-** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
-
-
+*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
+________________________________________________ 
 Vegetables
---------------------------------------------------
+________________________________________________ 
 Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
-*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
+
+Fruits
+________________________________________________ 
+Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut, Mangoes (avoid Alphonso it's GMO), Bael, Amla.
+
+** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
 ```
 
 Women_specific
@@ -209,10 +224,12 @@ Color- light color.
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
 
-Kids = Boy girl same dress.. Cotton light color... Shorts and a half sleeve shirt and tshirt... Not the same uniform and color for everyone(people are different and diverse).
+Kids = Boy/girl same dress(They must understand they are equal from childhood)... Cotton light color... Shorts and a half sleeve shirt and t-shirt... Not the same uniform and color for everyone(people are different and diverse).
+
+Footwear = Sandals/Flip flops instead of shoes.(Air circulation)(Socks, stockings should be avoided)
 
 Health tips
---------------------------------------------------
+________________________________________________ 
 Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
 
 To avoid skin diseases one should take bath at least twice a day.
@@ -245,9 +262,9 @@ Alcohol (decision making ability is affected and leads to poor judgment, enhance
 
 Smoke(enhance decision making process, decreases the anger)
 --------------------------------------------------
-Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no side effects or overdose)(brain has cannabinoid receptors by default)(only sativa all other are GMO)
+Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no side effects or overdose)(brain has cannabinoid receptors by default)(only sativa species all other are GMO)
 
-Opium (can cure all diseases but it has overdose so caution is required, that's why the first option is recommended).
+Opium (can cure all diseases, but it has overdose so caution is required, that's why the first option is recommended).
 
 
 Well a disease is an idea, I had a panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... You can smoke pot first and then drink alcohol and then smoke again if you want. 
@@ -259,9 +276,9 @@ The reason is THC is stronger than alcohol... That means if you smoke first then
 It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first.
 
 
-Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).
+Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Billion dollar startup idea)
 
-**Never use cigarettes(carcinogenic), cocaine and others(these are synthetic, inorganic, lab made, lots of chemicals).
+**Never use cigarettes(carcinogenic), cocaine and others(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
 
 Cooking
@@ -272,9 +289,9 @@ Never eat too much at once, eat less but 4 times and if not feeling hungry reduc
 Cooking time = 15 - 20 minutes MAX, I live at sea level (might need more in few areas like norway or himalayas altitude affects the pressure, population density is low , so no problem).
 
 Procedure
---------------------------------------------------
+________________________________________________ 
 rice/poha, dal and dishes.
-_______________________
+________________________________________________ 
 Oil(fat) goes first. 
 Spices if required.
 Veggies or rice or dal.
@@ -282,7 +299,6 @@ Close the lid.
 Boil it for 15 mins until done, don't open the lid yet.
 Fine tuning the technique, after a few rounds you will get the idea.
 
-The world cooks bread well, no need to specify.
 
 Day                     | BreakF                      | Lunch                              | Snacks                 |  Dinner               | Conclusion
 ------------------------|-----------------------------|------------------------------------|------------------------|-----------------------|-----------------------
@@ -318,9 +334,9 @@ LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color 
 BLDC fan - 30 to 40 watts, BLDC motor fans = 30 USD max(available all around the world).
 
 
-Stove - wood fire, cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
+Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
 
-Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.
+Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.(petroleum gas powered very dangerous)
 
 Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
 
@@ -331,21 +347,21 @@ Water purifier - live near river drink direct, well water drink direct(not stead
 2 star, 3 star, 4 star.
 5 star = very low consumption, lowest bill, highest efficiency.
 
-Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD max.
+Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD MAX
 
-Ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac, if dual inverter is expensive now if not available can by single inverter not much difference  = 600 USD max(available all around the world).
+Ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac = 500 USD MAX(available all around the world).
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
-Washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, don't buy dryer, or inbuilt dryer(use rare) for rainy days ...sun dry is best  = 300 USD max(available all around the world).
+Washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, don't buy dryer, or inbuilt dryer(use rare) for rainy days ...sun dry is best  = 300 USD MAX(available all around the world).
 
-Dishwasher(200w) = 5 star inverter = 300 USD max(available all around the world).
+Dishwasher(200w) = 5 star inverter = 300 USD MAX(available all around the world).
 
 
 On spot power generation is recommended (transmission lines are very inefficient; more than half the power lost is hysteresis only).
 --------------------------------------------------
-solar panel = mono perc [500 w] (life = 25 years) = 300 USD max(available all over the world)(might require 2 panels in low sunlight areas like norway).
-solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD max(available all over the world).
-battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD max(available all over the world).
+solar panel = mono perc [500 w] (life = 25 years) = 300 USD MAX(available all over the world)(might require 2 panels in low sunlight areas like norway).
+solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD MAX(available all over the world).
+battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD MAX(available all over the world).
 
 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
@@ -358,29 +374,34 @@ printer = thermal printers(not for everyone, save paper).
 
 Ban watches, smartwatches are there.
 
-Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. 
+Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed in all sides)= 30 USD/per camera MAX(available all over the world).
 
-Door lock = design change required by replacing steel with carbon fiber or flax fiber.
+Door lock = design change required by replacing steel with carbon fiber or hemp fiber.
 
 Tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule similar.
 
-Most people should use e bikes or scooters(2 wheelers) = vespa electrica and equivalent.
-Best car in the world = cheapest EV available(citroen e-c3) = 15000 USD max (till 2023)(well ev solar charging would require 1 more solar panel addition to above calculation).
+Most people should use e bikes = 400 USD MAX(available all around the world) 
+Most people should use mopeds = vespa electrica and equivalent = 1800 USD MAX(available all around the world)
+Cheapest EV car available(citroen e-c3) = 15000 USD MAX(till 2023)(well ev solar charging would require 1 more solar panel addition to above calculation).
 
 The best car is the Toyota Mirai but it is very expensive right now, because its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell not "Lithium battery = toxic and can’t be used in aviation").
 
-** A lot of metals need to be removed from these appliances and replaced by flax fiber.
+** A lot of metals need to be removed from these appliances and replaced by hemp fiber.
 ```
 
 
 Policy change
 --------------------------------------------------------------------------------------------
 ```
+Infrastructure
+________________________________________________ 
 Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
 
 Banning of street lights and poles = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole. 
 
-Fans can be made with flax fiber so why metal and plastic.
+Equipments
+________________________________________________ 
+Fans can be made with hemp fiber so why metal and plastic.
 
 Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
 Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
@@ -391,23 +412,30 @@ Banning of currency notes immediately and digital apps are already there.
 
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
-
-Stop building hydro power dams.
-
 Free phones for the poor.
-
-Wheat, rice, pulses can be bought only. rest grow on your own.
-
-Ba synthetic chemical fertilizers.
-
 
 Banning of fiber optic cables.
 
 No need for capital and cities. 5G and satellite internet is already here. disperse the crowd. ( new invention required : Oneweb to cellular 5G converter technology doesn't exist)
 
+Food
+________________________________________________ 
+Wheat, rice, pulses can be bought only. rest grow on your own.
+
+Ban synthetic chemical fertilizers.
+
+Administration
+________________________________________________ 
 The government has no business in business. convert all gov manufacturing and service to private.
 
 Reduction of police muscle and fire and vehicle speed. 
+
+Free speech. Right to information.
+
+We may have to abolish the marriage, which doesn't have any significance today= needs more thinking.
+
+Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already) 
+
 
 Be careful that even small things and negligence can cause a lot of pollution.
 
@@ -473,7 +501,9 @@ Mineral mines
 
 Shutdown all types of power plants. Homes in cities can be powered by solar. Just 1 panel is required for one home, already available.
 
-Stop digging mines = we don't need metals anymore = natural flax fiber and carbon fiber parts are used now and more efficient and lightweight.
+Stop building hydro power dams.
+
+Stop digging mines = we don't need metals anymore = natural hemp fiber and carbon fiber parts are used now and more efficient and lightweight.
 
 Banning of cement.
 
@@ -491,7 +521,7 @@ Future of transportation
 ```
 Stop constructing new roads, bridges, new ports, alternate(EVTOLS) are coming is few years 
 
-Banning of formula 1, formula-e is there
+Banning of formula 1, motogp. (formula-e is there)
 
 Banning of older vehicles.
 
@@ -505,15 +535,15 @@ Ban the boats except wood and electric ones.
 
 Army vehicles are not efficient.
 
-Banning of commercial heavy metal shipping vessels, new vessels = natural flax fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
+Banning of commercial heavy metal shipping vessels, new vessels = natural hemp fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
 Shipment = only technology, important goods not everything, grow food in your country.
 
 Intercity
---------------------------------------------------
+________________________________________________ 
 Air taxi = hire,  ambulance.
 
 Intracity(But you have said no road, OK wait, elevated surface automatic mud road leveling machine(roller), we just need to level the mud road time to time, like day after the rain)
---------------------------------------------------
+________________________________________________ 
 Car hire - 100 Km/h max speed (Autopilot car)
 
 Public transport - 80 Km/h max speed (Autopilot mini bus)(tank like wheel bus)(Men/women separate section right side/ left side) 
@@ -521,7 +551,7 @@ Public transport - 80 Km/h max speed (Autopilot mini bus)(tank like wheel bus)(M
 Heavy transport - only helicopter (Rare use)
 
 Near by
---------------------------------------------------
+________________________________________________ 
 Bicycle, moped, e-scooter.
 ```
 
@@ -536,9 +566,10 @@ Amazon go (automatic shops)(But man women different sections are required) - foo
 
 Robot - cleaning, washing, cooking.
 
+Pre-set adult content filter by google and all.
 
 Both hardware and software are closed source, not allowing us to see if there is any subroutine that can automatically search the content. (Apple, microsoft, google, meta)
-But Android is open source we can see what's inside... And it's very good, but the other problem is that it is forcing us to use google's other services that are closed source. They are not letting us see inside the source code. 
+But Android is open source so we can see what's inside... And it's very good, but the other problem is that it is forcing us to use google's other services that are closed source. They are not letting us see inside the source code. 
 For example Linux is open source and used by all servers. This is very good.
 
 Closed source (spying)  | Open source (Very safe)     
@@ -547,11 +578,11 @@ Whatsapp                | Signal
 Instagram               | Pixelfed       
 Twitter                 | Mastodon     
 
-So tell them to open source fast.(Apple, microsoft, google, meta)           
+So tell them to open source fast or shutdown we don't need these.(Apple, microsoft, google, meta)           
         
 
 Grievance redressal mechanism (This software is very easy to make, can be made within a day. Give the contract to Google.)
---------------------------------------------------
+________________________________________________ 
 Create an issue. (automatic routing to respective department) 
 
 Solve issues. (within 24 hrs) 
@@ -588,18 +619,14 @@ Aluo(sanskrit) = light(english).
 Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory. Rama = roma(Italy) = romance
 Dipa = butter lamp(english), balee(sacrifice)(english)
 
-Free speech. Right to information.
-
-We may have to abolish the marriage, which doesn't have any significance today= needs more thinking.
-
-Reduction of classrooms in schools and colleges rather than sports and art clubs, markets, online apps are enough for meeting and discovering new people already. But practical labs should remain the same.
-
-Pre-set adult content filter by google and all.
 
 So many things not to do, so what should we do = decision making, learn, observe, art, culture(sports, dance, music, movies) , exploration, tourism that's where you should focus on.
 
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
+
+
+
 
 
 
