@@ -28,7 +28,8 @@ Utensils
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash).
 
-
+Cooking pots
+________________________________________________ 
 100% cast iron wok with lid 3L x 1.
 
 Cast iron pot with lid for boiling.
@@ -37,7 +38,8 @@ Flat Pan cast iron.
 
 Cast iron Mortar and pestle (stone, wooden should be avoided due to breakage).
 
-
+Accessories
+________________________________________________ 
 Neem Wood Board + rolling pin (avoid stone, plastic, metal). (Neem = antibacterial wood)
 
 Knives big + small (wooden handle is recommended), Cutting board (Neem wood) (avoid stone, plastic or metal). 
@@ -107,7 +109,7 @@ Should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, acid
 Grocery(organic is written but not given, so grow your own)
 --------------------------------------------------------------------------------------------
 ```
-Gmo- Genetically modified organisms.
+*** Gmo- Genetically modified organisms.
 
 complex carbohydrates 
 ________________________________________________ 
@@ -158,7 +160,7 @@ Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dr
 
 Oil/fat
 ________________________________________________ 
-Cold pressed(not high temperature and pressure pasteurization) mustard oil (banned by godfather(usa), lift the ban)
+Cold pressed(not high temperature and pressure pasteurization) mustard oil. (banned by godfather(usa), lift the ban)
 
 Dairy(very difficult to get these, should be avoided) but these are very good and very high in protein. 
 ________________________________________________ 
@@ -193,7 +195,7 @@ Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone)
 Avoid gem stones = there is math formula to calculate what is suitable to whom
 
 Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
-Alta available in the market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf either, not sure what the formula is, needs more research(million dollar startup idea).
+Alta available in the market is fake, made of chemical whereas ancient alta was made from raw sugar, not sure what the formula is, needs more research(million dollar startup idea).
 
 ** Coloring hair tips will also soak NH3-ammonia compounds in hair color into skin.
 ** Henna mehndi is also very bad.
@@ -237,7 +239,7 @@ Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep a
 To avoid skin diseases one should take bath at least twice a day.
 
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
-And washing eyes and face with cold water at least 5 times a day or eyes will get damaged.
+And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
 
 Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
 
@@ -342,7 +344,7 @@ BLDC fan - 30 to 40 watts, BLDC motor fans = 30 USD max(available all around the
 
 Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
 
-Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.(petroleum gas powered very dangerous)
+Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.(petroleum gas powered oven very dangerous)
 
 Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
 
@@ -372,7 +374,7 @@ battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/ele
 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
 
-Bluetooth speaker = apple home/alexa studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
+Bluetooth speaker = apple home pod/alexa echo studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
 
 Phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste). https://youtu.be/xT9F9eW6mYI
 
