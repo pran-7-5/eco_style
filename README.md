@@ -170,9 +170,6 @@ Dahi(greek yogurt) (sour not sweet)
 ** Non-dairy milk should be avoided like almond milk because it's fake.
 ** Sunflower, safflower, olive, avocado, rapeseed, palm, vegetable oil should be avoided (expensive slow poisons, increases cholesterol resulting heart attacks, these oils + gym is fatal)
 
-
-
-*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ________________________________________________ 
 Vegetables
 ________________________________________________ 
@@ -185,6 +182,8 @@ ________________________________________________
 Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut, Mangoes (avoid Alphonso it's GMO), Bael, Amla.
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
+
+*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ```
 
 Women_specific
@@ -505,7 +504,6 @@ Ban of fences are important - wire, metal, wall, wood should be avoided... Can p
 Mineral mines
 --------------------------------------------------------------------------------------------
 ```
-
 Shutdown all types of power plants. Homes in cities can be powered by solar. Just 1 panel is required for one home, already available.
 
 Stop building hydro power dams.
@@ -547,7 +545,7 @@ Shipment = only technology, important goods not everything, grow food in your co
 
 Intercity
 ________________________________________________ 
-Air taxi = hire,  ambulance.
+EVTOL Air taxi = hire,  ambulance.
 
 Intracity(But you have said no road, OK wait, elevated surface automatic mud road leveling machine(roller), we just need to level the mud road time to time, like day after the rain)
 ________________________________________________ 
@@ -605,12 +603,8 @@ If not solved within 24 hrs. (auto deduction of salary from department head to v
 
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
 
-Legal battle is free and smooth, self representation, 
-
-Simplification of case file(only digital) 
-
+Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital) 
 ```
-
 
 Miscellaneous
 --------------------------------------------------------------------------------------------
@@ -630,9 +624,9 @@ kranti = transition(english), mas = month(english).
 
 Halo-eve
 Aluo(sanskrit) = light(english). 
-Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory. Rama = roma(Italy) = romance
-Dipa = butter lamp(english), balee(sacrifice)(english)
-
+Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory, rescuing his kidnapped wife. Rama = roma(Italy) = romance
+Dipa = butter lamp(english), balee(sanskrit) = sacrifice(english)
+Aluo(sanskrit)-balee(sanskrit) = light(english)-sacrifice(english)
 
 So many things not to do, so what should we do = decision making, learn, observe, art, culture(sports, dance, music, movies) , exploration, tourism that's where you should focus on.
 
