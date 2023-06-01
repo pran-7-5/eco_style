@@ -451,13 +451,16 @@ Metal cement petroleum and transportation, anything linked to this creates pollu
 House construction
 --------------------------------------------------------------------------------------------
 ```
+Land allocation
+________________________________________________ 
 Satellite imagery land allocation, same for each person.
 
 Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length - 5 m, breadth - 5 m, height - 4 m, Bathroom size = length - 3 m, breadth - 1 m, height - 4 m, Kitchen size = length - 5 m, breadth - 2 m, height - 4 m)
 
 Area for gardening. Minimize gardening tools(more wood, less metal, less power tools).
 
-
+Exterior
+________________________________________________ 
 Never build cement houses(especially those who live near earthquake zones).(We can't increase weight of the place)
 
 Wood and mud combined houses are best and you will be so happy.
@@ -476,7 +479,8 @@ Ban metal pipes. (Only this one plastic)
 
 Wiring = 1mm gauge wire enough to handle the load, not thicker wires or loss will increase.
 
-
+Interior
+________________________________________________ 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
 
 Home decors are not eco friendly.
@@ -582,9 +586,7 @@ For example Linux is open source and used by all servers. This is very good.
 Closed source (spying)  | Open source (Very safe)     
 ------------------------|----------------------------
 Whatsapp                | Signal     
-Instagram               | Pixelfed       
-Twitter                 | Mastodon     
-
+     
 So tell them to open source fast or shutdown we don't need these.(Apple, microsoft, google, meta)           
         
 
@@ -600,7 +602,8 @@ Inform top level. (auto upgrade)
 
 If not solved within 24 hrs. (auto deduction of salary from department head to victim) 
 
-
+Court reforms
+________________________________________________ 
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
 
 Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital) 
