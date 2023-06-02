@@ -269,7 +269,7 @@ Alcohol (decision making ability is affected and leads to poor judgment, enhance
 
 
 Smoke(enhance decision making process, decreases the anger)
---------------------------------------------------
+________________________________________________
 Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no side effects or overdose)(brain has cannabinoid receptors by default)(only sativa species all other are GMO)
 
 Opium (can cure all diseases, but it has overdose so caution is required, that's why the first option is recommended).
@@ -286,7 +286,7 @@ It is like you eat the less sweet first and then the more sweet item, but in thi
 
 Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Billion dollar startup idea)
 
-**Never use cigarettes(carcinogenic), cocaine and others(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
+**Never use cigarettes(carcinogenic), e-cigarettes, cocaine and others(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
 
 Cooking
@@ -338,11 +338,13 @@ Appliances
 --------------------------------------------------------------------------------------------
 ```
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(available all around the world).
+(Size of the bulb needs to be reduced, and the socket needs to be smaller like 2 pin plugs)
 
 BLDC fan - 30 to 40 watts, BLDC motor fans = 30 USD max(available all around the world).
-
+(Hemp fiber, 2-3 blade, more aerodynamic blades)
 
 Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
+(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app)
 
 Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.(petroleum gas powered oven very dangerous)
 
@@ -356,45 +358,67 @@ Water purifier - live near river drink direct, well water drink direct(not stead
 5 star = very low consumption, lowest bill, highest efficiency.
 
 Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD MAX
+(should be made of hemp fiber(outer body) and Clay body(inner body), cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
 
 Ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac = 500 USD MAX(available all around the world).
+(should be made of hemp fiber(outer body) and Clay body(inner cooling chamber), cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
 Washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, don't buy dryer, or inbuilt dryer(use rare) for rainy days ...sun dry is best  = 300 USD MAX(available all around the world).
+(should be made of hemp fiber, cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
 
 Dishwasher(200w) = 5 star inverter = 300 USD MAX(available all around the world).
-
+(should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app)
 
 On spot power generation is recommended (transmission lines are very inefficient; more than half the power lost is hysteresis only).
---------------------------------------------------
+________________________________________________
 solar panel = mono perc [500 w] (life = 25 years) = 300 USD MAX(available all over the world)(might require 2 panels in low sunlight areas like norway).
+(should be made of hemp fiber)
+
 solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD MAX(available all over the world).
+(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app)
+
 battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD MAX(available all over the world).
 
-
+Electronics
+________________________________________________ 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
+(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
 
 Bluetooth speaker = apple home pod/alexa echo studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
+(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
 
 Phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste). https://youtu.be/xT9F9eW6mYI
+(outer body should be made of hemp fiber)
 
 printer = thermal printers(not for everyone, save paper).
+(outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app)
 
 Ban watches, smartwatches are there.
+(outer body should be made of hemp fiber)
 
 Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed on all sides)= 30 USD/per camera MAX(available all over the world).
+(size needs to be reduced)(outer body should be made of hemp fiber)
 
 Door lock = design change required by replacing steel with carbon fiber or hemp fiber.
 
 Tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule similar.
+(outer body should be made of hemp fiber)
 
+Automobile
+________________________________________________ 
 Most people should use e bikes = 400 USD MAX(available all around the world) 
+(outer body should be made of hemp fiber)
+
 Most people should use mopeds = vespa electrica and equivalent = 1800 USD MAX(available all around the world)
+(outer body should be made of hemp fiber)
+
 Cheapest EV car available(citroen e-c3) = 15000 USD MAX(till 2023)(well ev solar charging would require 1 more solar panel addition to above calculation).
+(outer body should be made of hemp fiber)
 
 The best car is the Toyota Mirai but it is very expensive right now, because its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell not "Lithium battery = toxic and can’t be used in aviation").
 
-** A lot of metals need to be removed from these appliances and replaced by hemp fiber.
+** A lot of metal parts need to be removed from these appliances and replaced by hemp fiber.
 ```
 
 
@@ -409,8 +433,6 @@ Banning of street lights and poles = solar powered, 20 w LED enough ....should b
 
 Equipments
 ________________________________________________ 
-Fans can be made with hemp fiber so why metal and plastic.
-
 Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
 Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
 
@@ -424,7 +446,7 @@ Free phones for the poor.
 
 Banning of fiber optic cables.
 
-No need for capital and cities. 5G and satellite internet is already here. disperse the crowd. ( new invention required : Oneweb to cellular 5G converter technology doesn't exist)
+No need for capital and cities. 5G and satellite internet is already here. Disperse the crowd. ( new invention required : Oneweb to cellular 5G converter technology doesn't exist)
 
 Food
 ________________________________________________ 
@@ -440,7 +462,7 @@ Reduction of police muscle and fire and vehicle speed.
 
 Free speech. Right to information.
 
-We may have to abolish the marriage, which doesn't have any significance today= needs more thinking.
+We may have to abolish the marriage, which doesn't have any significance today = needs more thinking.
 
 Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already) 
 
@@ -479,7 +501,14 @@ Ban marble.
 
 Ban metal pipes. (Only this one plastic) 
 
-Wiring = 1mm gauge wire enough to handle the load, not thicker wires or loss will increase.
+
+Electrical wiring
+________________________________________________ 
+Wiring = 1mm gauge insulated copper wire enough to handle the load, not thicker wires or loss will increase.
+
+Earth wiring = 6ft deep grounding, 3-4 mm gauge uninsulated  copper wire.
+
+MCB - Main circuit breaker
 
 Interior
 ________________________________________________ 
@@ -609,6 +638,10 @@ ________________________________________________
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
 
 Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital) 
+
+Digital election
+________________________________________________ 
+Voting from registered phone number.
 ```
 
 Miscellaneous
