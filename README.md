@@ -135,7 +135,7 @@ Unpolished Biri/urad dal = dosa/idli/ vada.
 
 ** Masoor dal should be avoided.
 
-Sweetner
+Sweetener
 ________________________________________________ 
 Jaggery(raw unrefined sugarcane)(used in sweet rice, sweet dal but not to make lemonade, fruit juice)
 
@@ -670,6 +670,7 @@ So many things not to do, so what should we do = decision making, learn, observe
 
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
+
 
 
 
