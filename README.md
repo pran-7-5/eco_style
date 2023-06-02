@@ -175,7 +175,7 @@ Dahi(greek yogurt) (sour not sweet)
 ________________________________________________ 
 Vegetables
 ________________________________________________ 
-Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Potal, Sweet potato, Egg plant(only one in a day not more, and small one not big one, big one is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
+Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Potal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 
@@ -191,7 +191,7 @@ Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut,
 Women_specific
 --------------------------------------------------------------------------------------------
 ```
-Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels.
+Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels. (Should be stored in automated bank locker nearest to the house, take out on occasions.)
 Avoid gem stones = there is math formula to calculate what is suitable to whom
 
 Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
@@ -303,6 +303,7 @@ ________________________________________________
 Oil(fat) goes first. 
 Spices if required.
 Veggies or rice or dal.
+Add required Water.
 Close the lid.
 Boil it for 15 mins until done, don't open the lid yet.
 Fine tuning the technique, after a few rounds you will get the idea.
@@ -384,6 +385,8 @@ Electronics
 ________________________________________________ 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
 (size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
+
+Earbuds = jabra elite 3, jabra elite 4, sony. (These have ANC noise cancellation features, you have to turn OFF ANC while walking on the road be careful, use ANC only for conference calls)
 
 Bluetooth speaker = apple home pod/alexa echo studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
 (size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
@@ -531,6 +534,8 @@ Ban room heaters.
 Acrylic paints for artworks, canvas from leaf fiber not cloth.
 
 Children's toys are metal, plastic so ban them.
+
+Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
