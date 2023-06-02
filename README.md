@@ -191,7 +191,7 @@ Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut,
 Women_specific
 --------------------------------------------------------------------------------------------
 ```
-Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels. (Should be stored in automated bank locker nearest to the house, take out on occasions.)
+Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels. (Should be stored in an automated bank locker nearest to the house, taken out on occasions.)
 Avoid gem stones = there is math formula to calculate what is suitable to whom
 
 Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
@@ -675,6 +675,7 @@ So many things not to do, so what should we do = decision making, learn, observe
 
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
+
 
 
 
