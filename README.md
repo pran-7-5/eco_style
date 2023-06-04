@@ -546,9 +546,11 @@ Shutdown all types of power plants. Homes in cities can be powered by solar. Jus
 Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
 Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
 
-Stop building wind mills.(huge metal use)(huge transmission loss)
+Stop building wind mills.(huge metal use)(huge transmission loss)(natural flow is dissrupted)(reaction force(force required to keep it in it's place) is very high)
 
-Stop building hydro power dams.(huge metal use)(huge transmission loss)
+Stop building tidal mills.(huge metal use)(huge transmission loss)(natural flow is dissrupted)(reaction force(force required to keep it in it's place) is very high)
+
+Stop building hydro power dams.(huge metal use)(huge transmission loss)(natural flow is dissrupted)(reaction force(force required to keep it in it's place) is very high)
 
 Stop digging mines = we don't need metals anymore = natural hemp fiber and carbon fiber parts are used now and more efficient and lightweight.
 
