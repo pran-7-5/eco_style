@@ -436,9 +436,6 @@ Banning of street lights and poles = solar powered, 20 w LED enough ....should b
 
 Equipments
 ________________________________________________ 
-Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
-Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
-
 Banning of paper.
 
 Banning of currency notes immediately and digital apps are already there.
@@ -546,7 +543,12 @@ Mineral mines
 ```
 Shutdown all types of power plants. Homes in cities can be powered by solar. Just 1 panel is required for one home, already available.
 
-Stop building hydro power dams.
+Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
+Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
+
+Stop building wind mills.(huge metal use)(huge transmission loss)
+
+Stop building hydro power dams.(huge metal use)(huge transmission loss)
 
 Stop digging mines = we don't need metals anymore = natural hemp fiber and carbon fiber parts are used now and more efficient and lightweight.
 
@@ -661,11 +663,11 @@ Ban on coffins.
 How to process a dead body = remove the required organs and donate to organ banks, those who want to bury without the coffin and the cement block they used to build on it,  let them do that, they have free will. (or the enemies will pee on it after getting drunk)
 But the best way is to put the bodies in a solar powered shredder and mix it with desert sand to manufacture organic manure for agriculture. (No, I am not cruel yet)
 
-Ban Christmas tree, Halloween pumpkin.(This is madness, I mean few leaves enough but not the whole tree)
+Ban Christmas tree, Halloween pumpkin.(This is madness, I mean few leaves enough but not the whole tree)(This is pre christian tradition)
 Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from constellation Sagittarius (dhanu) to Capricorn (makara)]
 kranti = transition(english), mas = month(english).
 
-Halo-eve
+Halo-eve(This is pre christian tradition)
 Aluo(sanskrit) = light(english). 
 Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory, rescuing his kidnapped wife. Rama = roma(Italy) = romance
 Dipa = butter lamp(english), balee(sanskrit) = sacrifice(english)
