@@ -680,6 +680,274 @@ So many things not to do, so what should we do = decision making, learn, observe
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
 
+# General_knowledge 
+
+My choice of movies
+--------------------------------------------------------------------------------------------
+```
+A few good men. 
+A beautiful mind. 
+Batman begins. 
+Brave heart. 
+Bruce Almighty. 
+Ford vs Ferrari. 
+Forrest Gump. 
+Gladiator. 
+Good will hunting. 
+Hacksaw ridge. 
+Ironman 1.
+Interstellar. 
+Jack reacher. 
+Jerry Maguire. 
+Jobs. 
+Leon the professional. 
+Love and other drugs. 
+Rambo. 
+Rush. 
+
+Schindler's list. 
+Snowden. 
+Star Wars. 
+
+Top gun. 
+The adjustment bureau.
+The aviator. 
+The boy in the striped pajamas. 
+The grand Budapest hotel. 
+The green mile. 
+The intern. 
+The internet's own boy. 
+The last samurai. 
+The man who knew infinity. 
+The October sky. 
+The pianist. 
+ 
+The pursuit of happiness. 
+The Shawshank redemption. 
+The Truman show. 
+
+Vanilla sky.
+V for vendetta. 
+
+
+Tv
+--------------------------------------------------------------------------------------------
+Big bang theory. 
+Mr robot. 
+Man vs wild.
+Megafactories. 
+Planet mechanics. 
+Silicon Valley. 
+Small wonder. 
+The mentalist. 
+The person of interest. 
+
+My favorite movie - The truman show
+My favorite tv series - Big bang theory
+My favorite actor - Tom Cruise
+My favorite actress - this one will start ww3
+My favorite band - pink Floyd
+
+
+My favorite songs
+--------------------------------------------------------------------------------------------
+Gladiator- now we are free
+Berlin- take my breath away
+Last note of freedom- days of thunder
+Juice newton-Morning angel
+
+Wind of change- scorpions
+Astronomy- blue oyster cult
+Les miserables - do you hear the people sing
+Sympathy for the devil
+Sting - shape of my heart
+Bad to the bone
+Dark knight - hans zimmer
+
+Rush - lost but won
+No time for caution - interstellar
+
+
+Well I have seen around 500 movies. These are the best of the best. I am sad I lost my backup hard disk drive last October I think. I know I am a software engineer but what can I say about my negligence. 
+
+Remember that you have to transfer your backup before 6 years to a new drive. The lifespan of a hard disk is 6-7 years MAX. 
+
+Now the latest technology is NVME drives. 
+```
+
+About cosmos
+--------------------------------------------------------------------------------------------
+```
+People often ask me why all this? 
+
+And I say your question is wrong, Why not. You are asking me only because you are here. 
+
+Then, they ask, what is the start and what is the end. 
+
+I say there is no start and there is no end. 
+
+Sanskrit = An-ant
+English = No-end
+
+Then they say I can't understand where the boundary is ?. 
+
+And I reply
+Sanskrit = a-chint-ya
+English = un-think-able
+
+It is difficult to think and hard to grasp. 
+
+Then they say we can't touch the star? 
+
+I say do you want to get burnt. You are standing on one and you are the remains. 
+
+You have heard of a book called A Brief History of Time by Stephen Hawking. Well it is a waste of time. 
+
+Yes there was no big bang, some nut bags sitting in an air conditioned room at Trinity hall thinks so, well they all are dead now with their nobel prizes. 
+
+Well stars are born like that with a lot of noise like a crying newborn baby pulled out of the womb. 
+
+But the cosmos is something else, has no beginning and no end. There is no big bang and there will be no big crunch. 
+```
+
+Religion (I don't think there such a thing)
+--------------------------------------------------------------------------------------------
+```
+Rome doesn't have a record of such a person. 
+
+
+Who is more wise a person living in jungles, rivers, mountains Or a desert dweller. 
+
+Even that, is the person's role significant enough to be remembered.
+
+The oil is drying up and there won't be enough money to power up Air conditioners in burj khalifa. 
+
+I think they will install rocket engines and launch it to the moon, at least the journey to heaven will give some relief. 
+
+
+Why did you grow the population if you don't have enough resources, you don't have agricultural land. Well try drinking the oil no one will buy it anyway. 
+
+This is an example of extreme ignorance. They will keep killing each other. 
+```
+
+Purpose of life
+--------------------------------------------------------------------------------------------
+```
+These below lines are absolute, so don't worry it is very difficult to achieve this. 
+
+Animals(hardware) evolved to become more complex animals until it became manu that's where the evolution stopped. 
+
+The animal which is the best hunter is the lion. The animal which is the best flier is the eagle. Like that the animal which is the best thinker is man. 
+
+
+Manu(manas) = man(mind), once you are a mind kind of animal then the physical evolution(interspecies) stopped. 
+
+
+Only mind(software) will evolve(intraspecies) now on. Moon expedition is a leap of mind not the body. 
+
+
+iPhone 12 (kid) (less perfect ) 
+
+modification = (mating with partner having dominant traits) (dominant traits meaning like long height) 
+
+iPhone 13 (rebirth) (perfect ) 
+(minor hardware improvement/ more software features) 
+
+modified (mating) 
+
+iPhone 14 (rebirth) more perfect 
+(minor hardware improvement/ more software features) 
+
+You are not here from your birthday, You were always here. 
+
+Just software(mind) got major improvements and minor hardware improvements. 
+
+So the fundamental of the creation is to move towards perfection with time, moving towards equilibrium. This is the same for everything that exists. 
+
+Your evolution in this body
+________________________________________________ 
+You are now a man. 
+
+But you were a toddler, like a dwarf. 
+
+Before that you were walking with your hands, but you tried to stand on your legs and kept falling like a lion tries to stand a few times. 
+
+Before that you were a boar, using knees and hands to walk. 
+
+Before that you were crawling on your belly like a tortoise. 
+
+Before that you were swimming inside your mother's womb like a fish(sperm). 
+
+Human evolution
+________________________________________________ 
+So man came from a four legged animal. 
+Before that the four legged animal came from the tortoise. 
+Before that the tortoise came from a fish. 
+
+Before that algae, bacteria etc. 
+
+And of course the plants. 
+
+So the ocean (water) is compulsory for life to be created. With oxygen hydrogen carbon nitrogen and others. 
+```
+
+Soul/spirit = atman(sanskrit) 
+--------------------------------------------------------------------------------------------
+```
+Spirit is the quality/information/definition/characteristics/properties of your body/any object. Spirit is not a material whereas your body is material/object. 
+
+Every material has quality and properties that are particular to them and also properties similar to others. 
+
+For example similar properties  you eat, animals also eat, stars also eat. 
+
+Particular properties you can travel to the moon, animals can't. 
+
+Spirit is essential like your abstract, your information, you have love, care, honesty, beauty these concepts don't exist physically),  you have these things even if you are not showing these qualities. 
+
+No, you can't become a ghost, there is no such thing as ghosts. there is nothing that will come out of you, when your body dies. 
+
+Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information when you were alive. 
+
+The spirit has no physical connection with your body, it is the meaning of the object. 
+```
+ 
+Ways to be immortal
+--------------------------------------------------------------------------------------------
+```
+Having a child(passing own body/genetic material) (There is no guarantee that your offspring will be better than you, but still it will get better and better after many births) 
+
+Ancestral= even if you don't have a child you might have brother and sister, they also carry almost the same genetic material. Even more, your mother and father have brothers and sisters and their children. 
+
+Having a major achievement(people that are not your blood relative will become you, they are inspired by your spirit/quality/work) (the problem is someone will replace your work in the future if your work is not ideal and absolute.) 
+
+Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication. ) 
+```
+
+Genetics
+--------------------------------------------------------------------------------------------
+```
+If you want to know about women sex organs specifically then, I will say
+
+To be honest I think there should not be much difference between man and woman, there is only 1 chromosome difference. The man was a woman, that's why they have nipples. 
+
+Female = X chromosome(girl) = 42 chromosomes
+
+Women don't have Y chromosomes, Women don't have ability to control the gender of the new offspring. 
+
+
+Male = X/Y chromosome = 42/43 chromosomes
+
+Only Men have both X and Y chromosomes. 
+So it depends upon male whether he wants a boy or girl to reproduce. The problem is men are very stupid nowadays, they don't know how to control genetics. 
+
+
+Girl birth = XX
+Boy birth = XY
+
+So X is common, that's why men also have nipples. 
+
+If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
+```
 
 
 
