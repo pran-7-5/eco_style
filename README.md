@@ -830,7 +830,7 @@ Only mind(software) will evolve(intraspecies) now on. Moon expedition is a leap 
 iPhone 12 (kid) (less perfect ) 
 
 modification = (mating with partner having dominant traits) (dominant traits meaning like long height) 
-(well blue eyes and red hair are not dominant traits, these are recessive genes, which means it may look good but most of them are not good surviors, they are prone to diseases more often than dominant genes, well it is mostly psychological but they don't know that)
+(well red hair is not a dominant traits, these are recessive genes, which means it may look good but most of them are not good surviors, they are prone to diseases more often than dominant genes, well it is mostly psychological)
 
 iPhone 13 (rebirth) (perfect ) 
 (minor hardware improvement/ more software features) 
