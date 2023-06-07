@@ -771,7 +771,7 @@ Remember that you have to transfer your backup before 6 years to a new drive. Th
 Now the latest technology is NVME drives. 
 ```
 
-About cosmos
+About the cosmos
 --------------------------------------------------------------------------------------------
 ```
 People often ask me why all this? 
@@ -799,7 +799,7 @@ Well stars are born like that with a lot of noise like a crying newborn baby pul
 But the cosmos is something else, has no beginning and no end. There is no big bang and there will be no big crunch. 
 ```
 
-Religion (I don't think there such a thing)
+Religion (I don't think there is such a thing)
 --------------------------------------------------------------------------------------------
 ```
 Rome doesn't have a record of such a person. 
@@ -830,6 +830,7 @@ Only mind(software) will evolve(intraspecies) now on. Moon expedition is a leap 
 iPhone 12 (kid) (less perfect ) 
 
 modification = (mating with partner having dominant traits) (dominant traits meaning like long height) 
+(well blue eyes and red hair are not dominant traits, these are recessive genes, which means it may look good but most of them are not good surviors, they are prone to diseases more often than dominant genes, well it is mostly psychological but they don't know that)
 
 iPhone 13 (rebirth) (perfect ) 
 (minor hardware improvement/ more software features) 
@@ -906,11 +907,11 @@ Genetics
 ```
 If you want to know about women sex organs specifically then, I will say to be honest I think there should not be much difference between man and woman, there is only 1 chromosome difference. The man was a woman, that's why they have nipples. 
 
-Female = X chromosome(girl) = 42 chromosomes
+Female = X chromosome(girl) = 23 chromosomes
 Women don't have Y chromosomes, Women don't have ability to control the gender of the new offspring. 
 
 
-Male = X/Y chromosome = 42/43 chromosomes
+Male = X/Y chromosome = 23/22 chromosomes
 Only Men have both X and Y chromosomes. 
 So it depends upon male whether he wants a boy or girl to reproduce. The problem is men are very stupid nowadays, they don't know how to control genetics. 
 
