@@ -804,7 +804,7 @@ Religion (I don't think there is such a thing)
 ```
 Rome doesn't have a record of such a person. 
 
-Who is more wise a person living in jungles, rivers, mountains Or a desert dweller. 
+Who is more wise a person living in jungles, rivers, mountains or a desert dweller. 
 Even that, is the person's role significant enough to be remembered.
 
 The oil is drying up and there won't be enough money to power up Air conditioners in burj khalifa. 
