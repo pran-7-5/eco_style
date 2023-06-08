@@ -175,7 +175,7 @@ Dahi(greek yogurt) (sour not sweet)
 ________________________________________________ 
 Vegetables
 ________________________________________________ 
-Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Patal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
+Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Patal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), White radish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 
@@ -203,6 +203,7 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Avoid Vaseline and other petroleum jellies.
 ** Avoid waxing hair.
 ** Avoid tattoos, these inks are dangerous.
+** Avoid pedicure, manicures at salons.
 
 
 Hair oil/body lotion if you use = Pure coconut oil/amla.
@@ -388,7 +389,7 @@ ________________________________________________
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
 (size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
 
-Earbuds = jabra elite 3, jabra elite 4, sony. (These have ANC noise cancellation features, you have to turn OFF ANC while walking on the road be careful, use ANC only for conference calls)
+Earbuds = jabra elite 3, jabra elite 4, sony. (These have ANC(noise cancellation) features, you have to turn OFF ANC while walking on the road be careful, use ANC only for conference calls)
 
 Bluetooth speaker = apple home pod/alexa echo studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
 (size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
@@ -649,7 +650,6 @@ If not solved within 24 hrs. (auto deduction of salary from department head to v
 Court reforms
 ________________________________________________ 
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
-
 Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital) 
 
 Digital election
@@ -663,7 +663,6 @@ Miscellaneous
 Ban concerts. Ban stadiums. Ban large gatherings.
 
 Ban religion.
-
 Ban on coffins.
 
 How to process a dead body = remove the required organs and donate to organ banks, those who want to bury without the coffin and the cement block they used to build on it,  let them do that, they have free will. (or the enemies will pee on it after getting drunk)
@@ -844,9 +843,7 @@ iPhone 14 (rebirth) more perfect
 (minor hardware improvement/ more software features) 
 
 You are not here from your birthday, You were always here. 
-
 Just software(mind) got major improvements and minor hardware improvements. 
-
 So the fundamental of the creation is to move towards perfection with time, moving towards equilibrium. This is the same for everything that exists. 
 
 Your evolution in this body
