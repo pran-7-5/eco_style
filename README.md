@@ -195,7 +195,7 @@ Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone)
 Avoid gem stones = there is math formula to calculate what is suitable to whom
 
 Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
-Alta available in the market is fake, made of chemical whereas ancient alta was made from raw sugar, not sure what the formula is, needs more research(million dollar startup idea).
+Alta available in the market is fake, made of chemical whereas ancient alta was made from raw sugar or paan leaf, not sure what the formula is, needs more research(million dollar startup idea).
 
 ** Coloring hair tips will also soak NH3-ammonia compounds in hair color into skin.
 ** Henna mehndi is also very bad.
@@ -203,7 +203,7 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Avoid Vaseline and other petroleum jellies.
 ** Avoid waxing hair.
 
-Hair oil if you use = Pure coconut oil/amla.
+Hair oil/body lotion if you use = Pure coconut oil/amla.
 
 ** Hair dryer, straightening iron should be avoided.
 
@@ -245,7 +245,7 @@ Banning of gym equipments, too much equipments(creating pollution due to excess 
 
 Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
 
-Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take rest, drink water, eat more fruits, you may need to take tablets = esomeprazole 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)
+Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take rest, drink water, eat more fruits, you may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularily or you might develop stones)
 
 Ban on cosmetic surgery.
 
@@ -670,10 +670,10 @@ Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from 
 kranti = transition(english), mas = month(english).
 
 Halo-eve(This is pre christian tradition)
-Aluo(sanskrit) = light(english). 
+Aluo(sanskrit) = Lamp/light(english). 
 Dipa-balee(diwali)(sanskrit) = Prince Rama returned home after victory, rescuing his kidnapped wife. Rama = roma(Italy) = romance
 Dipa = butter lamp(english), balee(sanskrit) = sacrifice(english)
-Aluo(sanskrit)-balee(sanskrit) = light(english)-sacrifice(english)
+Aluo(sanskrit)-balee(sanskrit) = Lamp/light(english)-sacrifice(english)
 
 So many things not to do, so what should we do = decision making, learn, observe, art, culture(sports, dance, music, movies) , exploration, tourism that's where you should focus on.
 
@@ -726,7 +726,6 @@ The pursuit of happiness.
 The Shawshank redemption. 
 The Truman show. 
 
-Vanilla sky.
 V for vendetta. 
 
 Tv
