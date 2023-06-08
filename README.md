@@ -115,7 +115,7 @@ complex carbohydrates
 ________________________________________________ 
 Rice (white rice) = dosa/idli/vada/kheer (Avoid basmati rice, it's GMO).
 Chudda(poha)(flattened rice) = sweet poha, salty poha.
-Muddi(puffed rice) = jhal murri.
+Muddi(puffed rice) = Jhal Muddi.
 khoi(popped rice) = Ukhudda.
 
 ** Red, black, brown rice are GMO and should be avoided.
@@ -129,8 +129,8 @@ Suji(wheat granules) = dosa/idli/vada/upma/kheer.
 Plant proteins
 ________________________________________________ 
 Unpolished arhar Dal(lentils/ legume) = dal/dalma. 
-Unpolished Moong dal = dalma/ saag mung/ dal.
-Unpolished Chana dal = dal/dalma/sattu/besan/pampad.
+Unpolished Moong dal = dalma/ saag moong/ dal.
+Unpolished Chana dal = dal/dalma/sattu/besan/papad.
 Unpolished Biri/urad dal = dosa/idli/ vada.
 
 ** Masoor dal should be avoided.
@@ -155,7 +155,7 @@ Spices
 ________________________________________________ 
 Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain).
 
-** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, kasuri methi should be avoided.
+** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, Kasuri methi should be avoided.
 
 
 Oil/fat
@@ -175,7 +175,7 @@ Dahi(greek yogurt) (sour not sweet)
 ________________________________________________ 
 Vegetables
 ________________________________________________ 
-Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Potal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
+Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Patal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), Raddish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 
@@ -202,6 +202,8 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided).
 ** Avoid Vaseline and other petroleum jellies.
 ** Avoid waxing hair.
+** Avoid tattoos, these inks are dangerous.
+
 
 Hair oil/body lotion if you use = Pure coconut oil/amla.
 
@@ -245,7 +247,7 @@ Banning of gym equipments, too much equipments(creating pollution due to excess 
 
 Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
 
-Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take rest, drink water, eat more fruits, you may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularily or you might develop stones)
+Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits, you may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
 
 Ban on cosmetic surgery.
 
@@ -311,7 +313,7 @@ Fine tuning the technique, after a few rounds you will get the idea.
 
 Day                     | BreakF                      | Lunch                              | Snacks                 |  Dinner               | Conclusion
 ------------------------|-----------------------------|------------------------------------|------------------------|-----------------------|-----------------------
-Mon                     | puri                        |dalma+rice                          | murri(no cooking)      |sattu(no cooking)      |  just example you can customize your own
+Mon                     | puri                        |dalma+rice                          | muddi(no cooking)      |sattu(no cooking)      |  just example you can customize your own
 Tue                     | sweet poha(no cooking)      |dal+rice+saag                       | vada                   |sattu(no cooking)      |
 wed                     | luchi                       |dalma+rice                          | chuda(no cooking)      |sattu(no cooking)      |
 Thur                    | salty poha                  |dal+rice+mustard sauce dish         | noodles                |sattu(no cooking)      |
@@ -323,12 +325,12 @@ Other food items = Mustard paste curries, Mango khatta, Dahi vada.
 
 Rice = plain/salty/sweet/pudding.
 
-Pitha(sanskrit)(greek = pitta/ roman = pizza)(something stiff = bread). 
-Rice or suji pitha = dosa/idli/vada.
-Wheat pitha =  roti/nan(this one is Italian pizza).
-Fried wheat pitha = puri/luchi.
+Pitha(sanskrit)(greek =Pita/ roman = pizza)(something stiff = bread). 
+Rice or suji pitha = dosa(pan)/idli(steamed)/vada(fried).
+Wheat Pitha(sanskrit) =  roti(baked)/nan(baked)(this one is Italian pizza).
+Fried wheat Pitha(sanskrit) = puri(fried)/luchi(fried).
 
-Sweet pitha = cakera(sanskrit) = (cake = sweet pizza) (donut/pretzel comes in this category). 
+Sweet Pitha = cakera(sanskrit) = (cake = sweet pizza) (donut/pretzel comes in this category). 
 
 Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi.
 
@@ -351,7 +353,7 @@ Microwave and other ovens - stainless steel and teflon coating inside, very dang
 
 Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
 
-Water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near river....never use RO - its equivalent to distilled water used in big batteries and has nothing in it, no minerals.
+Water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near river, avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals.
 
 
 1 star = very high consumption, highest bill, lowest efficiency.
@@ -507,6 +509,8 @@ ________________________________________________
 Wiring = 1mm gauge insulated copper wire enough to handle the load, not thicker wires or loss will increase.
 
 Earth wiring = 6ft deep grounding, 3-4 mm gauge uninsulated  copper wire.
+
+The wiring should be done in such a way that the least and shortest length of wire is used to connect every room from the MCB. Don’t create points on every wall, just one wall is enough. 
 
 MCB - Main circuit breaker
 
@@ -666,8 +670,8 @@ How to process a dead body = remove the required organs and donate to organ bank
 But the best way is to put the bodies in a solar powered shredder and mix it with desert sand to manufacture organic manure for agriculture. (No, I am not cruel yet)
 
 Ban Christmas tree, Halloween pumpkin.(This is madness, I mean few leaves enough but not the whole tree)(This is pre christian tradition)
-Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from constellation Sagittarius (dhanu) to Capricorn (makara)]
-kranti = transition(english), mas = month(english).
+Makar sun-kranti-mas(sanskrit) = [occasion marks the transition of the sun from constellation Sagittarius (Dhanu) to Capricorn (Makara)]
+Kranti = transition(english), mas = month(english).
 
 Halo-eve(This is pre christian tradition)
 Aluo(sanskrit) = Lamp/light(english). 
@@ -829,7 +833,7 @@ Only mind(software) will evolve(intraspecies) now on. Moon expedition is a leap 
 iPhone 12 (kid) (less perfect ) 
 
 modification = (mating with partner having dominant traits) (dominant traits meaning like long height) 
-(well red hair is not a dominant traits, these are recessive genes, which means it may look good but most of them are not good surviors, they are prone to diseases more often than dominant genes, well it is mostly psychological)
+(well red hair is not a dominant traits, these are recessive genes, which means it may look good but most of them are not good survivors, they are prone to diseases more often than dominant genes, well it is mostly psychological)
 
 iPhone 13 (rebirth) (perfect ) 
 (minor hardware improvement/ more software features) 
@@ -921,6 +925,7 @@ So X is common, that's why men also have nipples.
 
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 ```
+
 
 
 
