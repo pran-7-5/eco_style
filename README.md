@@ -709,7 +709,6 @@ Rambo.
 Rush. 
 
 Schindler's list. 
-Snowden. 
 Star Wars. 
 
 Top gun. 
