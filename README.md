@@ -982,8 +982,10 @@ I had two fractures. I was cycling very fast and fell one evening in class 4 and
 Cuts, wounds, burns, shock, accidents - these are just too many instances I don’t remember, well I was an athlete so it’s natural.
 
 No I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
-The doctor is upset that he hasn't seen me for 6 years now, he and his circle are always interested in knowing the latest technologies. Doctor started to come to the football ground when he found out I go running everyday at 5 A.M, then there were so many people coming, I had to stop going. 
+The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
