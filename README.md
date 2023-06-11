@@ -336,6 +336,15 @@ Sweet Pitha = cakera(sanskrit) = (cake = sweet pizza) (donut/pretzel comes in th
 Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi.
 
 ** Cashew barfi, should be avoided
+
+New born baby
+---------------
+Initialy breastfeeding.
+Just boiled and smashed rice/chuda(poha/flattened rice) without salt and spices and oil, extra boiled like very soft like pudding.
+
+Then if the baby has gained some weight now dal(It is protein so check if baby is ready, and not showing any problem) but still avoid oil and spices.
+
+** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, misri, oil and spice comes after 5 years of age. 
 ```
 
 Appliances
