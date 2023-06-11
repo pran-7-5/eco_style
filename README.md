@@ -26,7 +26,8 @@ What we are trying here is to minimize the use of materials that are mined - met
 Utensils
 --------------------------------------------------------------------------------------------
 ```
-Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after wash).
+Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)
+(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after washing).
 
 Cooking pots
 ________________________________________________ 
@@ -55,7 +56,8 @@ Clay storage jars.
 Clay glass. 
 
 
-** non-stick teflon(very dangerous), aluminum, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non stick Teflon utensils should be avoided, but why ? because = metals have leaching properties, can enter the central nervous system, aluminum and copper turn to Al2O3 and CuO. ceramic has paint.
+** non-stick teflon(very dangerous), aluminum, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non-stick Teflon utensils should be avoided. 
+But why ? because = metals have leaching properties, can enter the central nervous system, aluminum and copper turn to Al2O3 and CuO. ceramic has paint.
 
 
 Food Packaging
@@ -138,7 +140,6 @@ Unpolished Biri/urad dal = dosa/idli/ vada.
 Sweetener
 ________________________________________________ 
 Jaggery(raw unrefined sugarcane)(used in sweet rice, sweet dal but not to make lemonade, fruit juice)
-
 Misri (crystal raw unrefined sugarcane)(used in making lemonade, fruit juice)
 
 ** Refined sugar should be avoided.
@@ -153,7 +154,15 @@ Achar (pickle) = mango/amla/lemon/chili/ginger.
 
 Spices
 ________________________________________________ 
-Hing, Mustard seeds, Turmeric whole, Clove whole, Ginger whole, Fennel seeds, Dried mango, Dried amla, Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain).
+Hing
+Mustard seeds
+Turmeric whole
+Clove whole
+Ginger whole
+Fennel seeds
+Dried mango
+Dried amla
+Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain)
 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, Kasuri methi should be avoided.
 
@@ -175,17 +184,32 @@ Dahi(greek yogurt) (sour not sweet)
 ________________________________________________ 
 Vegetables
 ________________________________________________ 
-Koshola saag(spinach)(other saags should be avoided), Pumpkin (very big ones areGMO), Patal, Sweet potato, Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO), White radish, Green bananas, green Chili ( careful don't buy big GMO ones), Lemon (what to say its magical).
+Koshola saag(spinach)(other saags should be avoided)
+Pumpkin (very big ones areGMO)
+Patal
+Sweet potato
+Green egg plant(only one in a day not more, and small one not big one, big one is GMO, purple is GMO)
+White radish
+Green bananas
+green Chili ( careful don't buy big GMO ones)
+Lemon (what to say its magical)
 
 ** Onion, tomato, corn, okra, carrot, turnip, cauliflower, cabbage, broccoli, palak, peas, bell pepper, Peas, Beans, Potato (brownies/fries), beans etc should be avoided.
 
 Fruits
 ________________________________________________ 
-Orange, Bananas (big ones are GMO), Green Grapes (dark grapes are GMO), Coconut, Mangoes (avoid Alphonso it's GMO), Bael, Amla.
+Orange
+Bananas (big ones are GMO)
+Green Grapes (dark grapes are GMO)
+Coconut
+Mangoes (avoid Alphonso it's GMO)
+Bael
+Amla
 
 ** Apple, strawberry, watermelon, guava, jackfruit, pineapple, lichi, kiwi, raspberry, blueberry etc should be avoided, (Steve jobs died because of this, he didnt know which fruit to eat).
 
-*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
+*** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. 
+Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ```
 
 Women_specific
@@ -224,7 +248,7 @@ Color- light color. (Things look black because of Black body radiation, which me
 ** Elastane, spandex, linen, polyester, should be avoided
 
 ** Jeans(factory worker)(takes huge water to manufacture) and H&M should be avoided. 
-** I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway... And the weather is hot already.
+** I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway. And the weather is hot already.
 
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
@@ -241,14 +265,18 @@ Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep a
 
 To avoid skin diseases one should take bath at least twice a day.
 
-Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind... These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
+Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind. 
+These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
 
-Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) (weight lifting can cause permanent tissue damage in long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
+Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) 
+(weight lifting can cause permanent tissue damage in the long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
 
-Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
+Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)
+(Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
 
-Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits, you may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
+Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits. 
+You may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
 
 Ban on cosmetic surgery.
 
@@ -266,7 +294,11 @@ Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
 ** All types of supplements(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugar free is more dangerous than sugar(don't fake your receptors).
 
 
-Alcohol (decision making ability is affected and leads to poor judgment, enhances the anger) = White wine (green grapes), Rum (sugarcane), Wheat beer.
+Alcohol (decision making ability is affected and leads to poor judgment, enhances the anger) 
+________________________________________________
+White wine (green grapes)
+Rum (sugarcane)
+Wheat beer
 
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided.
 
@@ -366,7 +398,8 @@ Microwave and other ovens - stainless steel and teflon coating inside, very dang
 
 Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
 
-Water purifier - live near river drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near river, avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals.
+Water purifier - live near rivers, drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near rivers. 
+Avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals.
 
 
 1 star = very high consumption, highest bill, lowest efficiency.
@@ -415,7 +448,8 @@ printer = thermal printers(not for everyone, save paper).
 Ban watches, smartwatches are there.
 (outer body should be made of hemp fiber)
 
-Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed on all sides)= 30 USD/per camera MAX(available all over the world).
+Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. 
+(weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed on all sides)= 30 USD/per camera MAX(available all over the world).
 (size needs to be reduced)(outer body should be made of hemp fiber)
 
 Door lock = design change required by replacing steel with carbon fiber or hemp fiber.
@@ -494,7 +528,8 @@ Land allocation
 ________________________________________________ 
 Satellite imagery land allocation, same for each person.
 
-Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. (Room size = length - 5 m, breadth - 5 m, height - 4 m, Bathroom size = length - 3 m, breadth - 1 m, height - 4 m, Kitchen size = length - 5 m, breadth - 2 m, height - 4 m)
+Every person should get his own room in a family (not a small room, mind needs more room to grow), but smallest bathroom possible. 
+(Room size = length - 5 m, breadth - 5 m, height - 4 m, Bathroom size = length - 3 m, breadth - 1 m, height - 4 m, Kitchen size = length - 5 m, breadth - 2 m, height - 4 m)
 
 Area for gardening. Minimize gardening tools(more wood, less metal, less power tools).
 
@@ -534,6 +569,8 @@ MCB - Main circuit breaker
 Interior
 ________________________________________________ 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
+
+Metal screws and nails should be avoided.
 
 Home decors are not eco friendly.
 
@@ -944,8 +981,11 @@ I have never been diagnosed with any disease, if you are vegetarian then you wil
 I had two fractures. I was cycling very fast and fell one evening in class 4 and broke an arm. Then I was running very fast in first year inside the college building and collided with a pillar and broke a finger. It was a curved building. 
 Cuts, wounds, burns, shock, accidents - these are just too many instances I don’t remember, well I was an athlete so it’s natural.
 
-No I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. The doctor is upset that he hasn't seen me for 6 years now, he and his circle are always interested in knowing the latest technologies. Doctor started to come to the football ground when he found out I go running everyday at 5 A.M, then there were so many people coming, I had to stop going. 
+No I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
+The doctor is upset that he hasn't seen me for 6 years now, he and his circle are always interested in knowing the latest technologies. Doctor started to come to the football ground when he found out I go running everyday at 5 A.M, then there were so many people coming, I had to stop going. 
 ```
+
+
 
 
 
