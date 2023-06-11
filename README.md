@@ -496,6 +496,10 @@ Build only the house not floors above, it is very important to escape emergency 
 
 Four very tall trees at 4 corners of the house to ground the current in case of lightning. 
 
+Four windows on four walls of the room for natural ventilation and cooling in summer hot weather.
+
+East facing main entrance. (To honor and remember that we are made from the Sun and its light should enter first at sunrise, like the colosseum, parthenon, pyramid of giza, chichen itza.
+
 Ancient structures like Rome and temples of India are made of (lime mortar) . It is a natural eco-friendly cement made from baked dead sea shells hand picked and collected from sea shore. (Today's cement = modern cement = CaCO3 is obtained by mining.)
 
 Bricks = baked is a solar powered curing oven.
@@ -745,7 +749,7 @@ The person of interest.
 My favorite movie - The truman show
 My favorite tv series - Big bang theory
 My favorite actor - Tom Cruise
-My favorite actress - this one will start ww3
+My favorite actress - Anne Hathaway
 My favorite band - pink Floyd
 
 My favorite songs
@@ -927,3 +931,36 @@ If there are things that only girls have, then I can't verify that, personally e
 
 
 
+<<<<<<< Updated upstream
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
