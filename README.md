@@ -338,13 +338,16 @@ Dessert = Peda, Ladoo(boondi/coconut), Gulab jamun, almond barfi.
 ** Cashew barfi, should be avoided
 
 New born baby
----------------
-Initialy breastfeeding.
-Just boiled and smashed rice/chuda(poha/flattened rice) without salt and spices and oil, extra boiled like very soft like pudding.
+________________________________________________ 
+Initially breastfeeding as long as the woman can produce milk.
 
-Then if the baby has gained some weight now dal(It is protein so check if baby is ready, and not showing any problem) but still avoid oil and spices.
+Just boiled and smashed rice/chuda(poha/flattened rice)(these are carbohydrates very necessary, it is the building block), extra boiled very soft like pudding, but without salt and spices and oil.
 
-** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, misri, oil and spice comes after 5 years of age. 
+Then if the baby has gained some weight then dal(It is protein so check if the baby is ready, and not showing any problem), but still avoid oil and spices.
+
+Then khichdi is a good dish for babies. It is rice and dal mixed and boiled together without salt, oil and spices. 
+
+** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, sweet, oil and spice that comes after 5 years of age. 
 ```
 
 Appliances
@@ -922,11 +925,9 @@ If you want to know about women sex organs specifically then, I will say to be h
 Female = X chromosome(girl) = 23 chromosomes
 Women don't have Y chromosomes, Women don't have ability to control the gender of the new offspring. 
 
-
 Male = X/Y chromosome = 23/22 chromosomes
 Only Men have both X and Y chromosomes. 
 So it depends upon male whether he wants a boy or girl to reproduce. The problem is men are very stupid nowadays, they don't know how to control genetics. 
-
 
 Girl birth = XX
 Boy birth = XY
@@ -934,5 +935,17 @@ So X is common, that's why men also have nipples.
 
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 ```
+
+Conclusion
+--------------------------------------------------------------------------------------------
+```
+I have never been diagnosed with any disease, if you are vegetarian then you will be fine. 
+
+I had two fractures. I was cycling very fast and fell one evening in class 4 and broke an arm. Then I was running very fast in first year inside the college building and collided with a pillar and broke a finger. It was a curved building. 
+Cuts, wounds, burns, shock, accidents - these are just too many instances I don’t remember, well I was an athlete so it’s natural.
+
+No I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. The doctor is upset that he hasn't seen me for 6 years now, he and his circle are always interested in knowing the latest technologies. Doctor started to come to the football ground when he found out I go running everyday at 5 A.M, then there were so many people coming, I had to stop going. 
+```
+
 
 
