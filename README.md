@@ -1,6 +1,8 @@
 # hammer_of_thor
 hammer_of_god
 
+![alt text](https://github.com/pkr-7/hammer_of_thor/blob/main/Hammer_photo.jpg "Hammer_photo")
+
 # Sustainable_lifestyle
 
 `Planet safe. These lines will tune your mind to absolute intellect`
@@ -26,8 +28,8 @@ What we are trying here is to minimize the use of materials that are mined - met
 Utensils
 --------------------------------------------------------------------------------------------
 ```
-Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (some companies are selling steel and writing 100% cast iron, check the factory )(blood is made of iron so no issue)
-(companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after washing).
+Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (blood is made of iron so no issue)
+:warning: some companies are selling steel and writing 100% cast iron, check the factory. (companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after washing).
 
 Cooking pots
 ________________________________________________ 
@@ -239,6 +241,7 @@ Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), 
 ** Perfume, deo (lots of chemicals) should be avoided.
 ** Do not use incense sticks.(you don't know what is inside).
 ** Don't use candles.(These are dangerous)
+** Don't use mosquito repellent, these chemicals are poisonous. Install nets in the inner window instead of glass. Ok, just this one uses plastic nets. Of course you have to kill the mosquitos 1 by 1.
 
 Cloth fabric(Hand woven, hand stitched) = Cotton(everyday), Silk(occasions), Hemp.
 
@@ -398,9 +401,9 @@ Microwave and other ovens - stainless steel and teflon coating inside, very dang
 
 Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
 
-Water purifier - live near rivers, drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near rivers. 
-Avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals.
-
+Water purifier - Avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals. 
+Live near rivers, drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near rivers.
+** Avoid drinking from ponds or lakes, these are not flowing water.
 
 1 star = very high consumption, highest bill, lowest efficiency.
 2 star, 3 star, 4 star.
@@ -984,6 +987,10 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
+
+
 
 
 
