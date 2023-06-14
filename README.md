@@ -726,9 +726,10 @@ Best news in India = palki sharma
 Best news in west(america + europe) = kay burley 
 France24 = good, but too much pro govt.
 Russia = RT
+Best news in Israel = i24NEWS English
 Deutsche Welle = too slow, too much pro govt.
-Israel = 
 China = 
+Al Jazeera = arabic channel without a single arab (this is propaganda)
 
 Limitations = 
 
@@ -747,10 +748,10 @@ Conference = Sony PCS-XG100
 Background Screens = Sony ZRD-2 Video Wall
 Tv = Sony bravia 4K/8K
 
-Graphics = No vector graphics, Not organic
-Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used.
+Graphics = Lacks vector graphics, Lacks organic theme too much factory made
+Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used and small letters.
 
-Studio = Not classic, not organic looking, no wooden furniture, too much white light.
+Studio = Not classic, not organic looking, no wooden furniture, too much white light like an operation theater.
 ```
 
 Miscellaneous
@@ -1018,11 +1019,12 @@ If there are things that only girls have, then I can't verify that, personally e
 Yoga
 --------------------------------------------------------------------------------------------
 ```
-Physical aspects
+
+Physical aspects(asana)
 ________________________________________________ 
 
 
-Mental aspects
+Mental aspects(dhyana)
 ________________________________________________ 
 
 ```
@@ -1048,6 +1050,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
