@@ -87,9 +87,11 @@ Cast iron utensils
 ________________________________________________ 
 Neutral Salt wash - sea salt in hot boiling water
 
-Pest control - you have to feed them first, or they will take on their own.
-
 ** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided. (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
+
+Pest control
+________________________________________________
+You have to feed them first at least twice a day, or they will take on their own.  
 ```
 
 Scrubs
@@ -1021,7 +1023,7 @@ Exercise is necessary but not compulsory, but still the most important thing in 
 
 Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep at night.(7-8 hours)
 
-Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
+Drink water at least 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
 
 To avoid skin diseases one should take bath at least twice a day.
 
