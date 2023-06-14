@@ -269,18 +269,8 @@ Well, more awareness should be provided to girls from a young age about masturba
 Health tips
 --------------------------------------------------------------------------------------------
 ```
-Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
-
-Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep at night.(7-8 hours)
-
-To avoid skin diseases one should take bath at least twice a day.
-
-Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind. 
-These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
-And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
-
 Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) 
-(weight lifting can cause permanent tissue damage in the long run), first Stretching + then Running + yoga + martial arts + relaxation...is enough and very safe.
+(weight lifting can cause permanent tissue damage in the long run), yoga is enough and very safe.
 
 Cold/fever/headache/backpain = It happens because you have taken too much workload. So take rest, drink water, eat more fruits, no need to take tablets or medication. (You will get better in a week maximum)
 (Caution. do not take medicine and tablets that you see in tv ads like disprin, crocin these are fatal drugs in some cases)(Go to doctor if problem continues)
@@ -1017,11 +1007,10 @@ So X is common, that's why men also have nipples.
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 ```
 
-Yoga
+Yuj
 --------------------------------------------------------------------------------------------
 ```
 Yoga = yog = yuj(sanskrit) = join(english) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
-
 So joining to what? of course the cosmos.
 
 Yes, sitting in a studio apartment, wearing skinny spandex pants on a plastic mat is a waste of time.
@@ -1029,6 +1018,25 @@ Yes, sitting in a studio apartment, wearing skinny spandex pants on a plastic ma
 Physical aspects(asana)
 ________________________________________________ 
 Exercise is necessary but not compulsory, but still the most important thing in the body is breathing and blood circulation and water level, if this is working 90 % of things are good.
+
+Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep at night.(7-8 hours)
+
+Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
+
+To avoid skin diseases one should take bath at least twice a day.
+
+1st excercise = sun spotting 
+Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind. 
+These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
+And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
+
+2nd excercise = Stretching 
+
+3rd excercise = Running 2 km every day
+
+4th excercise = relaxation. 
+
+Martial arts = Rule 1 = Its for defence only. Rule 2 = Learn the Rule 1 first.  
 
 Mental aspects(dhyana)
 ________________________________________________ 
