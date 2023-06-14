@@ -13,7 +13,7 @@ If you don't observe the details and follow these steps very carefully, you will
 
 Methods and material are abundant, and can be launched immediately effectively. 
 
-Don't approach too fast, it may backfire... Slow adaptation.. Not too slow either.
+Don't approach too fast, it may backfire, slow adaptation, not too slow either.
 
 You can't change the world without changing yourself first. and we can change ourselves.
 
@@ -39,24 +39,21 @@ Cast iron pot with lid for boiling.
 
 Flat Pan cast iron.
 
-Cast iron Mortar and pestle (stone, wooden should be avoided due to breakage).
-
 Accessories
 ________________________________________________ 
+Cast iron Mortar and pestle (stone, wooden should be avoided due to breakage).
+
 Neem Wood Board + rolling pin (avoid stone, plastic, metal). (Neem = antibacterial wood)
 
 Knives big + small (wooden handle is recommended), Cutting board (Neem wood) (avoid stone, plastic or metal). 
 
 Dough mixing pot stainless steel.
 
-Strainer for frying = not the wire mesh one because hard to clean, the one with holes... don't keep it drained because it is stainless steel, not ideal. and cast iron is not possible.
+Strainer for frying = not the wire mesh one because hard to clean, the one with holes, don't keep it drained because it is stainless steel, not ideal. and cast iron is not possible.
 
 Natural fiber baskets.
-
 Clay storage jars.
-
 Clay glass. 
-
 
 ** non-stick teflon(very dangerous), aluminum, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non-stick Teflon utensils should be avoided. 
 But why ? because = metals have leaching properties, can enter the central nervous system, aluminum and copper turn to Al2O3 and CuO. ceramic has paint.
@@ -231,9 +228,7 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Avoid tattoos, these inks are dangerous.
 ** Avoid pedicure, manicures at salons.
 
-
 Hair oil/body lotion if you use = Pure coconut oil/amla.
-
 ** Hair dryer, straightening iron should be avoided.
 
 Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), Marigold oil (scent), maybe more flowers need more research.
@@ -244,7 +239,6 @@ Fragrance = Lotus oil (scent), Sandalwood oil (scent), Rajnigandha oil (scent), 
 ** Don't use mosquito repellent, these chemicals are poisonous. Install nets in the inner window instead of glass. Ok, just this one uses plastic nets. Of course you have to kill the mosquitos 1 by 1.
 
 Cloth fabric(Hand woven, hand stitched) = Cotton(everyday), Silk(occasions), Hemp.
-
 Color- light color. (Things look black because of Black body radiation, which means the object absorbs all the light that is falling on it making it hot, where as white color objects reflects most of the light falling on it hence reducing the temperature)(yes, I am very sad for all my muslim sisters to go through torture)
 
 ** Dark color clothes should be worn if temperature is below 25 degree celsius and low humidity
@@ -256,9 +250,9 @@ Color- light color. (Things look black because of Black body radiation, which me
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
 
-Kids = Boy/girl same dress(They must understand they are equal from childhood)... Cotton light color... Shorts and a half sleeve shirt and t-shirt... Not the same uniform and color for everyone(people are different and diverse).
-
 Footwear = Sandals/Flip flops instead of shoes.(Air circulation)(Socks, stockings should be avoided)
+
+Kids = Boy/girl same dress(They must understand they are equal from childhood)... Cotton light color... Shorts and a half sleeve shirt and t-shirt... Not the same uniform and color for everyone(people are different and diverse).
 
 Health tips
 ________________________________________________ 
@@ -312,15 +306,10 @@ Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no 
 
 Opium (can cure all diseases, but it has overdose so caution is required, that's why the first option is recommended).
 
-
 Well a disease is an idea, I had a panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... You can smoke pot first and then drink alcohol and then smoke again if you want. 
-
 But if you drink first and then smoke pot... Then you will get a panic attack, well nothing serious just sleep for 1 hr on the spot... Everything will get normal... Max you will get unconscious.
-
 The reason is THC is stronger than alcohol... That means if you smoke first then alcohol will not have an effect. 
-
 It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first.
-
 
 Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Billion dollar startup idea)
 
@@ -361,7 +350,7 @@ Other food items = Mustard paste curries, Mango khatta, Dahi vada.
 
 Rice = plain/salty/sweet/pudding.
 
-Pitha(sanskrit)(greek =Pita/ roman = pizza)(something stiff = bread). 
+Pitha(sanskrit)(greek = Pita/ roman = pizza)(something stiff = bread). 
 Rice or suji pitha = dosa(pan)/idli(steamed)/vada(fried).
 Wheat Pitha(sanskrit) =  roti(baked)/nan(baked)(this one is Italian pizza).
 Fried wheat Pitha(sanskrit) = puri(fried)/luchi(fried).
@@ -379,7 +368,6 @@ Initially breastfeeding as long as the woman can produce milk.
 Just boiled and smashed rice/chuda(poha/flattened rice)(these are carbohydrates very necessary, it is the building block), extra boiled very soft like pudding, but without salt and spices and oil.
 
 Then if the baby has gained some weight then dal(It is protein so check if the baby is ready, and not showing any problem), but still avoid oil and spices.
-
 Then khichdi is a good dish for babies. It is rice and dal mixed and boiled together without salt, oil and spices. 
 
 ** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, sweet, oil and spice that comes after 5 years of age. 
@@ -395,7 +383,7 @@ BLDC fan - 30 to 40 watts, BLDC motor fans = 30 USD max(available all around the
 (Hemp fiber, 2-3 blade, more aerodynamic blades)
 
 Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
-(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app)
+(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Microwave and other ovens - stainless steel and teflon coating inside, very dangerous.(petroleum gas powered oven very dangerous)
 
@@ -410,17 +398,17 @@ Live near rivers, drink direct, well water drink direct(not steady wells/only st
 5 star = very low consumption, lowest bill, highest efficiency.
 
 Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD MAX
-(should be made of hemp fiber(outer body) and Clay body(inner body), cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
+(should be made of hemp fiber(outer body) and Clay body(inner body), cylindrical shape)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac = 500 USD MAX(available all around the world).
-(should be made of hemp fiber(outer body) and Clay body(inner cooling chamber), cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
+(should be made of hemp fiber(outer body) and Clay body(inner cooling chamber), cylindrical shape)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
 Washing machine(300w) = 8 kg, 5 star inverter automatic with hot water feature, don't buy dryer, or inbuilt dryer(use rare) for rainy days ...sun dry is best  = 300 USD MAX(available all around the world).
-(should be made of hemp fiber, cylindrical shape)(one power on indicator LED, wifi controlled over phone app)
+(should be made of hemp fiber, cylindrical shape)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Dishwasher(200w) = 5 star inverter = 300 USD MAX(available all around the world).
-(should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app)
+(should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 On spot power generation is recommended (transmission lines are very inefficient; more than half the power lost is hysteresis only).
 ________________________________________________
@@ -428,37 +416,37 @@ solar panel = mono perc [500 w] (life = 25 years) = 300 USD MAX(available all ov
 (should be made of hemp fiber)
 
 solar inverter with wifi phone app = [4 kw] (life = depends) = 200 USD MAX(available all over the world).
-(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app)
+(should be made of Clay body)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD MAX(available all over the world).
 
 Electronics
 ________________________________________________ 
 Internet = starlink(available)(expensive), oneweb(low price)(wait for launch soon)(no separate dish, cable tv or anything required).
-(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
+(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Earbuds = jabra elite 3, jabra elite 4, sony. (These have ANC(noise cancellation) features, you have to turn OFF ANC while walking on the road be careful, use ANC only for conference calls)
 
 Bluetooth speaker = apple home pod/alexa echo studio/sony srs-xb43 for music, phone speakers will be enough in the future, the tech already exists but profit is coming in the way, just need four drivers. 
-(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app)
+(size needs to be reduced)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Phone + tab + pc in one device = samsung/microsoft rollable phone (coming soon)(reduction of electronic waste). https://youtu.be/xT9F9eW6mYI
 (outer body should be made of hemp fiber)
 
-printer = thermal printers(not for everyone, save paper).
-(outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app)
+printer = portable thermal printers(this printer doesn't require ink)(not for everyone, save paper).
+(outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Ban watches, smartwatches are there.
 (outer body should be made of hemp fiber)
 
 Security camera = your own country brands, just infrared vision for night, free cloud storage for a week at least for crime detection, but the data center needs to be secure and in the same country. 
 (weather, waterproof cameras)(install four in four sides of the house, make sure lights are installed on all sides)= 30 USD/per camera MAX(available all over the world).
-(size needs to be reduced)(outer body should be made of hemp fiber)
+(size needs to be reduced)(outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
-Door lock = design change required by replacing steel with carbon fiber or hemp fiber.
+Door lock = design change required by replacing steel with carbon fiber or hemp fiber.(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
-Tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule similar.
-(outer body should be made of hemp fiber)
+Tv = well tv uses a lot of plastic, portable laser Projector are future = anker capsule 3 and similar.
+(outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 Automobile
 ________________________________________________ 
@@ -482,9 +470,9 @@ Policy change
 ```
 Infrastructure
 ________________________________________________ 
-Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues... Planet doesn't even like a stone to be picked up.
+Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues. Planet doesn't even like a stone to be picked up.
 
-Banning of street lights and poles = solar powered, 20 w LED enough ....should be mounted on a tree rather than steel pole. 
+Banning of street lights and poles = solar powered, 20 w LED enough, should be mounted on a tree rather than steel pole. 
 
 Equipments
 ________________________________________________ 
@@ -566,33 +554,26 @@ Wiring = 1mm gauge insulated copper wire enough to handle the load, not thicker 
 Earth wiring = 6ft deep grounding, 3-4 mm gauge uninsulated  copper wire.
 
 The wiring should be done in such a way that the least and shortest length of wire is used to connect every room from the MCB. Don’t create points on every wall, just one wall is enough. 
-
 MCB - Main circuit breaker
 
 Interior
 ________________________________________________ 
 Furniture- minimum furniture, minimum wood design(not heavy) and without paint and polish(chemicals).
+Coir mattress only.
 
 Metal screws and nails should be avoided.
 
 Home decors are not eco friendly.
-
 Wall paints(emulsion) are synthetic.
 
-Coir mattress only.
-
-Ban pencils, clips, pins, pen, clipboard , duct tape, nails.
-
+Ban pencils, clips, pins, pen, clipboard , duct tape .
 Ban paper towels.
-
 Ban the books.
 
 Ban room heaters.
 
 Acrylic paints for artworks, canvas from leaf fiber not cloth.
-
 Children's toys are metal, plastic so ban them.
-
 Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
@@ -641,12 +622,23 @@ Banning of trucks, only air drops for defense equipments
 
 Banning of trains, track maintenance creating too much pollution because a lot of metal is required.(Stop hyperloop projects around the world, yes elon musk is more like a businessman, he doesn't understand science and technology which most people think)
 
+Banning of trams.
+
 Ban the boats except wood and electric ones.
 
 Army vehicles are not efficient.
 
 Banning of commercial heavy metal shipping vessels, new vessels = natural hemp fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
 Shipment = only technology, important goods not everything, grow food in your country.
+
+
+Space
+________________________________________________ 
+Hydrogen rockets.
+
+International
+________________________________________________ 
+Hydrogen aircrafts.
 
 Intercity
 ________________________________________________ 
@@ -823,7 +815,6 @@ Rush - lost but won
 No time for caution - interstellar
 
 Well I have seen around 500 movies. These are the best of the best. I am sad I lost my backup hard disk drive last October I think. I know I am a software engineer but what can I say about my negligence. 
-
 Remember that you have to transfer your backup before 6 years to a new drive. The lifespan of a hard disk is 6-7 years MAX. 
 Now the latest technology is NVME drives. 
 ```
@@ -904,15 +895,12 @@ So the fundamental of the creation is to move towards perfection with time, movi
 Your evolution in this body
 ________________________________________________ 
 You are now a man. 
-
 But you were a toddler, like a dwarf. 
 
 Before that you were walking with your hands, but you tried to stand on your legs and kept falling like a lion tries to stand a few times. 
 
 Before that you were a boar, using knees and hands to walk. 
-
 Before that you were crawling on your belly like a tortoise. 
-
 Before that you were swimming inside your mother's womb like a fish(sperm). 
 
 Human evolution
@@ -940,7 +928,7 @@ Spirit is essential like your abstract, your information, you have love, care, h
 
 No, you can't become a ghost, there is no such thing as ghosts. there is nothing that will come out of you, when your body dies. 
 
-Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information when you were alive. 
+Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information as when you were alive. 
 
 The spirit has no physical connection with your body, it is the meaning of the object. 
 ```
@@ -974,6 +962,28 @@ Boy birth = XY
 So X is common, that's why men also have nipples. 
 
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
+```
+
+Yoga
+--------------------------------------------------------------------------------------------
+```
+Physical aspects
+________________________________________________ 
+
+
+Mental aspects
+________________________________________________ 
+
+```
+
+Mind
+--------------------------------------------------------------------------------------------
+```
+
+deep
+________________________________________________ 
+
+
 ```
 
 Conclusion
