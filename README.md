@@ -711,11 +711,46 @@ ________________________________________________
 Voting from registered phone number.
 ```
 
-
 Media
 --------------------------------------------------------------------------------------------
 ```
+Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel studios.
 
+News
+--------------------------------------------------------------------------------------------
+I don't read papers. (Too slow)
+
+I don't read magazines. (Too slow)
+
+Best news in India = palki sharma 
+Best news in west(america + europe) = kay burley 
+France24 = good, but too much pro govt.
+Russia = RT
+Deutsche Welle = too slow, too much pro govt.
+Israel = 
+China = 
+
+Limitations = 
+
+Too much content about stupid politicians, 5% about reforms.
+Too many posts overall.
+Not brief, not precise.
+
+Technology limitations =
+
+Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light)
+Gimbal = Freefly Movi Pro($3,995)
+
+Microphone = Sony DWX Digital Wireless
+
+Conference = Sony PCS-XG100
+Background Screens = Sony ZRD-2 Video Wall
+Tv = Sony bravia 4K/8K
+
+Graphics = No vector graphics, Not organic
+Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used.
+
+Studio = Not classic, not organic looking, no wooden furniture, too much white light.
 ```
 
 Miscellaneous
@@ -833,44 +868,6 @@ Silicon Valley.
 Small wonder. 
 The mentalist. 
 The person of interest. 
-
-Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel studios.
-
-News
---------------------------------------------------------------------------------------------
-I don't read papers. (Too slow)
-
-I don't read magazines. (Too slow)
-
-Best news in India = palki sharma 
-Best news in west(america + europe) = kay burley 
-France24 = good, but too much pro govt.
-Russia = RT
-Deutsche Welle = too slow, too much pro govt.
-Israel = 
-China = 
-
-Limitations = 
-
-Too much content about stupid politicians, 5% about reforms.
-Too many posts overall.
-Not brief, not precise.
-
-Technology limitations =
-
-Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light)
-Gimbal = Freefly Movi Pro($3,995)
-
-Microphone = Sony DWX Digital Wireless
-
-Conference = Sony PCS-XG100
-Background Screens = Sony ZRD-2 Video Wall
-Tv = Sony bravia 4K/8K
-
-Graphics = No vector graphics, Not organic
-Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used.
-
-Studio = Not classic, not organic looking, no wooden furniture, too much white light.
 ```
 
 About the cosmos
