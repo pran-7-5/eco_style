@@ -789,7 +789,8 @@ A few good men.
 A beautiful mind. 
 Batman begins. 
 Brave heart. 
-Bruce Almighty. 
+Bruce Almighty.
+Devil wears prada. 
 Ford vs Ferrari. 
 Forrest Gump. 
 Gladiator. 
@@ -1019,14 +1020,19 @@ If there are things that only girls have, then I can't verify that, personally e
 Yoga
 --------------------------------------------------------------------------------------------
 ```
+Yoga = yog = yuj(sanskrit) = join(english) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
+
+So joining to what? of course the cosmos.
+
+Yes, sitting in a studio apartment, wearing skinny spandex pants on a plastic mat is a waste of time.
 
 Physical aspects(asana)
 ________________________________________________ 
-
+Exercise is necessary but not compulsory, but still the most important thing in the body is breathing and blood circulation and water level, if this is working 90 % of things are good.
 
 Mental aspects(dhyana)
 ________________________________________________ 
-
+This is the real game.
 ```
 
 Mind
@@ -1050,6 +1056,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
