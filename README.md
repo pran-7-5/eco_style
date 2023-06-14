@@ -1025,18 +1025,18 @@ Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
 
 To avoid skin diseases one should take bath at least twice a day.
 
-1st excercise = sun spotting 
+1st exercise = sun spotting 
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind. 
 These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
 
-2nd excercise = Stretching 
+2nd exercise = Stretching 
 
-3rd excercise = Running 2 km every day
+3rd exercise = Running 2 km every day
 
-4th excercise = relaxation. 
+4th exercise = relaxation. 
 
-Martial arts = Rule 1 = Its for defence only. Rule 2 = Learn the Rule 1 first.  
+Martial arts = Rule 1 = Its for defense only. Rule 2 = Learn the Rule 1 first.  
 
 Mental aspects(dhyana)
 ________________________________________________ 
@@ -1064,6 +1064,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
