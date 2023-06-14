@@ -87,6 +87,8 @@ Cast iron utensils
 ________________________________________________ 
 Neutral Salt wash - sea salt in hot boiling water
 
+Pest control - you have to feed them first, or they will take on their own.
+
 ** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided. (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 ```
 
@@ -225,7 +227,7 @@ Alta available in the market is fake, made of chemical whereas ancient alta was 
 ** Kajal, eyeliner, mascara, eye shadow, glitters, lipstick, foundation, all types of talc(should be avoided).
 ** Avoid Vaseline and other petroleum jellies.
 ** Avoid waxing hair.
-** Avoid tattoos, these inks are dangerous.
+** Avoid tattoos, these inks are dangerous. Laser removal looks easy and clean, but it is not actually removing, it's going to dissolve the ink into the blood. The best way is surgical removal, but it is going to leave scars. Well, you could have Google check about the ink before doing so, therefore accept the consequence and move on. 
 ** Avoid pedicure, manicures at salons.
 
 Hair oil/body lotion if you use = Pure coconut oil/amla.
@@ -252,10 +254,21 @@ Well comfort is the first priority, too much tight and skinny clothes should be 
 
 Footwear = Sandals/Flip flops instead of shoes.(Air circulation)(Socks, stockings should be avoided)
 
-Kids = Boy/girl same dress(They must understand they are equal from childhood)... Cotton light color... Shorts and a half sleeve shirt and t-shirt... Not the same uniform and color for everyone(people are different and diverse).
+Kids = Boy/girl same dress(They must understand they are equal from childhood), Cotton light color, shorts and a half sleeve shirt and t-shirt, not the same uniform and color for everyone(people are different and diverse).
+
+tips
+________________________________________________ 
+Ban on cosmetic surgery.
+
+Hygiene = reusable cotton pads (normal is ok for outside purposes but creating pollution) = https://www.amazon.in/Sirona-Reusable-Sanitary-Pads-Women/dp/B09ZDSZQG6/ref=sr_1_6?crid=1UC5YMYVQB50S&keywords=reusable+pads+for+women&qid=1684813278&sprefix=reus%2Caps%2C305&sr=8-6
+Protection = non lubricated condoms (example brand = trojan)(lubricated = chemical) = https://www.amazon.in/Trojan-ENZ-Non-Lubricated-Condoms-Count/dp/B0001Q6DEU
+
+Well, more awareness should be provided to girls from a young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
+```
 
 Health tips
-________________________________________________ 
+--------------------------------------------------------------------------------------------
+```
 Drink water = 5 liters a day. (My height is 5 ft 9 in, so drink accordingly)
 
 Sleep before 11 pm Max, don't sleep in afternoon or you won't be able to sleep at night.(7-8 hours)
@@ -274,13 +287,6 @@ Cold/fever/headache/backpain = It happens because you have taken too much worklo
 
 Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits. 
 You may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
-
-Ban on cosmetic surgery.
-
-Hygiene = reusable cotton pads (normal is ok for outside purposes but creating pollution) = https://www.amazon.in/Sirona-Reusable-Sanitary-Pads-Women/dp/B09ZDSZQG6/ref=sr_1_6?crid=1UC5YMYVQB50S&keywords=reusable+pads+for+women&qid=1684813278&sprefix=reus%2Caps%2C305&sr=8-6
-Protection = non lubricated condoms (example brand = trojan)(lubricated = chemical) = https://www.amazon.in/Trojan-ENZ-Non-Lubricated-Condoms-Count/dp/B0001Q6DEU
-
-Well, more awareness should be provided to girls from a young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
 ```
 
 Drinks
@@ -306,8 +312,8 @@ Ganja(Marijuana)/bhang(Cannabis)/hash(raisin) (can cure all diseases, it has no 
 
 Opium (can cure all diseases, but it has overdose so caution is required, that's why the first option is recommended).
 
-Well a disease is an idea, I had a panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement... The thing is there is a sequence... You can smoke pot first and then drink alcohol and then smoke again if you want. 
-But if you drink first and then smoke pot... Then you will get a panic attack, well nothing serious just sleep for 1 hr on the spot... Everything will get normal... Max you will get unconscious.
+Well a disease is an idea, I had a panic attack 4 times well nothing serious. But I made the same mistake 4 times over excitement. The thing is there is a sequence, you can smoke pot first and then drink alcohol and then smoke again if you want. 
+But if you drink first and then smoke pot, then you will get a panic attack, well nothing serious just sleep for 1 hr on the spot, everything will get normal, max you will get unconscious.
 The reason is THC is stronger than alcohol... That means if you smoke first then alcohol will not have an effect. 
 It is like you eat the less sweet first and then the more sweet item, but in this case you should have more sweet(weed) first.
 
@@ -400,7 +406,7 @@ Live near rivers, drink direct, well water drink direct(not steady wells/only st
 Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD MAX
 (should be made of hemp fiber(outer body) and Clay body(inner body), cylindrical shape)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
-Ac(500w) = is it really required, 1.5 ton 5 star dual inverter portable ac = 500 USD MAX(available all around the world).
+Ac(400w) = is it really required, 1.5 ton 5 star dual inverter portable ac = 500 USD MAX(available all around the world),(Daikin is the best brand).
 (should be made of hemp fiber(outer body) and Clay body(inner cooling chamber), cylindrical shape)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 [https://www.amazon.in/dp/B084LGQKD7/?coliid=I2BFB5UG6QLVLQ&colid=1IDYXFOGSKWFV&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it]
@@ -705,6 +711,13 @@ ________________________________________________
 Voting from registered phone number.
 ```
 
+
+Media
+--------------------------------------------------------------------------------------------
+```
+
+```
+
 Miscellaneous
 --------------------------------------------------------------------------------------------
 ```
@@ -778,25 +791,16 @@ The Truman show.
 
 V for vendetta. 
 
-Tv
+My favorites
 --------------------------------------------------------------------------------------------
-Big bang theory. 
-Mr robot. 
-Man vs wild.
-Megafactories. 
-Planet mechanics. 
-Silicon Valley. 
-Small wonder. 
-The mentalist. 
-The person of interest. 
 
-My favorite movie - The truman show
-My favorite tv series - Big bang theory
-My favorite actor - Tom Cruise
-My favorite actress - Anne Hathaway
-My favorite band - pink Floyd
+Movie - The truman show
+Tv series - Big bang theory
+Actor - Tom Cruise
+Actress - Anne Hathaway
+Band - pink Floyd
 
-My favorite songs
+Music
 --------------------------------------------------------------------------------------------
 Gladiator- now we are free
 Berlin- take my breath away
@@ -817,6 +821,56 @@ No time for caution - interstellar
 Well I have seen around 500 movies. These are the best of the best. I am sad I lost my backup hard disk drive last October I think. I know I am a software engineer but what can I say about my negligence. 
 Remember that you have to transfer your backup before 6 years to a new drive. The lifespan of a hard disk is 6-7 years MAX. 
 Now the latest technology is NVME drives. 
+
+Tv
+--------------------------------------------------------------------------------------------
+Big bang theory. 
+Mr robot. 
+Man vs wild.
+Megafactories. 
+Planet mechanics. 
+Silicon Valley. 
+Small wonder. 
+The mentalist. 
+The person of interest. 
+
+Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel studios.
+
+News
+--------------------------------------------------------------------------------------------
+I don't read papers. (Too slow)
+
+I don't read magazines. (Too slow)
+
+Best news in India = palki sharma 
+Best news in west(america + europe) = kay burley 
+France24 = good, but too much pro govt.
+Russia = RT
+Deutsche Welle = too slow, too much pro govt.
+Israel = 
+China = 
+
+Limitations = 
+
+Too much content about stupid politicians, 5% about reforms.
+Too many posts overall.
+Not brief, not precise.
+
+Technology limitations =
+
+Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light)
+Gimbal = Freefly Movi Pro($3,995)
+
+Microphone = Sony DWX Digital Wireless
+
+Conference = Sony PCS-XG100
+Background Screens = Sony ZRD-2 Video Wall
+Tv = Sony bravia 4K/8K
+
+Graphics = No vector graphics, Not organic
+Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used.
+
+Studio = Not classic, not organic looking, no wooden furniture, too much white light.
 ```
 
 About the cosmos
@@ -997,6 +1051,10 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
+
+
 
 
 
