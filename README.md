@@ -49,7 +49,7 @@ Knives big + small (wooden handle is recommended), Cutting board (Neem wood) (av
 
 Dough mixing pot stainless steel.
 
-Strainer for frying = not the wire mesh one because hard to clean, the one with holes, don't keep it drained because it is stainless steel, not ideal. and cast iron is not possible.
+Strainer for frying = not the wire mesh one because it is hard to clean, the one with holes, don't keep it drained because it is stainless steel, not ideal. and cast iron is not possible.
 
 Natural fiber baskets.
 Clay storage jars.
@@ -588,11 +588,11 @@ Shutdown all types of power plants. Homes in cities can be powered by solar. Jus
 Solar parks are not helpful because there is huge transmission loss. [V = IR][R = p x Length/Area](That means if length increases, resistance increases, if resistance increases voltage and current decreases.)
 Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
 
-Stop building wind mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in it's place) is very high)
+Stop building wind mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
 
-Stop building tidal mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in it's place) is very high)
+Stop building tidal mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
 
-Stop building hydro power dams.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in it's place) is very high)
+Stop building hydro power dams.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
 
 Stop digging mines = we don't need metals anymore = natural hemp fiber and carbon fiber parts are used now and more efficient and lightweight.
 
@@ -997,6 +997,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
