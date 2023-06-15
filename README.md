@@ -628,6 +628,7 @@ Army vehicles are not efficient.
 Banning of commercial heavy metal shipping vessels, new vessels = natural hemp fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
 Shipment = only technology, important goods not everything, grow food in your country.
 
+Hydrogen generation = Solar panel + Electrolyzer
 
 Space
 ________________________________________________ 
