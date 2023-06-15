@@ -143,7 +143,7 @@ Unpolished Biri/urad dal = dosa/idli/ vada.
 Sweetener
 ________________________________________________ 
 Jaggery(raw unrefined sugarcane)(used in sweet rice, sweet dal but not to make lemonade, fruit juice)
-Misri (crystal raw unrefined sugarcane)(used in making lemonade, fruit juice)
+Misri(crystal raw unrefined sugarcane)(used in making lemonade, fruit juice)
 
 ** Refined sugar should be avoided.
 
@@ -165,7 +165,7 @@ Ginger whole
 Fennel seeds
 Dried mango
 Dried amla
-Raw sea salt (avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain)
+Raw sea salt(avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain)
 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, Kasuri methi should be avoided.
 
@@ -178,7 +178,7 @@ Dairy(very difficult to get these, should be avoided) but these are very good an
 ________________________________________________ 
 Ghee (A2 milk not A1, A1 is GMO cow whereas, A2 is unaltered species)(ghee = butter - fat)
 Butter (A2 milk based)(unsalted)
-Dahi(greek yogurt) (sour not sweet)
+Dahi(greek yogurt)(sour not sweet)
 
 ** Paneer, raw milk should be avoided.
 ** Non-dairy milk should be avoided like almond milk because it's fake.
@@ -218,7 +218,7 @@ Protein is not necessary for every person except (physical labor) and sugar can 
 Women_specific
 --------------------------------------------------------------------------------------------
 ```
-Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers)  don't use plastic or other metal jewels. (Should be stored in an automated bank locker nearest to the house, taken out on occasions.)
+Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers, don't use plastic or other metal jewels. (Should be stored in an automated bank locker nearest to the house, taken out on occasions.)
 Avoid gem stones = there is math formula to calculate what is suitable to whom
 
 Makeup = Nail polish (ancient alta was used for nail polish, lipstick and blush) but are not available today in markets but can be homemade. 
@@ -286,7 +286,7 @@ Drinks
 ```
 Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
 
-** All types of supplements(you don't need them=expensive urine), Tea, coffee, health drinks(horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugar free is more dangerous than sugar(don't fake your receptors).
+** All types of supplements(you don't need them = expensive urine), Tea, coffee, health drinks(boost/horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugar free is more dangerous than sugar(don't fake your receptors).
 
 
 Alcohol (decision making ability is affected and leads to poor judgment, enhances the anger) 
@@ -311,7 +311,7 @@ It is like you eat the less sweet first and then the more sweet item, but in thi
 
 Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Billion dollar startup idea)
 
-**Never use cigarettes(carcinogenic), e-cigarettes, cocaine and others(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
+**Never use cigarettes(carcinogenic), e-cigarettes, cocaine and other(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
 
 Cooking
@@ -577,7 +577,6 @@ Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
 
-
 Mineral mines
 --------------------------------------------------------------------------------------------
 ```
@@ -701,6 +700,10 @@ Legal battle needs to be free and smooth, self representation. Simplification of
 Digital election
 ________________________________________________ 
 Voting from registered phone number.
+
+Citizen Id
+________________________________________________ 
+I mean what nonsense, biometric id, voter id, tax id, passport id, driving id, health id but still no facility. 
 ```
 
 Media
@@ -711,14 +714,14 @@ Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel stu
 News
 --------------------------------------------------------------------------------------------
 I don't read papers. (Too slow)
-
 I don't read magazines. (Too slow)
 
 Best news in India = palki sharma 
 Best news in west(america + europe) = kay burley 
-France24 = good, but too much pro govt.
-Russia = RT
 Best news in Israel = i24NEWS English
+Best news in Russia = RT
+Best news in France = France24 (good, but too much pro govt.)
+
 Deutsche Welle = too slow, too much pro govt.
 China = 
 Al Jazeera = arabic channel without a single arab (this is propaganda)
@@ -729,7 +732,7 @@ Too much content about stupid politicians, 5% about reforms.
 Too many posts overall.
 Not brief, not precise.
 
-Technology limitations =
+Technology limitations = Not using right tools.
 
 Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light)
 Gimbal = Freefly Movi Pro($3,995)
@@ -822,7 +825,6 @@ V for vendetta.
 
 My favorites
 --------------------------------------------------------------------------------------------
-
 Movie - The truman show
 Tv series - Big bang theory
 Actor - Tom Cruise
@@ -969,11 +971,11 @@ Every material has quality and properties that are particular to them and also p
 For example similar properties  you eat, animals also eat, stars also eat. 
 Particular properties you can travel to the moon, animals can't. 
 
-Spirit is essential like your abstract, your information, you have love, care, honesty, beauty these concepts don't exist physically),  you have these things even if you are not showing these qualities. 
+Spirit is essential like your abstract, your information, you have love, care, honesty, beauty. These concepts don't exist physically, you have these things even if you are not showing these qualities. 
 
-No, you can't become a ghost, there is no such thing as ghosts. there is nothing that will come out of you, when your body dies. 
+No, you can't become a ghost, there is no such thing as ghosts. There is nothing that will come out of you, when your body dies. 
 
-Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information as when you were alive. 
+Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information anymore, as when you were alive. 
 
 The spirit has no physical connection with your body, it is the meaning of the object. 
 ```
@@ -987,13 +989,13 @@ Ancestral = even if you don't have a child you might have brother and sister, th
 
 Having a major achievement(people that are not your blood relative will become you, they are inspired by your spirit/quality/work) (the problem is someone will replace your work in the future if your work is not ideal and absolute.) 
 
-Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication. ) 
+Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication.) 
 ```
 
 Genetics
 --------------------------------------------------------------------------------------------
 ```
-If you want to know about women sex organs specifically then, I will say to be honest I think there should not be much difference between man and woman, there is only 1 chromosome difference. The man was a woman, that's why they have nipples. 
+If you want to know about women sex organs specifically then, I don't think there are too much difference between man and woman, there is only 1 chromosome difference. The man was a woman, that's why they have nipples. 
 
 Female = X chromosome(girl) = 23 chromosomes
 Women don't have Y chromosomes, Women don't have ability to control the gender of the new offspring. 
@@ -1027,7 +1029,7 @@ Drink water at least 5 liters a day. (My height is 5 ft 9 in, so drink according
 
 To avoid skin diseases one should take bath at least twice a day.
 
-1st exercise = sun spotting 
+1st exercise = sun spotting(sun rise)
 Eye power loss - the inactiveness of the eye lens, so takeoff your glasses then for 5 minutes every day you have to look and focus at the sun while the sun is red, sunrise and sunset, or moon...not when the sun is white or you will get blind. 
 These are the farthest objects. Well watching stars won't help because they are just too far and considered point objects.
 And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
@@ -1038,11 +1040,11 @@ And washing eyes and face with cold water at least 5 times a day starting from w
 
 4th exercise = relaxation. 
 
-Martial arts = Rule 1 = Its for defense only. Rule 2 = Learn the Rule 1 first.  
+Martial arts = Rule 1 = It's for defense only. Rule 2 = Learn the Rule 1 first.  
 
 Mental aspects(dhyana)
 ________________________________________________ 
-This is the real game.
+This is the real game. Yes, reading this list is also yuj.
 ```
 
 Mind
@@ -1066,6 +1068,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
