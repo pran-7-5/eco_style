@@ -1010,6 +1010,8 @@ Boy birth = XY
 So X is common, that's why men also have nipples. 
 
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
+
+But I think the extra 23rd chromosome in the females hold the information about womb design.
 ```
 
 Yuj
