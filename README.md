@@ -704,7 +704,7 @@ Voting from registered phone number.
 
 Citizen Id
 ________________________________________________ 
-I mean what nonsense, biometric id, voter id, tax id, passport id, driving id, health id but still no facility. 
+I mean what nonsense, biometric id, voter id, tax id, passport id, driving id, health id but still no facility. (Keep one number only)
 ```
 
 Media
@@ -745,7 +745,7 @@ Background Screens = Sony ZRD-2 Video Wall
 Tv = Sony bravia 4K/8K
 
 Graphics = Lacks vector graphics, Lacks organic theme too much factory made
-Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used and small letters.
+Logo = Lack of vector graphics, Not organic looking, only 2 colors should be used and small letters, off color like off white, off blue.
 
 Studio = Not classic, not organic looking, no wooden furniture, too much white light like an operation theater.
 ```
@@ -938,7 +938,8 @@ iPhone 14 (rebirth) more perfect
 
 You are not here from your birthday, You were always here. 
 Just software(mind) got major improvements and minor hardware improvements. 
-So the fundamental of the creation is to move towards perfection with time, moving towards equilibrium. This is the same for everything that exists. 
+
+So the fundamental of the creation is to move towards perfection with time, moving towards equilibrium. This is the same for everything that exists.  
 
 Your evolution in this body
 ________________________________________________ 
@@ -961,9 +962,16 @@ Before that algae, bacteria etc.
 And of course the plants. 
 
 So the ocean (water) is compulsory for life to be created. With oxygen hydrogen carbon nitrogen and others. 
+
+My issues with the book origin of species
+________________________________________________  
+Natural Selection = well book says survival of the fittest, the problem with this argument is that the other species still exists. So I will say it is not in the power of the fittest, the fittest wont wipe out the others like hitler and the USA(hiro, nagasa). 
+Like if an asteroid hits, and every creature dies(well you don't know about few of these, they are expert survivors, but let's consider the worst case scenario) so they will come again, the process will repeat, as I said the water is the most important thing for life.
+
+Transitional Fossils = This theory has problems because again let me tell you that nothing has changed except you wearing adidas shoes. 
 ```
 
-Soul/spirit = atman(sanskrit) 
+Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, i am using it as western idiom)
 --------------------------------------------------------------------------------------------
 ```
 Spirit is the quality/information/definition/characteristics/properties of your body/any object. Spirit is not a material whereas your body is material/object. 
@@ -973,6 +981,8 @@ For example similar properties  you eat, animals also eat, stars also eat.
 Particular properties you can travel to the moon, animals can't. 
 
 Spirit is essential like your abstract, your information, you have love, care, honesty, beauty. These concepts don't exist physically, you have these things even if you are not showing these qualities. 
+Ok let me explain further, people think it's stored in the brain. Let's assume you had an accident and got brain injury and you lost your memory, will you act as a violent man now. 
+So this information is not fed to you just once when you were a kid, but rather this information is fed to you constantly and always, or you will become a criminal.  
 
 No, you can't become a ghost, there is no such thing as ghosts. There is nothing that will come out of you, when your body dies. 
 
@@ -988,7 +998,7 @@ Having a child(passing own body/genetic material) (There is no guarantee that yo
 
 Ancestral = even if you don't have a child you might have brother and sister, they also carry almost the same genetic material. Even more, your mother and father have brothers and sisters and their children. 
 
-Having a major achievement(people that are not your blood relative will become you, they are inspired by your spirit/quality/work) (the problem is someone will replace your work in the future if your work is not ideal and absolute.) 
+Having a major achievement(people that are not your blood relative will become you, they are inspired by your spirit/quality/work) (The problem is someone will replace your work in the future if your work is not ideal and absolute.) 
 
 Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication.) 
 ```
@@ -996,7 +1006,7 @@ Attaching your name to the extraordinary person becoming part of the history. (T
 Genetics
 --------------------------------------------------------------------------------------------
 ```
-If you want to know about women sex organs specifically then, I don't think there are too much difference between man and woman, there is only 1 chromosome difference. The man was a woman, that's why they have nipples. 
+If you want to know about women sex organs specifically then, I don't think there are too many differences between men and women, there is only 1 chromosome difference. The man was a woman, that's why they have nipples.  
 
 Female = X chromosome(girl) = 23 chromosomes
 Women don't have Y chromosomes, Women don't have ability to control the gender of the new offspring. 
@@ -1011,14 +1021,14 @@ So X is common, that's why men also have nipples.
 
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 
-But I think the extra 23rd chromosome in the females hold the information about womb design.
+But I think the extra 23rd chromosome in females holds the information about womb design.
 ```
 
 Yuj
 --------------------------------------------------------------------------------------------
 ```
-Yoga = yog = yuj(sanskrit) = join(english) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
-So joining to what? of course the cosmos.
+Yoga = Yog = Yuj(sanskrit) = join(english) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
+So joining what? of course the cosmos.
 
 Yes, sitting in a studio apartment, wearing skinny spandex pants on a plastic mat is a waste of time.
 
@@ -1047,7 +1057,7 @@ Martial arts = Rule 1 = It's for defense only. Rule 2 = Learn the Rule 1 first.
 
 Mental aspects(dhyana)
 ________________________________________________ 
-This is the real game. Yes, reading this list is also yuj.
+This is the real game. Yes, reading this list is also Yuj.
 ```
 
 Mind
@@ -1068,9 +1078,15 @@ I have never been diagnosed with any disease, if you are vegetarian then you wil
 I had two fractures. I was cycling very fast and fell one evening in class 4 and broke an arm. Then I was running very fast in first year inside the college building and collided with a pillar and broke a finger. It was a curved building. 
 Cuts, wounds, burns, shock, accidents - these are just too many instances I don’t remember, well I was an athlete so it’s natural.
 
-No I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
+No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
+
+
+
+
 
 
 
