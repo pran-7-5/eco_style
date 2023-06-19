@@ -895,9 +895,11 @@ Well stars are born like that with a lot of noise like a crying newborn baby pul
 But the cosmos is something else, has no beginning and no end. There is no big bang and there will be no big crunch. 
 ```
 
-Religion (I don't think there is such a thing)
+Religion (I don't think there is such a thing, everyone is same)
 --------------------------------------------------------------------------------------------
 ```
+There is nothing called God. What do you mean by god, no one can explain. 
+
 Rome doesn't have a record of such a person. 
 
 Who is more wise a person living in jungles, rivers, mountains or a desert dweller. 
@@ -908,6 +910,17 @@ I think they will install rocket engines and launch it to the moon, at least the
 
 Why did you grow the population if you don't have enough resources, you don't have agricultural land. Well try drinking the oil no one will buy it anyway. 
 This is an example of extreme ignorance. They will keep killing each other. 
+```
+
+Devas, deus( ), theos()  (Again these are not called gods, people use word god because western people don’t know any other word)
+--------------------------------------------------------------------------------------------
+```
+Devas - tools - a person having ideal qualities- ideal senses 
+
+There can be a lot of devas. 
+But the fundamental is 3 devas, the Trinity. 
+
+So all the qualities that you can have are there in any of these 3 devas. 
 ```
 
 Purpose of life
@@ -969,6 +982,7 @@ Natural Selection = well book says survival of the fittest, the problem with thi
 Like if an asteroid hits, and every creature dies(well you don't know about few of these, they are expert survivors, but let's consider the worst case scenario) so they will come again, the process will repeat, as I said the water is the most important thing for life.
 
 Transitional Fossils = This theory has problems because again let me tell you that nothing has changed except you wearing adidas shoes. 
+Life originated in Africa, humans evolved from monkeys, they are just living in ignorance, there is no proof and you wont get any proof.
 ```
 
 Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, i am using it as western idiom)
@@ -1064,9 +1078,39 @@ Mind
 --------------------------------------------------------------------------------------------
 ```
 
-deep
-________________________________________________ 
+Consciousness(voluntary)                               |          Subconscious (involuntary)      
+-------------------------------------------------------|-------------------------------------------------------
+Free will - choosing a white shirt for today           | Nature's will - what led you to have that shirt in your closet?    
+What job do you want to do?                            | You were traveling to the interview location, but somehow the road was blocked, and you couldn't reach it on time.    
+Do you have to remember your phone's password?         | Or you just find yourself logged in.     
 
+There is a very thin line here, it is very difficult to understand this concept, pay attention. 
+
+Two people don't see the same thing the same way. 
+
+If I say what is this, you will say it's a tree. Of course it's a tree,  there is no doubt about that. 
+But for me everything is atoms, you couldn't see the atoms because you haven't seen an atom. But I can see them like an x-ray. 
+
+So my point is people perceive things differently according to their level of consciousness. 
+So what I am doing is enhancing your vision to enable you to see what I see, the broad picture. 
+Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing. 
+
+Awake - you are reading this(this is fake, you don't know the reality)
+________________________________________________ 
+This state consumes a lot of energy, the food you have eaten.
+
+Dreaming - started just before waking up(this one is also fake, you can think whatever you want but it's not true)
+________________________________________________ 
+This state consumes slightly less energy from the above state.
+
+Deep sleep(complete blankness) - before dreaming(this one is blank, time between sleep and dreaming) 
+________________________________________________ 
+You can't remember anything, because there is nothing in this state, fully dark.
+Saves a lot of body energy. Relaxation state, healing state.
+
+4th state(this one is real only) - there is no 4th state, you are the combination of all these states.
+________________________________________________ 
+All these states are necessary, 
 
 ```
 
@@ -1081,6 +1125,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
