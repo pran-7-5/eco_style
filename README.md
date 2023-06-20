@@ -11,7 +11,7 @@ It is very difficult to understand that you are a hypocrite. It is very easy to 
 
 If you don't observe the details and follow these steps very carefully, you will not get the results that you want to achieve.
 
-Methods and material are abundant, and can be launched immediately effectively. 
+Methods and materials are abundant and can be launched immediately and effectively. 
 
 Don't approach too fast, it may backfire, slow adaptation, not too slow either.
 
@@ -21,7 +21,7 @@ Can't push the change if the alternative is not there, find the alternative firs
 
 Don't make rules that can't be enforced. 
 
-If the executive comes in way, blow the whistle by the judiciary.
+If the executive comes in the way, blow the whistle, through the judiciary.
 
 What we are trying here is to minimize the use of materials that are mined - metal, cement, minerals. As well as inorganic labs made synthetic like plastic. 
 
@@ -591,6 +591,8 @@ Stop building tidal mills.(huge metal use)(huge transmission loss)(natural flow 
 
 Stop building hydro power dams.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
 
+Control of lithium mines. It can't be stopped until hydrogen fuel cells are available.
+
 Stop digging mines = we don't need metals anymore = natural hemp fiber and carbon fiber parts are used now and more efficient and lightweight.
 
 Banning of cement.
@@ -721,7 +723,7 @@ Best news in India = palki sharma
 Best news in west(america + europe) = kay burley 
 Best news in Israel = i24NEWS English
 Best news in Russia = RT
-Best news in France = France24 (good, but too much pro govt.)
+Best news in France = France24 - François Picard (good, but too much pro govt.)
 
 Deutsche Welle = too slow, too much pro govt.
 China = 
@@ -985,7 +987,7 @@ Transitional Fossils = This theory has problems because again let me tell you th
 Life originated in Africa, humans evolved from monkeys, they are just living in ignorance, there is no proof and you wont get any proof.
 ```
 
-Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, i am using it as western idiom)
+Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, I am using it as a western idiom)
 --------------------------------------------------------------------------------------------
 ```
 Spirit is the quality/information/definition/characteristics/properties of your body/any object. Spirit is not a material whereas your body is material/object. 
@@ -1125,19 +1127,6 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
