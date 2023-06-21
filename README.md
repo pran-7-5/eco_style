@@ -862,8 +862,7 @@ Big bang theory.
 Mr robot. 
 Man vs wild.
 Megafactories. 
-Planet mechanics. 
-Silicon Valley. 
+Planet mechanics.  
 Small wonder. 
 The mentalist. 
 The person of interest. 
