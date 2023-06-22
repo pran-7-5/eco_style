@@ -684,8 +684,21 @@ Closed source (spying)  | Open source (Very safe)
 ------------------------|----------------------------
 Whatsapp                | Signal     
      
-So tell them to open source fast or shutdown we don't need these.(Apple, microsoft, google, meta)           
-        
+So tell them to open source fast or shutdown we don't need these.(Apple, microsoft, google, meta)
+           
+Open source Softwares        
+________________________________________________ 
+Laptop/Phone/tablet
+
+Browser = Chrome, Firefox, Brave
+Office = libreoffice
+Vpn = Psiphon
+Pdf viewer = sumatra
+Image editor = Gimp
+Vector graphics = Inkscape
+Video player = Vlc
+Cache cleaner = Ccleaner
+Compressor = 7-Zip
 
 Grievance redressal mechanism (This software is very easy to make, can be made within a day. Give the contract to Google.)
 ________________________________________________ 
@@ -995,7 +1008,7 @@ Just don't do these things here, you people are not mentally strong.
 Why this? Because it can cure anything. It controls time. Yeah, I said you can't build a time machine and go past and future, but you can control yours. Yeah this slows down aging. But again it has an overdose so, the best is ma,riju,ana(this also slows down aging).
 
 Snake wrapped around neck because his name is Kal(time), we are actually not in a cyclical path, we are in a helical path, which means the world will not be in the same position next year after revolving around the sun.
-Yeah, nasa is a liar, the clock we are using is actually not good, very imperfect, so I have my own calendar. Just a quick note: your birthday actually changes every year. Like I was borned in May 7 94, but this year my birthday was on May 16th to be 100 % exact.
+Yeah, nasa is a liar, the clock we are using is actually not good, very imperfect, so I have my own calendar. Just a quick note: your birthday actually changes every year. 
 
 The moon on his head represents soft light, His other name is soma(luna)...
 
