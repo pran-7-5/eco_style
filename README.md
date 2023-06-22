@@ -634,7 +634,24 @@ Army vehicles are not efficient.
 Banning of commercial heavy metal shipping vessels, new vessels = natural hemp fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
 Shipment = only technology, important goods not everything, grow food in your country.
 
-Hydrogen generation = Solar panel + Electrolyzer
+How to generate hydrogen at your location
+________________________________________________ 
+Electrolyzer = if current passed through water, electrolyzer converts water into hydrogen and oxygen 
+So the current should be coming from the solar panel. 
+
+https://nelhydrogen.com/water-electrolysers-hydrogen-generators/
+https://nelhydrogen.com/hydrogen-fueling-equipment/
+
+*** a smaller compact version is required for domestic home use, to replace dc to ac inverters. 
+
+How to use Hydrogen 
+________________________________________________ 
+Hydrogen can be directly burnt - if we burn hydrogen it will produce water, this can be used for airplanes or rockets.
+But hydrogen can also be used as a battery(h2 fuel cell) , this will also work the same way it will produce current and water, this can be used in cars and bikes... 
+
+https://www.ballard.com/fuel-cell-solutions/fuel-cell-power-products
+
+*** a smaller compact version is required for domestic home use, for replacing inverter toxic lead or lithium batteries.
 
 Space
 ________________________________________________ 
@@ -745,7 +762,7 @@ So when will it be good, the chip in your phone is a 7nm transistor, and today 3
 What then?
 There are attempts to build a quantum computer like google quantum computer. Everything will be the same as manufacturing, just different materials will be used in making that chip.
 
-After this, computers will have more power. Right now it's brain is not even good as a 🐀rat's mind.
+After this, computers will have more power. Right now its brain is not even as good as a rat's mind.
 
 You will see what I am talking about in the next post.
 ```
@@ -990,7 +1007,7 @@ Why were David Gilmour, Steve Jobs, and the Beatles here?
 
 Well, who invented music?
 These songs were the first music, Sanskrit songs when society was made, 10000 years back...
-People get crazy about hippie music, they forget everything else 😂😂😂
+People get crazy about hippie music, they forget everything else.
 https://youtu.be/PTc8X37oJBE
 This song is about Shiva(Shi - kindness, Va- who possess), the big brother in the trinity.
 
@@ -1240,6 +1257,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
