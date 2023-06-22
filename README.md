@@ -279,6 +279,10 @@ Cold/fever/headache/backpain = It happens because you have taken too much worklo
 
 Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits. 
 You may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
+
+The fact is human is anatomically herbivore.
+So if you think animals don't know that you ate an animal, do you think they are stupid, they know very well.
+How, from the smell of your skin.
 ```
 
 Drinks
@@ -707,6 +711,30 @@ Voting from registered phone number.
 Citizen Id
 ________________________________________________ 
 I mean what nonsense, biometric id, voter id, tax id, passport id, driving id, health id but still no facility. (Keep one number only)
+
+Facts
+________________________________________________ 
+You might be thinking open ai, spacex are highly intelligent people working there. Well, you don't know anything.
+
+Chatgpt is just a GUI, they haven't made the core software technology, like I have my own. It's just too easy to make, it's just use statistics. Open ai just made the graphical user interface and leased a cloud space from their investor Microsoft Azure. 
+That's it, I can launch my own tomorrow, I just need cloud subscription like aws(you can buy it online, takes 1 day for verification, but costs a fortune). So if data center is required, then it can be turned off by just 1 switch.
+Ai is not working because of software, this software was created way back, and it is launched now because they need high-power chips(cloud data centers) which were not there before.
+
+So who created ai software, or reverse-landing rockets?
+
+Well, it is developed by an open source community from people all around the world, they are very good people, they don't have money, they don't work for any company, they just work for the betterment of society, that's all they want.
+They receive donations from people, 1 dollar, 5 dollars, 50 dollars like that. And these people are very weak. that's why they don't work in big companies where they face harassment, they will take your idea and fire you, like they fired Steve Jobs.
+
+So, the robot army type technology exists but is not that good now, the power source like batteries is very limited. Even you can see the problems in chatgpt, I mean for me it is not that good today. I mean could be good if you buy premium cloud, but not for free.
+
+So when will it be good, the chip in your phone is 7nm transistor, and today 3nm can be manufactured? And 1nm is last because that is the size of the silicon atom.
+
+What then?
+There are attempts to build a quantum computer like google quantum computer. Everything will be the same as manufacturing, just different material will be used in making that chip.
+
+After this, computers will have more power. Right now it's brain is not even good as a 🐀rat's mind.
+
+You will see what I am talking about in the next post.
 ```
 
 Media
@@ -780,7 +808,7 @@ My choice of movies
 ```
 A few good men. 
 A beautiful mind. 
-Batman begins. 
+Batman begins - I mean this one is very big mistake, ring tires can't roll like that, could have given spherical tires to the motorcycle. 
 Brave heart. 
 Bruce Almighty.
 Devil wears prada. 
@@ -789,7 +817,7 @@ Forrest Gump.
 Gladiator. 
 Good will hunting. 
 Hacksaw ridge. 
-Ironman 1.
+Ironman 1 - we can't use reactor for propulsion, can be done in space but not on earth.
 Interstellar. 
 Jack reacher. 
 Jerry Maguire. 
@@ -800,7 +828,7 @@ Rambo.
 Rush. 
 
 Schindler's list. 
-Star Wars. 
+Star Wars - I mean why make aliens so ugly. 
 
 Top gun. 
 The adjustment bureau.
@@ -819,7 +847,11 @@ The pursuit of happiness.
 The Shawshank redemption. 
 The Truman show. 
 
-V for vendetta. 
+V for vendetta.
+
+Inception - You can't program a mind with a machine. You can't link 2 minds with a machine. 
+Prestige - you can't clone human, it's too complex.
+Star Trek- beam me up, I mean what non sense. There is nothing called teleportation.
 
 My favorites
 --------------------------------------------------------------------------------------------
@@ -853,7 +885,7 @@ Now the latest technology is NVME drives.
 
 Tv
 --------------------------------------------------------------------------------------------
-Big bang theory. 
+Big bang theory - there is no big bang, matter is not made of strings.
 Mr robot. 
 Man vs wild.
 Megafactories. 
@@ -889,6 +921,16 @@ Yes there was no big bang, some nut bags sitting in an air conditioned room at T
 
 Well stars are born like that with a lot of noise like a crying newborn baby pulled out of the womb. 
 But the cosmos is something else, has no beginning and no end. There is no big bang and there will be no big crunch. 
+
+Time travel to past and future is not possible, because it violates the fundamental of the nature.
+
+To be specific, It is the violation of 2nd law of thermodynamics, which states that the entropy increases with time.
+In simple terms, when you pour water to a glass from a bottle, of course you can put it back, but it will never be exactly how it was.
+
+That's why time is the most precious thing in the cosmos.
+
+There are no worm holes.
+Black hole is just a dead star, there is nothing fancy about it, there is no time travel.
 ```
 
 Religion (I don't think there is such a thing, everyone is same)
@@ -917,6 +959,51 @@ There can be a lot of devas.
 But the fundamental is 3 devas, the Trinity. 
 
 So all the qualities that you can have are there in any of these 3 devas. 
+
+
+I bet you have not seen a non polar river glacier.
+
+Gangotri Glacier (there is no road, difficult terrain, only walking) (only in December -50° Celsius, January -30, February -10) other months are very dangerous too much rain.
+
+State = uttara-khand (English = North-land)
+District - garhwal himalaya
+
+If you haven't smoked h,a,s,h here in the snow fall you are missing out.
+
+By the way, you have to buy h,a,s,h from Dehradun after landing at the airport, not in the airport.
+
+Just kidding don't go there, you can't handle, stay at dehradun. Or go to kathmandu, everest base camp, don't go after base camp too dangerous.
+
+Why these were here David Gilmour, Steve Jobs, Beatles...
+
+Well, who invented music?
+These songs were the first music, Sanskrit songs when society was made, 10000 years back...
+
+People get crazy about hippie music, they forget everything else 😂😂😂
+https://youtu.be/PTc8X37oJBE
+
+This song is about Shiva(Shi - kindness, Va- who possess), the big brother in the trinity.
+He is Adi (one), the first one who figured it all out, then he trained Sapt (seven)-russis(Russia) who made everything around us, politics, technology, mathematics, astronomy etc.
+
+I don't know what greeks called him.
+
+He is also called maha-deva(mega-senses, there is no one above this one) and rud-ra(roar-er), he might be called rod in the forgotten pre christian Slavic-culture(needs more research) of Russia.
+
+This one is kind, you can joke around but there is a line, you can't be stupid, you just can't say anything you want.
+
+He is represented blue because he drinks fruit juice with king cobra venom.
+
+Well you don't know the difference between poison and venom.
+If you eat poison you will die.
+But venom is not poison, you will die of venom if it gets into your blood stream only like if the snake bites you. But if you drink it you will get too high.
+Just don't do these things here, you people are not mentally strong.
+Why this? Because it can cure anything. It controls time. Yeah I said you can't built a time machine and go past future, but you can control yours. Yeah this slow down ageing. But again it has overdose so, the best is ma,riju,ana(this also slow down ageing).
+
+Snake wraped around neck because his name is kal(time), we are actually not in a cyclical path, we are in a helical path, which means the world will not be in the same position next year after revolving around the sun.
+
+Yeah, nasa is a liar, the clock we are using is actually not good, very imperfect, so I have my own calendar. Just a quick note your birthday is actually changes very year. Like I have borned in may 7 94, but this year my birthday was on 16 may to be 100 % exact.
+
+The moon on his head is represents soft light.. His other name is soma(luna)...
 ```
 
 Purpose of life
@@ -1032,6 +1119,7 @@ So X is common, that's why men also have nipples.
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 
 But I think the extra 23rd chromosome in females holds the information about womb design.
+
 ```
 
 Yuj
