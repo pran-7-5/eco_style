@@ -719,12 +719,7 @@ News
 I don't read papers. (Too slow)
 I don't read magazines. (Too slow)
 
-Best news in India = palki sharma 
-Best news in west(america + europe) = kay burley 
-Best news in Israel = i24NEWS English
-Best news in Russia = RT
-Best news in France = France24 - François Picard (good, but too much pro govt.)
-
+BBC = too slow, too much pro govt.
 Deutsche Welle = too slow, too much pro govt.
 China = 
 Al Jazeera = arabic channel without a single arab (this is propaganda)
