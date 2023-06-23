@@ -25,6 +25,15 @@ If the executive comes in the way, blow the whistle, through the judiciary.
 
 What we are trying here is to minimize the use of materials that are mined - metal, cement, minerals. As well as inorganic labs made synthetic like plastic. 
 
+Caution
+--------------------------------------------------------------------------------------------
+This information is ideal, so be careful. You are seeing this because I know you can handle it.
+
+The only issue is that this information will make you angry if you see some one spilling ignorance in front of you.
+So don't start a fight to prove your point to a stupid person, you won't achieve anything by doing so except wasting your time, because you don't know their back ground and could be a psychopath.
+
+So, keep wondering this information may take few years to completely sync into your mind.
+
 Utensils
 --------------------------------------------------------------------------------------------
 ```
@@ -290,14 +299,12 @@ Cold/fever/headache/backpain = It happens because you have taken too much worklo
 Stomach ache/ acidity =  It happens because you have taken too much work load or food poisoning (you have eaten something that you didn't want to eat but ate anyway), or bad habits like not sleeping early or late night mischief. So take a rest, drink water, eat more fruits. 
 You may need to take a tablet = esomeprazole magnesium 40(you can buy this without prescription, it acts very fast like within 5 minutes, eat something after taking the tablet). (You will get better in a week maximum)(Don't take this tablet regularly or you might develop stones)
 
+The so called scientists are sellouts, is there anything in world that you can't buy for money. Money can make a lie true. Money can change history. Who cares about what you eat.
 The fact is humans are anatomically herbivores.
 So if you think animals don't know that you ate an animal, do you think they are stupid, they know very well.
 How, from the smell of your skin.
 
-snake bite = People don't die because of a snake bite or scorpion. 
-
-They die because of panic and heart attacks. 
-The solution to all the problems is to be calm and keep breathing. 
+snake bite = People don't die because of a snake bite or scorpion. They die because of panic and heart attacks. The solution to all the problems is to be calm and keep breathing. 
 
 If something bites you just keep calm, keep breathing, keep cool, go to the nearest clinic, pharmacy, or anything. 
 Nowadays the antivenom comes in just one injection for all neurotoxic creatures, available everywhere. 
