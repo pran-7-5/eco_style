@@ -266,6 +266,16 @@ Hygiene = reusable cotton pads (normal is ok for outside purposes but creating p
 Protection = non lubricated condoms (example brand = trojan)(lubricated = chemical) = https://www.amazon.in/Trojan-ENZ-Non-Lubricated-Condoms-Count/dp/B0001Q6DEU
 
 Well, more awareness should be provided to girls from a young age about masturbation, many are developing breast, vaginal cancer due sexual dissatisfaction, privacy and separate rooms should be provided by parents.
+
+Only emergency situations shall be allowed.
+Abortion(wild west) - Lack of awareness
+Unplanned Copulation. 
+Lack of protection. 
+Prone to permanent infertility. 
+Life threatening blood loss. 
+Demise of the newborn, leads to permanent mental illness. 
+
+Contraceptive pill - major side effects.
 ```
 
 Health tips
@@ -283,6 +293,17 @@ You may need to take a tablet = esomeprazole magnesium 40(you can buy this witho
 The fact is humans are anatomically herbivores.
 So if you think animals don't know that you ate an animal, do you think they are stupid, they know very well.
 How, from the smell of your skin.
+
+snake bite = People don't die because of a snake bite or scorpion. 
+
+They die because of panic and heart attacks. 
+The solution to all the problems is to be calm and keep breathing. 
+
+If something bites you just keep calm, keep breathing, keep cool, go to the nearest clinic, pharmacy, or anything. 
+Nowadays the antivenom comes in just one injection for all neurotoxic creatures, available everywhere. 
+
+Remember as I have said earlier you were a snake before in the evolutionary line, so your body knows these things. 
+I have met a lot of guys, who were bitten by cobras and whatnot. They say they don't have to do anything, they are used to it. 
 ```
 
 Drinks
@@ -504,10 +525,15 @@ Reduction of police muscle and fire and vehicle speed.
 
 Free speech. Right to information.
 
+Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already)
+
 We may have to abolish the marriage, which doesn't have any significance today = needs more thinking.
 
-Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already) 
+LGBTQ
+The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
+No marriage regulation is required. No recognition is required. The right to freedom is already there. 
 
+But Ai will provide security in the coming years, so people can stay single as long as they want so why homo sexuality.  
 
 Be careful that even small things and negligence can cause a lot of pollution.
 
@@ -763,8 +789,6 @@ What then?
 There are attempts to build a quantum computer like google quantum computer. Everything will be the same as manufacturing, just different materials will be used in making that chip.
 
 After this, computers will have more power. Right now its brain is not even as good as a rat's mind.
-
-You will see what I am talking about in the next post.
 ```
 
 Media
@@ -778,7 +802,7 @@ I don't read papers. (Too slow)
 I don't read magazines. (Too slow)
 
 BBC = too slow, too much pro govt.
-Deutsche Welle = too slow, too much pro govt.
+Deutsche Welle = propaganda.
 China = 
 Al Jazeera = arabic channel without a single arab (this is propaganda)
 
@@ -997,7 +1021,7 @@ I bet you have not seen a nonpolar river glacier.
 Gangotri Glacier (there is no road, difficult terrain, only walking) (only in December -50° Celsius, January -30, February -10) other months are very dangerous with too much rain.
 
 State = uttara-khand (English = North-land)
-District - garhwal himalaya
+District - Garhwal himalaya
 
 If you haven't smoked h,a,s,h here in the snow fall you are missing out.
 By the way, you have to buy h,a,s,h from Dehradun after landing at the airport, not in the airport.
@@ -1011,7 +1035,7 @@ People get crazy about hippie music, they forget everything else.
 https://youtu.be/PTc8X37oJBE
 This song is about Shiva(Shi - kindness, Va- who possess), the big brother in the trinity.
 
-He is Adi (one), the first one who figured it all out, then he trained Sapt(seven) - Russis(Russia) who made everything around us, politics, technology, mathematics, astronomy etc.
+He is Adi (one), the first one who figured it all out, then he trained Sapt(seven) - Russis (Russia) who made everything around us, politics, technology, mathematics, astronomy etc.
 I don't know what the Greeks called him.
 He is also called maha-deva(mega-senses, there is no one above this one) and rud-ra(roar-er), he might be called rod in the forgotten pre christian Slavic-culture(needs more research) of Russia.
 
@@ -1035,7 +1059,7 @@ Durga/Shakti(power) had a pet lion and a tiger.
 
 Other name is kalamata. (There is city in Greece)
 Athens = than(means place in sanskrit)
-Acro-polis(poli means also place)
+Acro-polis(Poli means also place)
 
 Every woman has qualities from this 9.
 
@@ -1109,7 +1133,7 @@ So the ocean (water) is compulsory for life to be created. With oxygen hydrogen 
 
 My issues with the book origin of species
 ________________________________________________  
-Natural Selection = well book says survival of the fittest, the problem with this argument is that the other species still exists. So I will say it is not in the power of the fittest, the fittest wont wipe out the others like hitler and the USA(hiro, nagasa). 
+Natural Selection = well book says survival of the fittest, the problem with this argument is that the other species still exists. So I will say it is not in the power of the fittest, the fittest wont wipe out the others like hitler and the USA(Hiro, Nagasa). 
 Like if an asteroid hits, and every creature dies(well you don't know about few of these, they are expert survivors, but let's consider the worst case scenario) so they will come again, the process will repeat, as I said the water is the most important thing for life.
 
 Transitional Fossils = This theory has problems because again let me tell you that nothing has changed except you wearing adidas shoes. 
@@ -1257,6 +1281,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
