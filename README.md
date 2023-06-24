@@ -8,19 +8,15 @@ hammer_of_god
 `Planet safe. These lines will tune your mind to absolute intellect`
 ============================================================================================
 It is very difficult to understand that you are a hypocrite. It is very easy to contradict yourself, going round and round. If you won't travel in a straight line in a jungle you will get lost and die.
-
 If you don't observe the details and follow these steps very carefully, you will not get the results that you want to achieve.
 
 Methods and materials are abundant and can be launched immediately and effectively. 
 
 Don't approach too fast, it may backfire, slow adaptation, not too slow either.
-
 You can't change the world without changing yourself first. and we can change ourselves.
 
 Can't push the change if the alternative is not there, find the alternative first.
-
 Don't make rules that can't be enforced. 
-
 If the executive comes in the way, blow the whistle, through the judiciary.
 
 What we are trying here is to minimize the use of materials that are mined - metal, cement, minerals. As well as inorganic labs made synthetic like plastic. 
@@ -43,9 +39,7 @@ Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) 
 Cooking pots
 ________________________________________________ 
 100% cast iron wok with lid 3L x 1.
-
 Cast iron pot with lid for boiling.
-
 Flat Pan cast iron.
 
 Accessories
@@ -166,14 +160,10 @@ Achar (pickle) = mango/amla/lemon/chili/ginger.
 
 Spices
 ________________________________________________ 
-Hing
-Mustard seeds
-Turmeric whole
-Clove whole
-Ginger whole
-Fennel seeds
-Dried mango
-Dried amla
+Hing, Mustard seeds, Clove whole, Fennel seeds
+Turmeric whole, Ginger whole
+Dried mango, Dried amla
+
 Raw sea salt(avoid pink salt from mountain (don't dig the mountain) is limited whereas sea is unlimited and sea is more nutrient dense than mountain)
 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, Kasuri methi should be avoided.
@@ -501,21 +491,17 @@ Policy change
 Infrastructure
 ________________________________________________ 
 Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues. Planet doesn't even like a stone to be picked up.
-
 Banning of street lights and poles = solar powered, 20 w LED enough, should be mounted on a tree rather than steel pole. 
 
 Equipments
 ________________________________________________ 
 Banning of paper.
-
 Banning of currency notes immediately and digital apps are already there.
 
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
 Free phones for the poor.
-
 Banning of fiber optic cables.
-
 No need for capital and cities. 5G and satellite internet is already here. Disperse the crowd. ( new invention required : Oneweb to cellular 5G converter technology doesn't exist)
 
 Food
@@ -529,21 +515,18 @@ ________________________________________________
 The government has no business in business. convert all gov manufacturing and service to private.
 
 Reduction of police muscle and fire and vehicle speed. 
-
 Free speech. Right to information.
 
 Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already)
 
 We may have to abolish the marriage, which doesn't have any significance today = needs more thinking.
 
-LGBTQ
-The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
+LGBTQ = The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
 No marriage regulation is required. No recognition is required. The right to freedom is already there. 
 
 But Ai will provide security in the coming years, so people can stay single as long as they want so why homo sexuality.  
 
 Be careful that even small things and negligence can cause a lot of pollution.
-
 Metal cement petroleum and transportation, anything linked to this creates pollution, because these are obtained through mining. 
 ```
 
@@ -568,7 +551,6 @@ Wood and mud combined houses are best and you will be so happy.
 Build only the house not floors above, it is very important to escape emergency situations like fire.
 
 Four very tall trees at 4 corners of the house to ground the current in case of lightning. 
-
 Four windows on four walls of the room for natural ventilation and cooling in summer hot weather.
 
 East facing main entrance. (To honor and remember that we are made from the Sun and its light should enter first at sunrise, like the colosseum, parthenon, pyramid of giza, chichen itza.
@@ -578,7 +560,6 @@ Ancient structures like Rome and temples of India are made of (lime mortar) . It
 Bricks = baked is a solar powered curing oven.
 
 Ban marble.
-
 Ban metal pipes. (Only this one plastic) 
 
 
@@ -623,9 +604,7 @@ Solar parks are not helpful because there is huge transmission loss. [V = IR][R 
 Every other source is very limited except solar, sunlight is unlimited, so it has to be the only source. Solar panels don't require a sunny day, just morning is enough.
 
 Stop building wind mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
-
 Stop building tidal mills.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
-
 Stop building hydro power dams.(huge metal use)(huge transmission loss)(natural flow is disrupted)(reaction force(force required to keep it in its place) is very high)
 
 Control of lithium mines. It can't be stopped until hydrogen fuel cells are available.
@@ -753,11 +732,9 @@ Compressor = 7-Zip
 Grievance redressal mechanism (This software is very easy to make, can be made within a day. Give the contract to Google.)
 ________________________________________________ 
 Create an issue. (automatic routing to respective department) 
-
 Solve issues. (within 24 hrs) 
 
 If recreated. (if unsatisfactory) 
-
 Inform top level. (auto upgrade) 
 
 If not solved within 24 hrs. (auto deduction of salary from department head to victim) 
@@ -808,7 +785,7 @@ News
 I don't read papers. (Too slow)
 I don't read magazines. (Too slow)
 
-BBC = too slow, too much pro govt.
+BBC = too slow, too much pro govt, propaganda.
 Deutsche Welle = propaganda.
 China = 
 Al Jazeera = arabic channel without a single arab (this is propaganda)
@@ -1014,14 +991,14 @@ This is an example of extreme ignorance. They will keep killing each other.
 Devas, deus( ), theos()  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
 ```
-Devas - tools - a person having ideal qualities- ideal senses 
+Devas - tools - a person having ideal qualities- ideal senses. 
 
 There can be a lot of devas. 
 But the fundamental is 3 devas, the Trinity. 
 
 So all the qualities that you can have are there in any of these 3 devas. 
 
-top deva
+Top deva - 1
 ________________________________________________ 
 I bet you have not seen a nonpolar river glacier.
 
@@ -1093,7 +1070,6 @@ These below lines are absolute, so don't worry it is very difficult to achieve t
 Animals(hardware) evolved to become more complex animals until it became manu that's where the evolution stopped. 
 The animal which is the best hunter is the lion. The animal which is the best flier is the eagle. Like that the animal which is the best thinker is man. 
 
-
 Manu(manas) = man(mind), once you are a mind kind of animal then the physical evolution(interspecies) stopped. 
 Only mind(software) will evolve(intraspecies) now on. Moon expedition is a leap of mind not the body. 
 
@@ -1136,7 +1112,7 @@ Before that the tortoise came from a fish.
 Before that algae, bacteria etc. 
 And of course the plants. 
 
-So the ocean (water) is compulsory for life to be created. With oxygen hydrogen carbon nitrogen and others. 
+So the ocean (water) is compulsory for life to be created. With oxygen, hydrogen, carbon, nitrogen and others. 
 
 My issues with the book origin of species
 ________________________________________________  
