@@ -1249,8 +1249,7 @@ Saves a lot of body energy. Relaxation state, healing state.
 
 4th state(this one is real only) - there is no 4th state, you are the combination of all these states.
 ________________________________________________ 
-All these states are necessary, 
-
+All these states are necessary. 
 ```
 
 Conclusion
