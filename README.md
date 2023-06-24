@@ -1201,7 +1201,6 @@ These are the farthest objects. Well watching stars won't help because they are 
 And washing eyes and face with cold water at least 5 times a day starting from waking up in the morning or eyes will get damaged.
 
 2nd exercise = Stretching 
-
 3rd exercise = Running 2 km every day
 
 4th exercise = relaxation. 
