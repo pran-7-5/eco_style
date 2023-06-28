@@ -628,19 +628,12 @@ Future of transportation
 Stop constructing new roads, bridges, new ports, alternate(EVTOLS) are coming is few years 
 
 Banning of formula 1, motogp. (formula-e is there)
-
 Banning of older vehicles.
-
 Banning of current public transports = reduce vehicle weight and size
-
 Banning of trucks, only air drops for defense equipments
-
 Banning of trains, track maintenance creating too much pollution because a lot of metal is required.(Stop hyperloop projects around the world, yes elon musk is more like a businessman, he doesn't understand science and technology which most people think)
-
 Banning of trams.
-
 Ban the boats except wood and electric ones.
-
 Army vehicles are not efficient.
 
 Banning of commercial heavy metal shipping vessels, new vessels = natural hemp fiber and carbon fiber + wood + electric propulsion + (solar+wind) combo powered.
