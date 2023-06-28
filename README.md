@@ -778,9 +778,9 @@ It can be recovered very easily, that's why you are not safe in the service cent
 
 If you move a photo to another device, it is still not deleted, so you will think that memory will get full, so the old deleted data will be permanently deleted if memory gets full by new data Overriding. Until the new data is full, the previously deleted data will remain hidden.
 
-If you quick format an internal drive/Pen Drive/external hard disk... Data will not be removed. So you have to uncheck the quick format option, so that deep format will run, so only after a deep format will everything be erased...
+If you choose a quick format an internal drive/Pen Drive/external hard disk... Data will not be removed. So you have to uncheck the quick format option, so that deep format will run, so only after a deep format will everything be erased. 
 
-So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pndrive like 32gb, use low memory, work on it, upload it to the cloud drive(u can permanent delete in cloud) , then deep format the memory card.
+So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pndrive like 32gb, use low memory, work on it, upload it to the cloud drive(you can permanently delete data in cloud) , then deep format the memory card.
 
 ```
 
@@ -807,7 +807,7 @@ Not brief, not precise.
 
 Technology limitations = Not using right tools.
 
-Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light)
+Camera = Sony alpha 1($5000) (This is a mirrorless camera with autofocus 8K res, it is a low light technology, does not require light) (Live streaming require sony’s proprietary software on an intel i9 laptop with nvidia)
 Gimbal = Freefly Movi Pro($3,995)
 
 Microphone = Sony DWX Digital Wireless
@@ -970,14 +970,22 @@ Well stars are born like that with a lot of noise like a crying newborn baby pul
 But the cosmos is something else, has no beginning and no end. There is no big bang and there will be no big crunch. 
 
 Time travel to the past and future is not possible, because it violates the fundamentals of nature.
-
 To be specific, It is a violation of the 2nd law of thermodynamics, which states that the entropy increases with time.
 In simple terms, when you pour water into a glass from a bottle, of course you can put it back, but it will never be exactly how it was.
-
 That's why time is the most precious thing in the cosmos.
 
 There are no wormholes.
 Black hole is just a dead star, there is nothing fancy about it, there is no time travel.
+
+I was born when uttar(North) -bhadra(behave/way) -pad(foot)and meena(pieces) were above me on 7 may 94, and this year they were above me on 16 may. As per calculation, yeah it was raining that evening so I couldn't see. 
+Pieces is closer than the uttar-bhadra-pad constellation. Just like I am talking with you in a weird way, of course your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
+Likewise everything that exists in this cosmos is a living being, u just don't understand what they eat or say.  
+
+The astrology that you are aware of, are all fake. Of course I know the future but the thing is I can't change it, because again me knowing the future becomes a part of the future. 
+
+Of course I have tried to change it, but failed miserably. Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. Again I just know mine, not yours. Well I had a software, which I lost in 2004. Well, I learned computers when I was in class 3. There were floppy drives those days. I have not found an equivalent software since then. 
+
+Then u will ask about palm prints, of course they tell ur future because everyone has unique. This is different from the above method. I don't know how it's done, it will take time for me to understand this.
 ```
 
 Religion (I don't think there is such a thing, everyone is same)
@@ -1271,6 +1279,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
