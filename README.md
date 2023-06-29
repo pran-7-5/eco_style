@@ -497,6 +497,7 @@ Equipments
 ________________________________________________ 
 Banning of paper.
 Banning of currency notes immediately and digital apps are already there.
+I don't think that banks will be required.
 
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
@@ -512,14 +513,17 @@ Ban synthetic chemical fertilizers.
 
 Administration
 ________________________________________________ 
-The government has no business in business. convert all gov manufacturing and service to private.
+I don't understand how every country has its own constitution whereas the person living there is the same human. There should not be something called citizen rights, there should be the same human rights only for all countries.
+
+The government has no business in business, converting all govt manufacturing and services to private.
 
 Reduction of police muscle and fire and vehicle speed. 
 Free speech. Right to information.
 
 Abolition of schools and colleges (sports and art clubs, markets, online apps are enough for meeting and discovering new people already)
 
-We may have to abolish the marriage, which doesn't have any significance today = needs more thinking.
+We may have to abolish marriage, which doesn't have any significance today. (Court is entering homes while there is no violence yet, 99.9 % of women and children can't access the court in the first place.)
+A woman can agree to have a child if she has resources for the entire life. (Nothing else can be enforced.)
 
 LGBTQ = The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
 No marriage regulation is required. No recognition is required. The right to freedom is already there. 
@@ -673,11 +677,8 @@ EVTOL Air taxi = hire,  ambulance.
 Intracity(But you have said no road, OK wait, elevated surface automatic mud road leveling machine(roller), we just need to level the mud road time to time, like day after the rain)
 ________________________________________________ 
 Moped. (Two wheeler)
-
 Car hire - 100 Km/h max speed (Autopilot car)
-
 Public transport - 80 Km/h max speed (Autopilot mini bus)(tank like wheel bus)(Men/women separate section right side/ left side) 
-
 Heavy transport - only helicopter (Rare use)
 
 Near by
@@ -688,7 +689,7 @@ Bicycle, e-scooter.
 Softwares
 --------------------------------------------------------------------------------------------
 ```
-Automatic deletion of data = google, Microsoft, meta ... Free up data centers...1 backup in a data center another should be peer to peer distributed.
+Automatic deletion of data = google, microsoft, meta should free up data centers, I mean dead people have accounts today. 1 backup in a data center another should be peer to peer distributed for 6 months.(Like telegram is giving, auto deletion of account if inactive and not intervened within 6 months)
 
 Product verification before dispatch. (Hide seller id and consumer id if manually checked for certain products) 
 
@@ -735,7 +736,7 @@ If not solved within 24 hrs. (auto deduction of salary from department head to v
 Court reforms
 ________________________________________________ 
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
-Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital) 
+Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital). 
 
 Digital election
 ________________________________________________ 
@@ -770,10 +771,9 @@ Don't save anything on your phone/laptop/tab other than movies,songs, it doesn't
 It can be recovered very easily, that's why you are not safe in the service center
 
 If you move a photo to another device, it is still not deleted, so you will think that memory will get full, so the old deleted data will be permanently deleted if memory gets full by new data Overriding. Until the new data is full, the previously deleted data will remain hidden.
+If you choose a quick format an internal drive/Pen Drive/external hard disk. Data will not be removed. So you have to uncheck the quick format option, so that deep format will run, so only after a deep format will everything be erased. 
 
-If you choose a quick format an internal drive/Pen Drive/external hard disk... Data will not be removed. So you have to uncheck the quick format option, so that deep format will run, so only after a deep format will everything be erased. 
-
-So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pndrive like 32gb, use low memory, work on it, upload it to the cloud drive(you can permanently delete data in cloud) , then deep format the memory card.
+So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pndrive like 32gb, use low memory, work on it, upload it to the cloud drive(you can permanently delete data in cloud), then deep format the memory card.
 
 ```
 
@@ -970,17 +970,17 @@ That's why time is the most precious thing in the cosmos.
 There are no wormholes.
 Black hole is just a dead star, there is nothing fancy about it, there is no time travel.
 
-Nakshatra = There are 27 constellation, these are farther than Rashis thats why their amount of gravity is low and not that significant.
-Rashi(amount)/zodiac = There are 12 constellation, these are closest thats why their amount of gravity is more and significant.
-Grih(to seize/take hold)(planets) = The problem is the so called science include uranus and neptune in solar system, which is not correct these two are very small and just too far away fron the sun and their trajectory is also wierd. so there are only 6 planets in our solar system mercury, venus, earth, mars, jupiter, saturn.
+Nakshatra = There are 27 constellations, these are farther than Rashis that's why their amount of gravity is low and not that significant.
+Rashi(amount)/zodiac = There are 12 constellations, these are closest, that's why their amount of gravity is more and significant.
+Grih(to seize/take hold)(planets) = The problem is the so-called science including the uranus and neptune in the solar system, which is not correct. These two are very small and just too far away from the sun and their trajectory is also weird. so there are only 6 planets in our solar system: mercury, venus, earth, mars, jupiter, saturn.
 
 Your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
 Likewise everything that exists in this cosmos is a living being, you just don't understand what they eat or say.  
 
-The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you knowing the future was a part of the future. 
+The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you know the future is a part of the future. 
 Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. 
 
-The palm prints also tell future because everyone has unique. This is different from the above method. 
+The palm prints also tell the future because everyone is unique. This is different from the above method. 
 ```
 
 Religion (I don't think there is such a thing, everyone is same)
@@ -1047,7 +1047,7 @@ Why this? Because it can cure anything. It controls time. Yeah, I said you can't
 Snake wrapped around neck because his name is Kal(time), we are actually not in a cyclical path, we are in a helical path, which means the world will not be in the same position next year after revolving around the sun.
 Yeah, nasa is a liar, the clock we are using is actually not good, very imperfect, so I have my own calendar. Just a quick note: your birthday actually changes every year. 
 
-The moon on his head represents soft light, His other name is soma(luna)...
+The moon on his head represents soft light, His other name is soma(luna). 
 
 wife(this is even more dangerous creature than the guy)
 ________________________________________________ 
@@ -1064,14 +1064,12 @@ https://en.m.wikipedia.org/wiki/Navadurga
 https://youtu.be/bgGqgjkBLek
 I guess The dragon doesn't like it anymore.
 
-Oct 15 - Oct 24 this year. 9 days for each form.
-This is the only festival that lasts continuously 9 days, everything else is 1 day.
+Nine nights for each form. This is the only festival that lasts continuously 9 days, everything else is 1 day.
 
 This is vegetarian but once killed a guy drank his blood.
 
 There are tribes here in Meghalaya called Khassi, where men go to the girl's house after marriage.
 https://youtu.be/Kje0ISEKKX0
-
 ```
 
 Purpose of life
@@ -1186,7 +1184,6 @@ So X is common, that's why men also have nipples.
 If there are things that only girls have, then I can't verify that, personally experience that. That is the only thing in the cosmos that I don't know. 
 
 But I think the extra 23rd chromosome in females holds the information about womb design.
-
 ```
 
 Yuj
@@ -1274,6 +1271,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No, I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
