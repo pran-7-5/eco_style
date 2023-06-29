@@ -970,15 +970,13 @@ That's why time is the most precious thing in the cosmos.
 There are no wormholes.
 Black hole is just a dead star, there is nothing fancy about it, there is no time travel.
 
-I was born when uttar(North) -bhadra(behave/way) -pad(foot)and meena(pieces) were above me on 7 may 94, and this year they were above me on 16 may. As per calculation, yeah it was raining that evening so I couldn't see. 
-Pieces is closer than the uttar-bhadra-pad constellation. Just like I am talking with you in a weird way, of course your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
+Your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
 Likewise everything that exists in this cosmos is a living being, u just don't understand what they eat or say.  
 
-The astrology that you are aware of, are all fake. Of course I know the future but the thing is I can't change it, because again me knowing the future becomes a part of the future. 
+The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you knowing the future was a part of the future. 
+Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. 
 
-Of course I have tried to change it, but failed miserably. Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. Again I just know mine, not yours. Well I had a software, which I lost in 2004. Well, I learned computers when I was in class 3. There were floppy drives those days. I have not found an equivalent software since then. 
-
-Then u will ask about palm prints, of course they tell ur future because everyone has unique. This is different from the above method. I don't know how it's done, it will take time for me to understand this.
+The palm prints also tell future because everyone has unique. This is different from the above method. 
 ```
 
 Religion (I don't think there is such a thing, everyone is same)
@@ -998,7 +996,7 @@ Why did you grow the population if you don't have enough resources, you don't ha
 This is an example of extreme ignorance. They will keep killing each other. 
 ```
 
-Devas, deus( ), theos()  (Again these are not called gods, people use word god because western people don’t know any other word)
+Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
 ```
 Devas - tools - a person having ideal qualities- ideal senses. 
