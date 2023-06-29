@@ -970,8 +970,12 @@ That's why time is the most precious thing in the cosmos.
 There are no wormholes.
 Black hole is just a dead star, there is nothing fancy about it, there is no time travel.
 
+Nakshatra = There are 27 constellation, these are farther than Rashis thats why their amount of gravity is low and not that significant.
+Rashi(amount)/zodiac = There are 12 constellation, these are closest thats why their amount of gravity is more and significant.
+Grih(to seize/take hold)(planets) = The problem is the so called science include uranus and neptune in solar system, which is not correct these two are very small and just too far away fron the sun and their trajectory is also wierd. so there are only 6 planets in our solar system mercury, venus, earth, mars, jupiter, saturn.
+
 Your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
-Likewise everything that exists in this cosmos is a living being, u just don't understand what they eat or say.  
+Likewise everything that exists in this cosmos is a living being, you just don't understand what they eat or say.  
 
 The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you knowing the future was a part of the future. 
 Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. 
@@ -1148,7 +1152,7 @@ No, you can't become a ghost, there is no such thing as ghosts. There is nothing
 
 Of course your body is made of oxygen, water vapor and other elements which will come out but they all are separate from each other, they don't hold the same information anymore, as when you were alive. 
 
-The spirit has no physical connection with your body, it is the meaning of the object. 
+The spirit has no physical connection with your body, it is the meaning of the object.  
 ```
  
 Ways to be immortal
@@ -1223,24 +1227,6 @@ This is the real game. Yes, reading this list is also Yuj.
 Mind
 --------------------------------------------------------------------------------------------
 ```
-
-Consciousness(voluntary)                               |          Subconscious (involuntary)      
--------------------------------------------------------|-------------------------------------------------------
-Free will - choosing a white shirt for today           | Nature's will - what led you to have that shirt in your closet?    
-What job do you want to do?                            | You were traveling to the interview location, but somehow the road was blocked, and you couldn't reach it on time.    
-Do you have to remember your phone's password?         | Or you just find yourself logged in.     
-
-There is a very thin line here, it is very difficult to understand this concept, pay attention. 
-
-Two people don't see the same thing the same way. 
-
-If I say what is this, you will say it's a tree. Of course it's a tree,  there is no doubt about that. 
-But for me everything is atoms, you couldn't see the atoms because you haven't seen an atom. But I can see them like an x-ray. 
-
-So my point is people perceive things differently according to their level of consciousness. 
-So what I am doing is enhancing your vision to enable you to see what I see, the broad picture. 
-Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing. 
-
 Awake - you are reading this(this is fake, you don't know the reality)
 ________________________________________________ 
 This state consumes a lot of energy, the food you have eaten.
@@ -1257,6 +1243,24 @@ Saves a lot of body energy. Relaxation state, healing state.
 4th state(this one is real only) - there is no 4th state, you are the combination of all these states.
 ________________________________________________ 
 All these states are necessary. 
+
+
+Consciousness(voluntary)                               |          Subconscious (involuntary)      
+-------------------------------------------------------|-------------------------------------------------------
+Free will - choosing a white shirt for today           | Nature's will - what led you to have that shirt in your closet?    
+What job do you want to do?                            | You were traveling to the interview location, but somehow the road was blocked, and you couldn't reach it on time.    
+Do you have to remember your phone's password?         | Or you just find yourself logged in.     
+
+There is a very thin line here, it is very difficult to understand this concept, pay attention. 
+
+Two people don't see the same thing the same way. 
+
+If I say what is this, you will say it's a tree. Of course it's a tree,  there is no doubt about that. 
+But for me everything is atoms, you couldn't see the atoms because you haven't seen an atom. But I can see them like an x-ray. 
+
+So my point is people perceive things differently according to their level of consciousness. 
+So what I am doing is enhancing your vision to enable you to see what I see, the broad picture. 
+Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing.
 ```
 
 Conclusion
