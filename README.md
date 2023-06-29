@@ -977,7 +977,7 @@ Grih(to seize/take hold)(planets) = The problem is the so-called science includi
 Your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
 Likewise everything that exists in this cosmos is a living being, you just don't understand what they eat or say.  
 
-The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you know the future is a part of the future. 
+The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you knowing the future is a part of the future. 
 Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. 
 
 The palm prints also tell the future because everyone is unique. This is different from the above method. 
