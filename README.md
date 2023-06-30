@@ -28,13 +28,13 @@ This information is ideal, so be careful. You are seeing this because I know you
 The only issue is that this information will make you angry if you see someone spilling ignorance in front of you.
 So don't start a fight to prove your point to a stupid person, you won't achieve anything by doing so except wasting your time, because you don't know their background and could be a psychopath.
 
-So, keep wondering if this information may take a few years to completely sync into your mind.
+So, keep wondering, this information may take a few years to completely sync into your mind.
 
 Utensils
 --------------------------------------------------------------------------------------------
 ```
-Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (blood is made of iron so no issue)
-:warning: some companies are selling steel and writing 100% cast iron, check the factory. (companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after washing).
+Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (blood is made of iron so no issue).
+Some companies are selling steel and writing 100% cast iron, check the factory. (companies are putting some unknown oil coating to prevent rust)(iron is prone to rust so must be coated with mustard oil only after washing).
 
 Cooking pots
 ________________________________________________ 
@@ -525,7 +525,7 @@ Abolition of schools and colleges (sports and art clubs, markets, online apps ar
 We may have to abolish marriage, which doesn't have any significance today. (Court is entering homes while there is no violence yet, 99.9 % of women and children can't access the court in the first place.)
 A woman can agree to have a child if she has resources for the entire life. (Nothing else can be enforced.)
 
-LGBTQ = The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
+LGBT = The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
 No marriage regulation is required. No recognition is required. The right to freedom is already there. 
 
 But Ai will provide security in the coming years, so people can stay single as long as they want so why homo sexuality.  
@@ -1042,7 +1042,7 @@ Well you don't know the difference between poison and venom.
 If you eat poison you will die.
 But venom is not poison, you will die of venom if it gets into your bloodstream only like if the snake bites you. But if you drink it you will get too high.
 Just don't do these things here, you people are not mentally strong.
-Why this? Because it can cure anything. It controls time. Yeah, I said you can't build a time machine and go past and future, but you can control yours. Yeah this slows down aging. But again it has an overdose so, the best is ma,riju,ana(this also slows down aging).
+Why this? Because it can cure anything. It controls time. Yeah, I said you can't build a time machine and go past and future, but you can control yours. Yeah this slows down aging. But again it has an overdose so, the best is marijuana(this also slows down aging).
 
 Snake wrapped around neck because his name is Kal(time), we are actually not in a cyclical path, we are in a helical path, which means the world will not be in the same position next year after revolving around the sun.
 Yeah, nasa is a liar, the clock we are using is actually not good, very imperfect, so I have my own calendar. Just a quick note: your birthday actually changes every year. 
@@ -1124,7 +1124,7 @@ And of course the plants.
 
 So the ocean (water) is compulsory for life to be created. With oxygen, hydrogen, carbon, nitrogen and others. 
 
-My issues with the book origin of species
+My issues with the book - origin of species
 ________________________________________________  
 Natural Selection = well book says survival of the fittest, the problem with this argument is that the other species still exists. So I will say it is not in the power of the fittest, the fittest wont wipe out the others like hitler and the USA(Hiro, Nagasa). 
 Like if an asteroid hits, and every creature dies(well you don't know about few of these, they are expert survivors, but let's consider the worst case scenario) so they will come again, the process will repeat, as I said the water is the most important thing for life.
@@ -1271,6 +1271,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No, I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
