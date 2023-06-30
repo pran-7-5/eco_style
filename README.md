@@ -29,7 +29,7 @@ So don't start a fight to prove your point to a stupid person, you won't achieve
 
 So, keep wondering, this information may take a few years to completely sync into your mind.
 
-Utensils
+:amphora: Utensils
 --------------------------------------------------------------------------------------------
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (blood is made of iron so no issue).
@@ -68,7 +68,7 @@ Clay and leaf is recommended.
 ** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided). 
 ```
 
-Cleaner (utensils/hair/body/cloths/teeth) (won't work if exposed to chemicals, use the normal soap)
+:soap: Cleaner (utensils/hair/body/cloths/teeth) (won't work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
 Neem wood brush - https://www.amazon.in/Origami-Karma-Tooth-Brush-Bristles/dp/B09MLZ2NDH/ref=sr_1_5?crid=2OG0A81Q64JHE&keywords=neem+toothbrush+good&qid=1685100329&sprefix=neem+toothbrush+good%2Caps%2C344&sr=8-5
@@ -96,7 +96,7 @@ ________________________________________________
 You have to feed them first at least twice a day, or they will take on their own.  
 ```
 
-Scrubs
+:sponge: Scrubs
 --------------------------------------------------------------------------------------------
 ```
 Cleaning gloves kitchen+bathroom(ok just this one uses plastic).
@@ -113,7 +113,7 @@ paper towel(don't use these).
 Should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, acid, Isopropyl alcohol.
 ```
 
-Grocery(organic is written but not given, so grow your own)
+:grapes: Grocery(organic is written but not given, so grow your own)
 --------------------------------------------------------------------------------------------
 ```
 *** Gmo- Genetically modified organisms.
@@ -213,7 +213,7 @@ Amla
 Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ```
 
-Women_specific
+:ok_woman: Women_specific
 --------------------------------------------------------------------------------------------
 ```
 Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers, don't use plastic or other metal jewels. (Should be stored in an automated bank locker nearest to the house, taken out on occasions.)
@@ -276,7 +276,7 @@ Demise of the newborn, leads to permanent mental illness.
 Contraceptive pill - major side effects.
 ```
 
-Health tips
+:hospital: Health tips
 --------------------------------------------------------------------------------------------
 ```
 Banning of gym equipments, too much equipments(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) 
