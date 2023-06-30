@@ -1,8 +1,6 @@
 # hammer_of_thor
 hammer_of_god
 
-![alt text](https://github.com/pkr-7/hammer_of_thor/blob/main/Hammer_photo.jpg "Hammer_photo")
-
 # Sustainable_lifestyle
 
 `Planet safe. These lines will tune your mind to absolute intellect`
