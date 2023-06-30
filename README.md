@@ -1,6 +1,7 @@
 # hammer_of_thor
 hammer_of_god
 
+
 # Sustainable_lifestyle
 
 `Planet safe. These lines will tune your mind to absolute intellect`
@@ -19,7 +20,7 @@ If the executive comes in the way, blow the whistle, through the judiciary.
 
 What we are trying here is to minimize the use of materials that are mined - metal, cement, minerals. As well as inorganic labs made synthetic like plastic. 
 
-Caution
+:warning: Caution
 --------------------------------------------------------------------------------------------
 This information is ideal, so be careful. You are seeing this because I know you can handle it.
 
