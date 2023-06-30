@@ -4,7 +4,7 @@ hammer_of_god
 
 # Sustainable_lifestyle
 
-`Planet safe. These lines will tune your mind to absolute intellect`
+:earth_asia: `Planet safe. These lines will tune your mind to absolute intellect`
 ============================================================================================
 It is very difficult to understand that you are a hypocrite. It is very easy to contradict yourself, going round and round. If you won't travel in a straight line in a jungle you will get lost and die.
 If you don't observe the details and follow these steps very carefully, you will not get the results that you want to achieve.
