@@ -1071,7 +1071,7 @@ There are tribes here in Meghalaya called Khassi, where men go to the girl's hou
 https://youtu.be/Kje0ISEKKX0
 ```
 
-Purpose of life
+:family: Purpose of life
 --------------------------------------------------------------------------------------------
 ```
 These below lines are absolute, so don't worry it is very difficult to achieve this. 
@@ -1132,7 +1132,7 @@ Transitional Fossils = This theory has problems because again let me tell you th
 Life originated in Africa, humans evolved from monkeys, they are just living in ignorance, there is no proof and you wont get any proof.
 ```
 
-Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, I am using it as a western idiom)
+:ghost: Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, I am using it as a western idiom)
 --------------------------------------------------------------------------------------------
 ```
 Spirit is the quality/information/definition/characteristics/properties of your body/any object. Spirit is not a material whereas your body is material/object. 
@@ -1152,7 +1152,7 @@ Of course your body is made of oxygen, water vapor and other elements which will
 The spirit has no physical connection with your body, it is the meaning of the object.  
 ```
  
-Ways to be immortal
+:superhero: Ways to be immortal
 --------------------------------------------------------------------------------------------
 ```
 Having a child(passing own body/genetic material) (There is no guarantee that your offspring will be better than you, but still it will get better and better after many births) 
@@ -1164,7 +1164,7 @@ Having a major achievement(people that are not your blood relative will become y
 Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication.) 
 ```
 
-Genetics
+:dna: Genetics
 --------------------------------------------------------------------------------------------
 ```
 If you want to know about women sex organs specifically then, I don't think there are too many differences between men and women, there is only 1 chromosome difference. The man was a woman, that's why they have nipples.  
@@ -1185,7 +1185,7 @@ If there are things that only girls have, then I can't verify that, personally e
 But I think the extra 23rd chromosome in females holds the information about womb design.
 ```
 
-Yuj
+:lotus_position: Yuj
 --------------------------------------------------------------------------------------------
 ```
 Yoga = Yog = Yuj(sanskrit) = join(english) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
@@ -1220,7 +1220,7 @@ ________________________________________________
 This is the real game. Yes, reading this list is also Yuj.
 ```
 
-Mind
+:brain: Mind
 --------------------------------------------------------------------------------------------
 ```
 Awake - you are reading this(this is fake, you don't know the reality)
