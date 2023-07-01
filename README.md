@@ -302,7 +302,7 @@ Remember as I have said earlier you were a snake before in the evolutionary line
 I have met a lot of guys, who were bitten by cobras and whatnot. They say they don't have to do anything, they are used to it. 
 ```
 
-Drinks
+:beverage_box: Drinks
 --------------------------------------------------------------------------------------------
 ```
 Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
@@ -335,7 +335,7 @@ Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Bi
 **Never use cigarettes(carcinogenic), e-cigarettes, cocaine and other(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
 
-Cooking
+:pizza: Cooking
 --------------------------------------------------------------------------------------------
 ```
 Never eat too much at once, eat less but 4 times and if not feeling hungry reduce the previous meal next time.
@@ -392,7 +392,7 @@ Then khichdi is a good dish for babies. It is rice and dal mixed and boiled toge
 ** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, sweet, oil and spice that comes after 5 years of age. 
 ```
 
-Appliances
+:tv: Appliances
 --------------------------------------------------------------------------------------------
 ```
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(available all around the world).
@@ -484,7 +484,7 @@ The best car is the Toyota Mirai but it is very expensive right now, because its
 ```
 
 
-Policy change
+:statue_of_liberty: Policy change
 --------------------------------------------------------------------------------------------
 ```
 Infrastructure
@@ -533,7 +533,7 @@ Be careful that even small things and negligence can cause a lot of pollution.
 Metal cement petroleum and transportation, anything linked to this creates pollution, because these are obtained through mining. 
 ```
 
-House construction
+:hut: House construction
 --------------------------------------------------------------------------------------------
 ```
 Land allocation
@@ -598,7 +598,7 @@ Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
 
-Mineral mines
+:factory: Mineral mines
 --------------------------------------------------------------------------------------------
 ```
 Shutdown all types of power plants. Homes in cities can be powered by solar. Just 1 panel is required for one home, already available.
@@ -625,7 +625,7 @@ All carbon capturing ideas and what not is a waste of time and money. They are t
 Recycling facility - solar powered small blast furnace, without battery, only morning operations. 
 ```
 
-Future of transportation
+:small_airplane: Future of transportation
 --------------------------------------------------------------------------------------------
 ```
 Stop constructing new roads, bridges, new ports, alternate(EVTOLS) are coming is few years 
@@ -685,7 +685,7 @@ ________________________________________________
 Bicycle, e-scooter.
 ```
 
-Softwares
+:computer: Softwares
 --------------------------------------------------------------------------------------------
 ```
 Automatic deletion of data = google, microsoft, meta should free up data centers, I mean dead people have accounts today. 1 backup in a data center another should be peer to peer distributed for 6 months.(Like telegram is giving, auto deletion of account if inactive and not intervened within 6 months)
@@ -776,7 +776,7 @@ So how to download, when you download it asks where to save, there you have to s
 
 ```
 
-Media
+:video_camera: Media
 --------------------------------------------------------------------------------------------
 ```
 Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel studios.
@@ -842,7 +842,7 @@ All jobs like law, software engineering will be taken by AI, so we don't need mo
 
 # General_knowledge 
 
-My choice of movies
+:film_strip: My choice of movies
 --------------------------------------------------------------------------------------------
 ```
 A few good men. 
@@ -934,7 +934,7 @@ The mentalist.
 The person of interest. 
 ```
 
-About the cosmos
+:milky_way: About the cosmos
 --------------------------------------------------------------------------------------------
 ```
 People often ask me why all this? 
@@ -982,7 +982,7 @@ Yeah I said about free will, but I can't stop a wave, I can only swim when it's 
 The palm prints also tell the future because everyone is unique. This is different from the above method. 
 ```
 
-Religion (I don't think there is such a thing, everyone is same)
+:shinto_shrine: Religion (I don't think there is such a thing, everyone is same)
 --------------------------------------------------------------------------------------------
 ```
 There is nothing called God. What do you mean by god, no one can explain. 
