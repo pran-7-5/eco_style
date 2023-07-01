@@ -995,7 +995,7 @@ Why did you grow the population if you don't have enough resources, you don't ha
 This is an example of extreme ignorance. They will keep killing each other. 
 ```
 
-Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
+:fairy: Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
 ```
 Devas - tools - a person having ideal qualities- ideal senses. 
@@ -1067,7 +1067,7 @@ There are tribes here in Meghalaya called Khassi, where men go to the girl's hou
 https://youtu.be/Kje0ISEKKX0
 ```
 
-:family: Purpose of life
+:family_man_woman_girl_boy: Purpose of life
 --------------------------------------------------------------------------------------------
 ```
 These below lines are absolute, so don't worry it is very difficult to achieve this. 
@@ -1216,7 +1216,7 @@ ________________________________________________
 This is the real game. Yes, reading this list is also Yuj.
 ```
 
-:brain: Mind
+:face_with_spiral_eyes: Mind
 --------------------------------------------------------------------------------------------
 ```
 Awake - you are reading this(this is fake, you don't know the reality)
@@ -1255,7 +1255,7 @@ So what I am doing is enhancing your vision to enable you to see what I see, the
 Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing.
 ```
 
-Conclusion
+:detective: Conclusion
 --------------------------------------------------------------------------------------------
 ```
 I have never been diagnosed with any disease, if you are vegetarian then you will be fine. 
