@@ -480,7 +480,7 @@ The best car is the Toyota Mirai but it is very expensive right now, because its
 ```
 
 
-:statue_of_liberty: Policy change
+:classical_building: Policy change
 --------------------------------------------------------------------------------------------
 ```
 Infrastructure
