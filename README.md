@@ -1,8 +1,4 @@
-# hammer_of_thor
-hammer_of_god
 
-
-# Sustainable_lifestyle
 
 :earth_asia: `Planet safe. These lines will tune your mind to absolute intellect`
 ============================================================================================
