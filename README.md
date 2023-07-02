@@ -56,13 +56,13 @@ Clay glass.
 ** non-stick teflon(very dangerous), aluminum, steel, stainless steel, copper, plastic, silicone, tin, ceramic, non-stick Teflon utensils should be avoided. 
 But why ? because = metals have leaching properties, can enter the central nervous system, aluminum and copper turn to Al2O3 and CuO. ceramic has paint.
 
-
 Food Packaging
 --------------------------------------------------------------------------------------------
 Clay and leaf is recommended.
 
 ** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided). 
 ```
+
 
 :soap: Cleaner (utensils/hair/body/cloths/teeth) (won't work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
@@ -87,27 +87,29 @@ Neutral Salt wash - sea salt in hot boiling water
 
 ** Vim, rin, surf, tide, soap, shampoo, hand wash should be avoided. (can only be used to clean exposure to chemicals and toxic chemicals like grease, synthetic paint, other chemicals) 
 
+Scrubs
+________________________________________________
+Body scrub (mini rough textured cotton cloth).
+Utensil scrub (coir).
+
+Broomstick(natural fibers)(wooden handle).
+Long mop for wet(cloth instead of sponge)(wooden handle).
+
+Cleaning gloves kitchen+bathroom(ok just this one uses plastic).
+Toilet brush(wooden handle).
+Scrubbing brush with C type handle(coir)(wooden handle).
+
+Microfiber bundle(reuse old fabric).
+Garbage bags(don't use these).
+paper towel(don't use these).
+
+** Harpic, Lysol, acid, Isopropyl alcohol should be used to remove chemical exposure only.
+
 Pest control
 ________________________________________________
 You have to feed them first at least twice a day, or they will take on their own.  
 ```
 
-:sponge: Scrubs
---------------------------------------------------------------------------------------------
-```
-Cleaning gloves kitchen+bathroom(ok just this one uses plastic).
-Toilet brush x 2(wooden handle).
-Scrubbing brush with C type handle x 2(coir)(wooden handle).
-Long mop for wet(cloth instead of sponge)(wooden handle).
-Broomstick(natural fibers)(wooden handle).
-
-Scthbrite x 4(coir).
-Microfiber bundle(reuse old fabric).
-Garbage bags(don't use these).
-paper towel(don't use these).
-
-Should only be used to remove chemical exposure = Vim, Surf, Harpic, Lysol, acid, Isopropyl alcohol.
-```
 
 :grapes: Grocery(organic is written but not given, so grow your own)
 --------------------------------------------------------------------------------------------
@@ -163,7 +165,6 @@ Raw sea salt(avoid pink salt from mountain (don't dig the mountain) is limited w
 
 ** Garlic, Garam masala, cumin, coriander, cardamom, cinnamon, oregano, star anise, bay leaf, curry leaf, mint leaf, Cummin, methi, Kasuri methi should be avoided.
 
-
 Oil/fat
 ________________________________________________ 
 Cold pressed(not high temperature and pressure pasteurization) mustard oil. (banned by godfather(usa), lift the ban)
@@ -208,6 +209,7 @@ Amla
 *** Well, the growth in carbon dioxide over the past 100 years has made plants addicted so, the plants now have high sugar levels and decrease in protein but it will level up after the pollution is gone. 
 Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ```
+
 
 :ok_woman: Women_specific
 --------------------------------------------------------------------------------------------
@@ -272,6 +274,7 @@ Demise of the newborn, leads to permanent mental illness.
 Contraceptive pill - major side effects.
 ```
 
+
 :hospital: Health tips
 --------------------------------------------------------------------------------------------
 ```
@@ -298,13 +301,13 @@ Remember as I have said earlier you were a snake before in the evolutionary line
 I have met a lot of guys, who were bitten by cobras and whatnot. They say they don't have to do anything, they are used to it. 
 ```
 
+
 :beverage_box: Drinks
 --------------------------------------------------------------------------------------------
 ```
 Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
 
 ** All types of supplements(you don't need them = expensive urine), Tea, coffee, health drinks(boost/horlicks), chocolate, redbull(taurine),  cola, soda, lassi, milkshake, aloe vera are dangerous. sugar free is more dangerous than sugar(don't fake your receptors).
-
 
 Alcohol (decision making ability is affected and leads to poor judgment, enhances the anger) 
 ________________________________________________
@@ -313,7 +316,6 @@ Rum (sugarcane)
 Wheat beer
 
 **Whiskey, vodka, gin, normal beer (barley) , red wine( dark grapes) should be avoided.
-
 
 Smoke(enhance decision making process, decreases the anger)
 ________________________________________________
@@ -330,6 +332,7 @@ Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Bi
 
 **Never use cigarettes(carcinogenic), e-cigarettes, cocaine and other(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
+
 
 :pizza: Cooking
 --------------------------------------------------------------------------------------------
@@ -349,7 +352,6 @@ Add required Water.
 Close the lid.
 Boil it for 15 mins until done, don't open the lid yet.
 Fine tuning the technique, after a few rounds you will get the idea.
-
 
 Day                     | BreakF                      | Lunch                              | Snacks                 |  Dinner               | Conclusion
 ------------------------|-----------------------------|------------------------------------|------------------------|-----------------------|-----------------------
@@ -387,6 +389,7 @@ Then khichdi is a good dish for babies. It is rice and dal mixed and boiled toge
 
 ** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, sweet, oil and spice that comes after 5 years of age. 
 ```
+
 
 :tv: Appliances
 --------------------------------------------------------------------------------------------
@@ -529,6 +532,7 @@ Be careful that even small things and negligence can cause a lot of pollution.
 Metal cement petroleum and transportation, anything linked to this creates pollution, because these are obtained through mining. 
 ```
 
+
 :hut: House construction
 --------------------------------------------------------------------------------------------
 ```
@@ -561,7 +565,6 @@ Bricks = baked is a solar powered curing oven.
 Ban marble.
 Ban metal pipes. (Only this one plastic) 
 
-
 Electrical wiring
 ________________________________________________ 
 Wiring = 1mm gauge insulated copper wire enough to handle the load, not thicker wires or loss will increase.
@@ -593,6 +596,7 @@ Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
+
 
 :factory: Mineral mines
 --------------------------------------------------------------------------------------------
@@ -680,6 +684,7 @@ Near by
 ________________________________________________ 
 Bicycle, e-scooter.
 ```
+
 
 :computer: Softwares
 --------------------------------------------------------------------------------------------
@@ -772,6 +777,7 @@ So how to download, when you download it asks where to save, there you have to s
 
 ```
 
+
 :video_camera: Media
 --------------------------------------------------------------------------------------------
 ```
@@ -810,6 +816,7 @@ Logo = Lack of vector graphics, Not organic looking, only 2 colors should be use
 Studio = Not classic, not organic looking, no wooden furniture, too much white light like an operation theater.
 ```
 
+
 Miscellaneous
 --------------------------------------------------------------------------------------------
 ```
@@ -836,7 +843,10 @@ So many things not to do, so what should we do = decision making, learn, observe
 All jobs like law, software engineering will be taken by AI, so we don't need more engineers and doctors. 
 ```
 
+
+
 # General_knowledge 
+
 
 :film_strip: My choice of movies
 --------------------------------------------------------------------------------------------
@@ -930,6 +940,7 @@ The mentalist.
 The person of interest. 
 ```
 
+
 :milky_way: About the cosmos
 --------------------------------------------------------------------------------------------
 ```
@@ -978,6 +989,7 @@ Yeah I said about free will, but I can't stop a wave, I can only swim when it's 
 The palm prints also tell the future because everyone is unique. This is different from the above method. 
 ```
 
+
 :shinto_shrine: Religion (I don't think there is such a thing, everyone is same)
 --------------------------------------------------------------------------------------------
 ```
@@ -994,6 +1006,7 @@ I think they will install rocket engines and launch it to the moon, at least the
 Why did you grow the population if you don't have enough resources, you don't have agricultural land. Well try drinking the oil no one will buy it anyway. 
 This is an example of extreme ignorance. They will keep killing each other. 
 ```
+
 
 :fairy: Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
@@ -1067,6 +1080,7 @@ There are tribes here in Meghalaya called Khassi, where men go to the girl's hou
 https://youtu.be/Kje0ISEKKX0
 ```
 
+
 :family_man_woman_girl_boy: Purpose of life
 --------------------------------------------------------------------------------------------
 ```
@@ -1128,6 +1142,7 @@ Transitional Fossils = This theory has problems because again let me tell you th
 Life originated in Africa, humans evolved from monkeys, they are just living in ignorance, there is no proof and you wont get any proof.
 ```
 
+
 :ghost: Atman(sanskrit) = Soul/spirit(again these are not precise english words, they don't explain the meaning, I am using it as a western idiom)
 --------------------------------------------------------------------------------------------
 ```
@@ -1148,6 +1163,7 @@ Of course your body is made of oxygen, water vapor and other elements which will
 The spirit has no physical connection with your body, it is the meaning of the object.  
 ```
  
+
 :superhero: Ways to be immortal
 --------------------------------------------------------------------------------------------
 ```
@@ -1159,6 +1175,7 @@ Having a major achievement(people that are not your blood relative will become y
 
 Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication.) 
 ```
+
 
 :dna: Genetics
 --------------------------------------------------------------------------------------------
@@ -1180,6 +1197,7 @@ If there are things that only girls have, then I can't verify that, personally e
 
 But I think the extra 23rd chromosome in females holds the information about womb design.
 ```
+
 
 :lotus_position: Yuj
 --------------------------------------------------------------------------------------------
@@ -1215,6 +1233,7 @@ Mental aspects(dhyana)
 ________________________________________________ 
 This is the real game. Yes, reading this list is also Yuj.
 ```
+
 
 :face_with_spiral_eyes: Mind
 --------------------------------------------------------------------------------------------
@@ -1254,6 +1273,7 @@ So my point is people perceive things differently according to their level of co
 So what I am doing is enhancing your vision to enable you to see what I see, the broad picture. 
 Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing.
 ```
+
 
 :detective: Conclusion
 --------------------------------------------------------------------------------------------
