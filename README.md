@@ -272,6 +272,8 @@ Life threatening blood loss.
 Demise of the newborn, leads to permanent mental illness. 
 
 Contraceptive pill - major side effects.
+
+Vitro fertilization is also a problem.
 ```
 
 
@@ -526,7 +528,9 @@ A woman can agree to have a child if she has resources for the entire life. (Not
 LGBT = The population is too high right now, so I don't have a problem, only if they don't make test tube babies, they can adopt I guess. 
 No marriage regulation is required. No recognition is required. The right to freedom is already there. 
 
-But Ai will provide security in the coming years, so people can stay single as long as they want so why homo sexuality.  
+But Ai will provide security in the coming years, so people can stay single as long as they want so why homo sexuality.
+
+Ban the zoo, go to the jungle if you can.   
 
 Be careful that even small things and negligence can cause a lot of pollution.
 Metal cement petroleum and transportation, anything linked to this creates pollution, because these are obtained through mining. 
@@ -737,6 +741,7 @@ Court reforms
 ________________________________________________ 
 Banning the jury system in courts. we have to put one judge to be responsible. Digital e-courts except the criminal court.
 Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital). 
+Allow AI to access the courts database.
 
 Digital election
 ________________________________________________ 
@@ -1011,7 +1016,7 @@ This is an example of extreme ignorance. They will keep killing each other.
 :fairy: Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
 ```
-Devas - tools - a person having ideal qualities- ideal senses. 
+Devas - tools - a person having ideal qualities- ideal senses - blue prints to follow. 
 
 There can be a lot of devas. 
 But the fundamental is 3 devas, the Trinity. 
@@ -1027,8 +1032,8 @@ Gangotri Glacier (there is no road, difficult terrain, only walking) (only in De
 State = uttara-khand (English = North-land)
 District - Garhwal himalaya
 
-If you haven't smoked h,a,s,h here in the snow fall you are missing out.
-By the way, you have to buy h,a,s,h from Dehradun after landing at the airport, not in the airport.
+If you haven't smoked hash here in the snow fall you are missing out.
+By the way, you have to buy hash from Dehradun after landing at the airport, not in the airport.
 Just kidding, don't go there, you can't handle it, stay at dehradun. Or go to Kathmandu, Everest base camp, don't go after base camp too dangerous.
 
 Why were David Gilmour, Steve Jobs, and the Beatles here?
@@ -1039,7 +1044,7 @@ People get crazy about hippie music, they forget everything else.
 https://youtu.be/PTc8X37oJBE
 This song is about Shiva(Shi - kindness, Va- who possess), the big brother in the trinity.
 
-He is Adi (one), the first one who figured it all out, then he trained Sapt(seven) - Russis (Russia) who made everything around us, politics, technology, mathematics, astronomy etc.
+He is Adi (first), the first one who figured it all out, then he trained Sapt(seven) - Russis (Russia) who made everything around us, politics, technology, mathematics, astronomy etc.
 I don't know what the Greeks called him.
 He is also called maha-deva(mega-senses, there is no one above this one) and rud-ra(roar-er), he might be called rod in the forgotten pre christian Slavic-culture(needs more research) of Russia.
 
@@ -1275,6 +1280,43 @@ Because if I speak to you in Chinese no matter what secret I tell you, you won't
 ```
 
 
+My state
+--------------------------------------------------------------------------------------------
+```
+I live in heaven, the ideal world so everything here is opposite to what you know so far. 
+
+King is a slave here. (Because he misbehaved in the past)
+You have to criticize everything, there is no God here. 
+We don't give guns to police, police are afraid of you, people beat up police, and govt employees all the time, and only woman police can stop a girl after 6 pm. (Yeah, it should be all the time not only from 6 pm)
+Wood is more expensive than gold and diamond. 
+Water, salt, lemons, mangoes, pickles, rice, and dal are free here. Well, everything can be free here if you take the right steps. 
+
+Marijuana has been legal here since its discovery, again at the opposite price from the world, in 3 dollars you get 25 grams whereas in the USA you will get 3 grams for 25 dollars that too is grown by chemical fertilizers. 
+
+Here the best food in the world is 1 dollar and the worst is 100 dollars. 
+You don't have access also, because you have killed an animal so you can't go in and buy it directly. 
+No special permissions, it's guarded by you won't believe who. 
+
+Well, there is no easy way to do this, your state must surrender and admit your mistakes first. 
+
+Vegan Breakfast+lunch+evening+dinner is less than 1 dollar.
+Synthetic drugs are not available here, marijuana is so cheap here.
+
+Private hospital surgery is 300 dollars max, only check up is 3 dollars.
+Average 3 room house is 40 dollars per month.
+My degree is 5000 dollars including everything. 12 years schooling was lower than 1000 dollars max.
+
+The problem is cement house construction became cheaper with 3 rooms for 3000 dollars. Whereas a wooden house is 6000 dollars.
+Gas cars are 5000, electric is 10000.
+Thermal power is 10 dollars per month whereas solar is 20 dollars.
+
+Why are you not banning, start by reversing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products 18% GST.
+
+Can't step outside in the morning. It's 50 celsius.
+Every year there is a cyclone now used to be once in a decades, destroying everything, my tax is going in this.
+```
+
+
 :detective: Conclusion
 --------------------------------------------------------------------------------------------
 ```
@@ -1286,18 +1328,6 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I don�
 No, I didn’t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
