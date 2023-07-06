@@ -1307,7 +1307,7 @@ The problem is cement house construction became cheaper, 3 rooms for 3000 dollar
 Gas cars are 5000, electric ones are 10000.
 Thermal power is 10 dollars per month whereas solar is 20 dollars.
 
-Why are you not banning, start by changing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products to 68% GST.
+Needs ban, start by changing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products to 68% GST.
 
 I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
