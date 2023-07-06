@@ -1299,21 +1299,25 @@ No special permissions, it's guarded by you won't believe who.
 
 Well, there is no easy way to do this, your state must surrender and admit your mistakes first. 
 
-Vegan Breakfast+lunch+evening+dinner is less than 1 dollar.
+Vegan Breakfast + lunch + evening + dinner is less than 1 dollar.
 Synthetic drugs are not available here, marijuana is so cheap here.
 
 Private hospital surgery is 300 dollars max, only check up is 3 dollars.
-Average 3 room house is 40 dollars per month.
+Average rent of a 3 room house is 40 dollars per month.
 My degree is 5000 dollars including everything. 12 years schooling was lower than 1000 dollars max.
 
-The problem is cement house construction became cheaper with 3 rooms for 3000 dollars. Whereas a wooden house is 6000 dollars.
-Gas cars are 5000, electric is 10000.
+The problem is cement house construction became cheaper, 3 rooms for 3000 dollars. Whereas a wooden house is 6000 dollars.
+Gas cars are 5000, electric ones are 10000.
 Thermal power is 10 dollars per month whereas solar is 20 dollars.
 
-Why are you not banning, start by reversing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products 18% GST.
+Why are you not banning, start by changing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products to 68% GST.
+
+I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchase by half and buy the nel hydrogen.
+
+That will cut the Toyota_mirai and Nel_hydrogen price in half.
 
 Can't step outside in the morning. It's 50 celsius.
-Every year there is a cyclone now used to be once in a decades, destroying everything, my tax is going in this.
+Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
 ```
 
 
@@ -1328,6 +1332,8 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 No, I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
 ```
+
+
 
 
 
