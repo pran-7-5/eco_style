@@ -1285,18 +1285,15 @@ My state
 ```
 I live in heaven, the ideal world so everything here is opposite to what you know so far. 
 
-King is a slave here. (Because he misbehaved in the past)
+King is a slave here. (Because he misbehaved in the past, it was clear that kings son won't be a king, has to be decided by challenge)
 You have to criticize everything, there is no God here. 
-We don't give guns to police, police are afraid of you, people beat up police, and govt employees all the time, and only woman police can stop a girl after 6 pm. (Yeah, it should be all the time not only from 6 pm)
+We don't give guns to police, police are afraid of you, people beat up police, and govt employees all the time, and only woman police can stop a girl after 6 pm. (Yeah, it should be all the time, not only from 6 pm, women police have a shortage right now.)
 Wood is more expensive than gold and diamond. 
 Water, salt, lemons, mangoes, pickles, rice, and dal are free here. Well, everything can be free here if you take the right steps. 
 
 Marijuana has been legal here since its discovery, again at the opposite price from the world, in 3 dollars you get 25 grams whereas in the USA you will get 3 grams for 25 dollars that too is grown by chemical fertilizers. 
 
-Here the best food in the world is 1 dollar and the worst is 100 dollars. 
-You don't have access also, because you have killed an animal so you can't go in and buy it directly. 
-No special permissions, it's guarded by you won't believe who. 
-
+Here the best food in the world is 1 dollar and the worst is 100 dollars(5 star hotels). You don't have access also, because you have killed an animal so you can't go in and buy it directly. No special permissions, it's guarded by you won't believe who. 
 Well, there is no easy way to do this, your state must surrender and admit your mistakes first. 
 
 Vegan Breakfast + lunch + evening + dinner is less than 1 dollar.
@@ -1312,9 +1309,7 @@ Thermal power is 10 dollars per month whereas solar is 20 dollars.
 
 Why are you not banning, start by changing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products to 68% GST.
 
-I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchase by half and buy the nel hydrogen.
-
-That will cut the Toyota_mirai and Nel_hydrogen price in half.
+I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
 Can't step outside in the morning. It's 50 celsius.
 Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
