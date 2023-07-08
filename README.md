@@ -748,7 +748,7 @@ Ai can't create something new, It can only use the data that already exists. The
 https://alternativeto.net/ (Alternativeto is a good website to compare software and find Android equivalent software for Apple or vice versa. Or to find free open-source software.) 
 Just don't be very happy, be careful, and don't download unnecessary software. Verify the software links before downloading.
 
-I have used https://www.udemy.com/ a lot. It gives you the power to learn any course for 5 dollars, can you imagine. Again 5 dollars during offers, Halloween is the lowest price. Compare different courses and Watch the course demo videos before buying.
+I have used https://www.udemy.com/ a lot. It gives you the power to learn any course for 5 USD, can you imagine. Again 5 USD during offers, Halloween is the lowest price. Compare different courses and Watch the course demo videos before buying.
 
 
 Grievance redressal mechanism (This software is very easy to make, can be made within a day. Give the contract to Google.)
@@ -786,7 +786,7 @@ Ai is not working because of software, this software was created way back, and i
 So who created AI software, or reverse-landing rockets?
 
 Well, it is developed by an open source community from people all around the world, they are very good people, they don't have money, they don't work for any company, they just work for the betterment of society, that's all they want.
-They receive donations from people, 1 dollar, 5 dollars, 50 dollars like that. And these people are very weak. That's why they don't work in big companies where they face harassment, they will take your idea and fire you, like they fired Steve Jobs.
+They receive donations from people, 1 USD, 5 USD, 50 USD like that. And these people are very weak. That's why they don't work in big companies where they face harassment, they will take your idea and fire you, like they fired Steve Jobs.
 
 So, the robot army type technology exists but is not that good now, the power source like batteries is very limited. Even though you can see the problems in chat gpt, I mean for me it is not that good today. I mean it could be good if you buy a premium cloud, but not for free.
 So when will it be good, the chip in your phone is a 7nm transistor, and today 3nm can be manufactured? And 1 nm is last because that is the size of the silicon atom.
@@ -1315,23 +1315,32 @@ We don't give guns to police, police are afraid of you, people beat up police, a
 Wood is more expensive than gold and diamond. 
 Water, salt, lemons, mangoes, pickles, rice, and dal are free here. Well, everything can be free here if you take the right steps. 
 
-Marijuana has been legal here since its discovery, again at the opposite price from the world, in 3 dollars you get 25 grams whereas in the USA you will get 3 grams for 25 dollars that too is grown by chemical fertilizers. 
+Marijuana has been legal here since its discovery, again at the opposite price from the world, in 3 USD you get 25 grams whereas in the USA you will get 3 grams for 25 USD that too is grown by chemical fertilizers. 
 
-Here the best food in the world is 1 dollar and the worst is 100 dollars(5 star hotels). You don't have access also, because you have killed an animal so you can't go in and buy it directly. No special permissions, it's guarded by you won't believe who. 
+Here the best food in the world is 1 USD and the worst is 100 USD(5 star hotels). You don't have access also, because you have killed an animal so you can't go in and buy it directly. No special permissions, it's guarded by you won't believe who. 
 Well, there is no easy way to do this, your state must surrender and admit your mistakes first. 
 
-Vegan Breakfast + lunch + evening + dinner is less than 1 dollar.
+Vegan Breakfast + lunch + evening + dinner is less than 1 USD.
 Synthetic drugs are not available here, marijuana is so cheap here.
 
-Private hospital surgery is 300 dollars max, only check up is 3 dollars.
-Average rent of a 3 room house is 40 dollars per month.
-My degree is 5000 dollars including everything. 12 years schooling was lower than 1000 dollars max.
+Private hospital surgery is 300 USD max, only check up is 3 USD.
+Average rent of a 3 room house is 40 USD per month.
+My degree is 5000 USD including everything. 12 years schooling was lower than 1000 USD max.
 
-The problem is cement house construction became cheaper, 3 rooms for 3000 dollars. Whereas a wooden house is 6000 dollars.
+The problem is cement house construction became cheaper, 3 rooms for 3000 USD. Whereas a wooden house is 6000 USD.
 Gas cars are 5000, electric ones are 10000.
-Thermal power is 10 dollars per month whereas solar is 20 dollars.
+Thermal power is 10 USD per month whereas solar is 20 USD.
 
 Needs ban, start by changing the central tax, this will slowly bankrupt those industries. Renewable tax 5%, bad products to 68% GST.
+The products that I have said to avoid are currently having 18 to 28 % gst, why is it not clearly mentioned in the govt website (I will talk about right to information later), so increase that to 68%. 
+But that will have no impact on those industries, because do you think they are stupid they don't know it is coming or what. They have already profited you won't believe how much, that's certainly not in the bank, because you are still allowing cash, gold, land. 
+
+So they are going to retaliate, they won't raise the price, they will pump black money into it to take down the competition. 
+So the way is to blow the hammer again and again, increase another 68% gst after 6 months to 136%. Don't increase at once or they will incite the public. 
+So we want to make those people poor, who are running these businesses, they are evil.
+This will take jobs but so what, they are not going to get poor. They can easily switch, I am not talking about high skills, after all what I am promoting is man made products, eco houses will require more human touch than automated cement factories.
+Don't transport wood from one state to another, grow nearby.
+Eco houses are more romantic anyway, we don't use cash anymore nor keep gold at home, who is going to steal what, tv or fridge, security cameras are popular now.
 
 I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
@@ -1363,6 +1372,8 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
 
 
 
