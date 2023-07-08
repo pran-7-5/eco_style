@@ -1325,7 +1325,7 @@ Synthetic drugs are not available here, marijuana is so cheap here.
 
 Private hospital surgery is 300 USD max, only check up is 3 USD.
 Average rent of a 3 room house is 40 USD per month.
-My degree is 5000 USD including everything. 12 years schooling was lower than 1000 USD max.
+My degree is 5000 USD including everything. 12 years of schooling was lower than 1000 USD max.
 
 The problem is cement house construction became cheaper, 3 rooms for 3000 USD. Whereas a wooden house is 6000 USD.
 Gas cars are 5000, electric ones are 10000.
@@ -1372,6 +1372,8 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
 
 
 
