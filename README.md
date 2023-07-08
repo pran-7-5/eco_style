@@ -698,7 +698,6 @@ Automatic deletion of data = google, microsoft, meta should free up data centers
 Product verification before dispatch. (Hide seller id and consumer id if manually checked for certain products) 
 
 Amazon go (automatic shops)(But man women different sections are required) - food items should not be sold online. (Most people are not buying anyway)
-
 Robot - cleaning, washing, cooking.
 
 Pre-set adult content filter by google and all.
@@ -726,6 +725,31 @@ Vector graphics = Inkscape
 Video player = Vlc
 Cache cleaner = Ccleaner
 Compressor = 7-Zip
+
+These 2 tools are very powerful for editing text files. the main git file will become lengthy day by day then it will be more difficult to search. 
+
+1) https://meldmerge.org/ (This is like git but offline to compare changes in text files.) 
+
+2) https://code.visualstudio.com/ (This is a text editor, don't be afraid of the name, it's easy to use, just install, when you click on find and input a word or line, you will see the search results with better experience.)
+The only issue with this software is that it doesn't have a dictionary. So you have to copy paste it to the normal google word type office softwares to correct spelling and grammar.
+
+I use asus vivobook x510uf , intel i5, 12 gb ram, 2gb Nvidia graphics card, 250gb ssd. (550 USD, I bought it online on valentines day offer, will be more cheaper on Halloween) 
+These above tools will run smoothly on any Apple laptop, if you don't know how to buy a Windows laptop. Yeah, buying a Windows laptop is very tricky. Shops will cheat you and you don't know how to order online.
+I make softwares I need a laptop for now. But u should buy apple ipad or samsung galaxy z fold 4 instead of laptop.
+Galaxy z fold is best right now because It combines, phone, tablet and laptop into one device. Of course rollable will be better in the future. But the z fold is the 4th generation now and cheaper than iphone, ipad, macbook combined.
+
+https://www.synthesia.io/
+https://www.descript.com/
+If you want to become a Director and can't afford Warner Bros or Columbia Pictures or Anne Hathaway, you can use these. Free software is not available right now, but will be available after 1 year. These are very new right now. Don't upload yourself into this. 
+
+Well, jobs will be different in the future. I have been developing Ai since 2017, and in 2012 I figured that people are very stupid and moving in the wrong direction. Don't worry Ai will take most jobs but still, I beat AI every day. 
+Ai can't create something new, It can only use the data that already exists. The only issue is China, I really don't know what they are up to. I can't see what is happening inside China. 
+
+https://alternativeto.net/ (Alternativeto is a good website to compare software and find Android equivalent software for Apple or vice versa. Or to find free open-source software.) 
+Just don't be very happy, be careful, and don't download unnecessary software. Verify the software links before downloading.
+
+I have used https://www.udemy.com/ a lot. It gives you the power to learn any course for 5 dollars, can you imagine. Again 5 dollars during offers, Halloween is the lowest price. Compare different courses and Watch the course demo videos before buying.
+
 
 Grievance redressal mechanism (This software is very easy to make, can be made within a day. Give the contract to Google.)
 ________________________________________________ 
@@ -1326,7 +1350,27 @@ Cuts, wounds, burns, shock, accidents - these are just too many instances I donâ
 
 No, I didnâ€™t get covid, rather in 2020 I was jumping across a wall and an idiot parked his bicycle there so fell on it, went to the hospital for x-ray and it was fine. 
 The doctor is upset that he hasn't seen me for 6 years now. 
+
+I throw away most certificates, only a few left. I don't like these, my words are more powerful than these. 
+I have a few drawing competition certificates left like National-level chess tournament, Science Olympiad, Few aeromodelling, Few athletics. 
+
+Yeah no debate or speech, I mean you can understand why, I totally have a different understanding, plus they have always punished me for speaking those things. Like sitting on knees at the school gate. I like that instead of sitting in the class and listening to nonsense. 
+I hate institutions, schools, colleges, and offices. Never completed a single book in my life. Never done homework. Caught a few times, punished, but still saved me a lot of time. 
+
+I had only 1 notebook that was also very hard to fill. In the exam I write what I have imagined and mostly it matches the book. 
+I like videos, but not reading and writing. I hate writing exams. That's one reason why I liked math, physics, chemistry, and computer science. Very less writing 3 lines max. 
+In language I took Sanskrit. You can write an essay in just 5 lines. But still, the Govt imposes English as compulsory for 16 years. Then there are too many computer languages. 
+So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
+Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
+
+
+
+
+
+
 
 
 
