@@ -1364,7 +1364,7 @@ Battery 0.5 w
 Inverter 0.25 w
 Trust me reality is even worse, just think about the materials involved.
 ________________________________________________  
-                                             Solar
+                  Solar
 ________________________________________________ 
 Sun rays (100 w input) 
 Panel 20w
