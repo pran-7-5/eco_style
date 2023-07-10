@@ -659,7 +659,7 @@ https://nelhydrogen.com/hydrogen-fueling-equipment/
 How to use Hydrogen 
 ________________________________________________ 
 Hydrogen can be directly burnt - if we burn hydrogen it will produce water, this can be used for airplanes or rockets.
-But hydrogen can also be used as a battery(h2 fuel cell) , this will also work the same way it will produce current and water, this can be used in cars and bikes... 
+But hydrogen can also be used as a battery(H2 fuel cell) , this will also work the same way it will produce current and water, this can be used in cars and bikes... 
 
 https://www.ballard.com/fuel-cell-solutions/fuel-cell-power-products
 
@@ -735,7 +735,7 @@ The only issue with this software is that it doesn't have a dictionary. So you h
 
 I use asus vivobook x510uf , intel i5, 12 gb ram, 2gb Nvidia graphics card, 250gb ssd. (550 USD, I bought it online on valentines day offer, will be more cheaper on Halloween) 
 These above tools will run smoothly on any Apple laptop, if you don't know how to buy a Windows laptop. Yeah, buying a Windows laptop is very tricky. Shops will cheat you and you don't know how to order online.
-I make softwares I need a laptop for now. But u should buy apple ipad or samsung galaxy z fold 4 instead of laptop.
+I make softwares I need a laptop for now. But you should buy apple ipad or samsung galaxy z fold 4 instead of laptop.
 Galaxy z fold is best right now because It combines, phone, tablet and laptop into one device. Of course rollable will be better in the future. But the z fold is the 4th generation now and cheaper than iphone, ipad, macbook combined.
 
 https://www.synthesia.io/
@@ -1342,13 +1342,16 @@ This will take jobs but so what, they are not going to get poor. They can easily
 Don't transport wood from one state to another, grow nearby.
 Eco houses are more romantic anyway, we don't use cash anymore nor keep gold at home, who is going to steal what, tv or fridge, security cameras are popular now.
 
-I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
+I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. 
+So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
-I don't want Tesla's gigafactory here to bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
+I don't want Tesla's gigafactory here to bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. 
+Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
 
 Not all solar panels are good. The mono perc solar panel is the latest technology and highest rating 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
 
-I mean don't buy liquid hydrogen from outside buy the h2 Electrolyzers from like nel hydrogen norway. We have solar panels here, we just need to connect them. The import tax on h2 electrolyser and fuel cell is 48%, now who is benefiting from this, I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary. 
+I mean don't buy liquid hydrogen from outside buy the H2 Electrolyzers from like nel hydrogen norway. We have solar panels here, we just need to connect them. 
+The import tax on H2 electrolyser and fuel cell is 48%, now who is benefiting from this, I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary. 
 
 Self declared scientists say hydrogen is inefficient, let me tell you something. The weight of 21 liters of H2 is 2 grams, less than the weight of your iPhone battery. You can't charge a battery more than 100% but there is no such thing in hydrogen just get a bigger tank. 
 Yeah, you can use your phone for a week. Forget about the phone right now, we are too far. 
@@ -1375,7 +1378,9 @@ So the 100 w example will be 3 w when it's reaching you, compare that to the sol
 
 So after doing this, the factories, vehicles, homes will have on spot generated power. 
 
-Now the power from existing hydro, wind, solar farm/nuclear should be connected to the Electrolyzer and generate the hydrogen right there. Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircrafts today. Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion. 
+Now the power from existing hydro, wind, solar farm/nuclear should be connected to the Electrolyzer and generate the hydrogen right there. 
+Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircrafts today. 
+Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion. 
 So for intercity use the turboprop aircrafts. But state to state and international use turbofan aircrafts. 
 
 Can't step outside in the morning. It's 50 celsius.
