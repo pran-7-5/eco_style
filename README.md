@@ -1344,6 +1344,40 @@ Eco houses are more romantic anyway, we don't use cash anymore nor keep gold at 
 
 I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
+I don't want Tesla's gigafactory here to bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
+
+Not all solar panels are good. The mono perc solar panel is the latest technology and highest rating 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
+
+I mean don't buy liquid hydrogen from outside buy the h2 Electrolyzers from like nel hydrogen norway. We have solar panels here, we just need to connect them. The import tax on h2 electrolyser and fuel cell is 48%, now who is benefiting from this, I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary. 
+
+Self declared scientists say hydrogen is inefficient, let me tell you something. The weight of 21 liters of H2 is 2 grams, less than the weight of your iPhone battery. You can't charge a battery more than 100% but there is no such thing in hydrogen just get a bigger tank. 
+Yeah, you can use your phone for a week. Forget about the phone right now, we are too far. 
+
+The current efficiency of 
+Coal/water/wind/nuclear (100 watts input) 
+Turbine 30w
+Step up transformer 15w
+Transmission lines 7w(it's even lower than this) 
+Step down transformer 3w (your wall socket) 
+Charger 1w
+Battery 0.5 w
+Inverter 0.25 w
+Trust me reality is even worse, just think about the materials involved.
+________________________________________________  
+                                             Solar
+________________________________________________ 
+Sun rays (100 w input) 
+Panel 20w
+Hydrogen electrolyzer 10w
+Fuel cell 5w  (this is your wall socket) 
+
+So the 100 w example will be 3 w when it's reaching you, compare that to the solar 5w.
+
+So after doing this, the factories, vehicles, homes will have on spot generated power. 
+
+Now the power from existing hydro, wind, solar farm/nuclear should be connected to the Electrolyzer and generate the hydrogen right there. Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircrafts today. Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion. 
+So for intercity use the turboprop aircrafts. But state to state and international use turbofan aircrafts. 
+
 Can't step outside in the morning. It's 50 celsius.
 Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
 ```
@@ -1372,6 +1406,8 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
 
 
 
