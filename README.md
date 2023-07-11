@@ -1354,6 +1354,7 @@ Now the power from existing hydro, wind, solar farm/nuclear should be connected 
 Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircraft today. 
 Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion. 
 So for intercity use the turboprop aircraft. But state to state and international use turbofan aircraft. 
+We already have too many hydro power plants, enough to handle aviation in the beginning.
 
 Can't step outside in the morning. It's 50 Celsius.
 Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
