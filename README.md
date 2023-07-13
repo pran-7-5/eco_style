@@ -772,7 +772,7 @@ Allow AI to access the courts database.
 
 Electoral reforms
 ________________________________________________ 
-Digital election voting from registered phone numbers.
+Digital election, voting from registered phone numbers.
 
 Citizen Id
 ________________________________________________ 
