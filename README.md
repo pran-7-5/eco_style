@@ -241,7 +241,7 @@ Color- light color. (Things look black because of Black body radiation, which me
 ** Elastane, spandex, linen, polyester, should be avoided
 
 ** Jeans(factory worker)(takes huge water to manufacture) and H&M should be avoided. 
-** I mean everyday, We don't like to wear too much clothes, Just minimal clothes... I mean girls won't wear too much clothes anyway. And the weather is hot already.
+** I mean everyday, We don't like to wear too much clothes, Just minimal clothes. I mean girls won't wear too much clothes anyway. And the weather is hot already.
 
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
@@ -484,10 +484,14 @@ ________________________________________________
 Ban public chairs, seats from cement, plastic, stone and metal. By wood only. Stop building statues. Planet doesn't even like a stone to be picked up.
 Banning of street lights and poles = solar powered, 20 w LED enough, should be mounted on a tree rather than steel pole. 
 
-Equipment
+Technology upgradation
 ________________________________________________ 
+Now where is the 5G, I live in the biggest city in my state but still using 4G. China is launching 6G. Looks like soon I will be a Chinese slave. 
+
+Lacks semiconductor fab intel, nvidia.
+
 Banning of paper.
-Banning of currency notes immediately and digital apps are already there.
+Banning of currency notes immediately and digital apps and CBDC are already there. 
 I don't think that banks will be required.
 
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
@@ -501,6 +505,18 @@ ________________________________________________
 Wheat, rice, pulses can be bought only. rest grow on your own.
 
 Ban synthetic chemical fertilizers.
+
+Migration
+________________________________________________ 
+Why are we making concentration camps? There must be more ways but I can only think of one right now, navy ships have large troop carrying capacity and best hospitality of toilet,food, medicine, they operate on long term rate, on old agreements so very cheap, and they have to sail anyway. Take them to their original place. 
+Airlines operate at a current rate, very expensive. 
+But don't take them right away after identifying or women children will die out of water, hunger and exhaustion. But to a few places you have to send them by airlines, just adjust them in empty seats, slower process but cheap. 
+
+Now to stop them from coming, we have to eliminate currency notes. Our own people who can't use phones are very difficult to find, anyway they have to use card payment, plus the CBDC is ready to just launch it, there is no other way. And we have to block their countries' banks from operating here. 
+CBDC can work without the internet that means the money stays on each device like Bitcoin but Bitcoin has some more advanced features like it replaces banks all together, it just needs good AI bots to handle customer issues. We can discuss cryptocurrency later, it's a vast topic. 
+
+Now to stop them thinking about leaving their country requires improving their agriculture, arts and culture, and the internet. And we have to send un troops to eliminate the ter,ror,ists, and those sending them bullets(who are the double dealers anyway).
+Why are we keeping our jobless wandering on streets doing mischief taking drugs, rather than sending them there to explain culture and arts and judiciary. There is a scarcity of leaders right now, because they have been forced into misery.
 
 Administration
 ________________________________________________ 
@@ -754,9 +770,9 @@ Banning the jury system in courts. we have to put one judge to be responsible. D
 Legal battle needs to be free and smooth, self representation. Simplification of case file(only digital). 
 Allow AI to access the courts database.
 
-Digital election
+Electoral reforms
 ________________________________________________ 
-Voting from registered phone number.
+Digital election voting from registered phone numbers.
 
 Citizen Id
 ________________________________________________ 
@@ -790,7 +806,6 @@ If you move a photo to another device, it is still not deleted, so you will thin
 If you choose a quick format an internal drive/Pen Drive/external hard disk. Data will not be removed. So you have to uncheck the quick format option, so that deep format will run, so only after a deep format will everything be erased. 
 
 So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pen drive like 32gb, use low memory, work on it, upload it to the cloud drive(you can permanently delete data in cloud), then deep format the memory card.
-
 ```
 
 :video_camera: Media
@@ -1360,6 +1375,25 @@ Can't step outside in the morning. It's 50 Celsius.
 Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
 ```
 
+History
+--------------------------------------------------------------------------------------------
+```
+The exact center of the world is where I am right now. If we put a line between East and West, there are only 2 human races in the world, one is mine and another is Chinese(just small eyes nothing much). So starting from me towards the west up to Finland are the same people. And starting from me towards the east up to Japan is China. 
+
+Europeans went out of control and captured America and Australia. But there were indigenous people already there. 
+
+Again if I divide North and South the line goes through me, so I am at the center of the world. 
+People starting from me and above are light skinned because sun rays are weaker away from the equator. And people below me are dark-skinned because the sun's rays are higher towards the equator. 
+
+That's why it is not recommended to move from South to North or North to South. Those who are doing these are affecting health, creating a disease-prone population. So the only way to move is east and west, on the same latitude. Well, the people who are Rishis and Munis are the only ones who move North and South, because they know everything. 
+The only reason for moving was inequality, but in a few years, money will not be required anymore, mega factories, Industrial Revolution are over now. So I want the white people living in South Africa to get out of there. I want all the black people out of the North. And I don't want anyone in the Gulf and Tibet. 
+
+And I want the United Nations here, where I am, at the center. The elected leader of the country will not hold the power of the army but only the police. And of course, the judiciary has equal power as the executive. The power of all the arms will be controlled from here. 
+
+Why not just UN?...u,s,s,r will fight on my side against china, but neeto will not(it's just a show, they made china into what it is today, all of their planes have Chinese chips). And the west has never played fair, that's why they never won, except America, Australia killin weak and same people. 
+Neetu is teaching lies in history books to children, that means totally cutoff from facts, so 99.9% are psychopaths.   
+```
+
 :detective: Conclusion
 --------------------------------------------------------------------------------------------
 ```
@@ -1383,6 +1417,11 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
+
+
+
 
 
 
