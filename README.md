@@ -1457,8 +1457,3 @@ Trophies are temporary. What is not temporary. Nature is the best teacher.
 
 
 
-
-
-
-
-
