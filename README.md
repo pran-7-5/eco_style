@@ -1388,10 +1388,7 @@ People starting from me and above are light skinned because sun rays are weaker 
 That's why it is not recommended to move from South to North or North to South. Those who are doing these are affecting health, creating a disease-prone population. So the only way to move is east and west, on the same latitude. Well, the people who are Rishis and Munis are the only ones who move North and South, because they know everything. 
 The only reason for moving was inequality, but in a few years, money will not be required anymore, mega factories, Industrial Revolution are over now. So I want the white people living in South Africa to get out of there. I want all the black people out of the North. And I don't want anyone in the Gulf and Tibet. 
 
-And I want the United Nations here, where I am, at the center. The elected leader of the country will not hold the power of the army but only the police. And of course, the judiciary has equal power as the executive. The power of all the arms will be controlled from here. 
-
-Why not just UN?...u,s,s,r will fight on my side against china, but neeto will not(it's just a show, they made china into what it is today, all of their planes have Chinese chips). And the west has never played fair, that's why they never won, except America, Australia killin weak and same people. 
-Neetu is teaching lies in history books to children, that means totally cutoff from facts, so 99.9% are psychopaths.   
+The United Nations should be here, where I am, at the center. The elected leader of the country will not hold the power of the army but only the police. And of course, the judiciary has equal power as the executive. The power of all the arms will be controlled from here. 
 ```
 
 :detective: Conclusion
@@ -1417,6 +1414,8 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
 
 
 
