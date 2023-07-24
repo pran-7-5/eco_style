@@ -491,8 +491,14 @@ Now where is the 5G, I live in the biggest city in my state but still using 4G. 
 Lacks semiconductor fab intel, nvidia.
 
 Banning of paper.
-Banning of currency notes immediately and digital apps and CBDC are already there. 
-I don't think that banks will be required.
+
+Banning of currency notes immediately and digital apps and CBDC are already there. So CBDC for now, but cryptocurrency is the future.
+Cryptocurrency hardware wallets = of course, a phone is enough but these are for the people who don't know how to use a phone. Money stays on these, unlike your debit and credit cards which requires the internet.
+
+There are 2 types of digital currency.
+1) Central bank digital currency (CBDC) - normal bank circulating digital currency. Transactions are stored on a single bank server.
+2) Cryptocurrency (bitcoin/whatnot/it just needs good AI bots to handle customer issues) - decentralized digital currency, no banks, automatic virtual bank. Transactions are stored hidden. There is no single server but too many servers called miners(a general person outsourcing own computer). 
+Miners lend their computers to be used and earn for renting the server. Miners can't see the data themselves because it's hidden and random.
 
 The clay artists and over jobs where heat curing is required, the oven power should be solar not wood or coal.
 
@@ -512,7 +518,7 @@ Why are we making concentration camps? There must be more ways but I can only th
 Airlines operate at a current rate, very expensive. 
 But don't take them right away after identifying or women children will die out of water, hunger and exhaustion. But to a few places you have to send them by airlines, just adjust them in empty seats, slower process but cheap. 
 
-Now to stop them from coming, we have to eliminate currency notes. Our own people who can't use phones are very difficult to find, anyway they have to use card payment, plus the CBDC is ready to just launch it, there is no other way. And we have to block their countries' banks from operating here. 
+Now to stop them from coming, we have to eliminate currency notes. Our own people who can't use phones are very difficult to find nowadays, anyway they have to use card payment, plus the CBDC is here now, there is no other way. And we have to block their countries' banks from operating here. 
 CBDC can work without the internet that means the money stays on each device like Bitcoin but Bitcoin has some more advanced features like it replaces banks all together, it just needs good AI bots to handle customer issues. We can discuss cryptocurrency later, it's a vast topic. 
 
 Now to stop them thinking about leaving their country requires improving their agriculture, arts and culture, and the internet. And we have to send un troops to eliminate the ter,ror,ists, and those sending them bullets(who are the double dealers anyway).
@@ -1015,7 +1021,7 @@ Yeah I said about free will, but I can't stop a wave, I can only swim when it's 
 The palm prints also tell the future because everyone is unique. This is different from the above method. 
 ```
 
-:shinto_shrine: Religion (I don't think there is such a thing, everyone is same)
+Religion (I don't think there is such a thing, everyone is same)
 --------------------------------------------------------------------------------------------
 ```
 There is nothing called God. What do you mean by god, no one can explain. 
@@ -1332,7 +1338,7 @@ Eco houses are more romantic anyway, we don't use cash anymore nor keep gold at 
 I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. 
 So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
 
-I don't want Tesla's gigafactory here to bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. 
+I don't want Tesla's gigafactory here, bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. 
 Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
 
 Not all solar panels are good. The mono perc solar panel is the latest technology and highest rating 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
@@ -1414,6 +1420,8 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
+
+
 
 
 
