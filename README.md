@@ -24,7 +24,7 @@ So don't start a fight to prove your point to a stupid person, you won't achieve
 
 So, keep wondering, this information may take a few years to completely sync into your mind.
 
-:amphora: Utensils
+Utensils
 --------------------------------------------------------------------------------------------
 ```
 Only unglazed clay and 100 % cast iron(not cast iron alloy, pure no impurities) utensils should be used (blood is made of iron so no issue).
@@ -62,7 +62,7 @@ Clay and leaf is recommended.
 ** Plastic packaging should be avoided(aluminum is slightly better than plastic but still it should be avoided). 
 ```
 
-:soap: Cleaner (utensils/hair/body/cloths/teeth) (won't work if exposed to chemicals, use the normal soap)
+Cleaner (utensils/hair/body/cloths/teeth) (won't work if exposed to chemicals, use the normal soap)
 --------------------------------------------------------------------------------------------
 ```
 Neem wood brush - https://www.amazon.in/Origami-Karma-Tooth-Brush-Bristles/dp/B09MLZ2NDH/ref=sr_1_5?crid=2OG0A81Q64JHE&keywords=neem+toothbrush+good&qid=1685100329&sprefix=neem+toothbrush+good%2Caps%2C344&sr=8-5
@@ -108,7 +108,7 @@ ________________________________________________
 You have to feed them first at least twice a day, or they will take on their own.  
 ```
 
-:grapes: Grocery(organic is written but not given, so grow your own)
+Grocery(organic is written but not given, so grow your own)
 --------------------------------------------------------------------------------------------
 ```
 *** GMO- Genetically modified organisms.
@@ -207,7 +207,7 @@ Amla
 Protein is not necessary for every person except (physical labor) and sugar can be drained by doing exercise so there is no issue.
 ```
 
-:ok_woman: Women_specific
+Women_specific
 --------------------------------------------------------------------------------------------
 ```
 Jewelry = gold, silver, diamond, sea shells, pearls(not compatible for everyone), rudraksha, wood,  feathers, don't use plastic or other metal jewels. (Should be stored in an automated bank locker nearest to the house, taken out on occasions.)
@@ -272,7 +272,7 @@ Contraceptive pill - major side effects.
 Vitro fertilization is also a problem.
 ```
 
-:hospital: Health tips
+Health tips
 --------------------------------------------------------------------------------------------
 ```
 Banning of gym equipment, too much equipment(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) 
@@ -298,7 +298,7 @@ Remember as I have said earlier you were a snake before in the evolutionary line
 I have met a lot of guys, who were bitten by cobras and whatnot. They say they don't have to do anything, they are used to it. 
 ```
 
-:beverage_box: Drinks
+Drinks
 --------------------------------------------------------------------------------------------
 ```
 Drinks = Lemonade, Fruit juice (Grape, mango, sugarcane, orange), Coconut water.
@@ -329,7 +329,7 @@ Hemp cigarettes can replace nicotine(hemp has very lower THC than marijuana).(Bi
 **Never use cigarettes(carcinogenic), e-cigarettes, cocaine and other(these are synthetic, inorganic, lab made, lots of chemicals, fatal).
 ```
 
-:pizza: Cooking
+Cooking
 --------------------------------------------------------------------------------------------
 ```
 Never eat too much at once, eat less but 4 times and if not feeling hungry reduce the previous meal next time.
@@ -385,7 +385,7 @@ Then khichdi is a good dish for babies. It is rice and dal mixed and boiled toge
 ** Avoid factory made products like lactogen and what not, avoid cow or any other milk, salt, sweet, oil and spice that comes after 5 years of age. 
 ```
 
-:tv: Appliances
+Appliances
 --------------------------------------------------------------------------------------------
 ```
 LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(available all around the world).
@@ -476,7 +476,7 @@ The best car is the Toyota Mirai but it is very expensive right now, because its
 ** A lot of metal parts need to be removed from these appliances and replaced by hemp fiber.
 ```
 
-:classical_building: Policy change
+Policy change
 --------------------------------------------------------------------------------------------
 ```
 Infrastructure
@@ -549,7 +549,7 @@ Be careful that even small things and negligence can cause a lot of pollution.
 Metal cement petroleum and transportation, anything linked to this creates pollution, because these are obtained through mining. 
 ```
 
-:hut: House construction
+House construction
 --------------------------------------------------------------------------------------------
 ```
 Land allocation
@@ -613,7 +613,7 @@ Flower pots = Clay only. (Avoid Plastic, cement, metal, ceramic)
 Ban of fences are important - wire, metal, wall, wood should be avoided... Can plant trees only.
 ```
 
-:factory: Mineral mines
+Mineral mines
 --------------------------------------------------------------------------------------------
 ```
 Shutdown all types of power plants. Homes in cities can be powered by solar. Just 1 panel is required for one home, already available.
@@ -640,7 +640,7 @@ All carbon capturing ideas and what not is a waste of time and money. They are t
 Recycling facility - solar powered small blast furnace, without battery, only morning operations. 
 ```
 
-:small_airplane: Future of transportation
+Future of transportation
 --------------------------------------------------------------------------------------------
 ```
 Stop constructing new roads, bridges, new ports, alternate(EVTOLS) are coming is few years 
@@ -700,7 +700,7 @@ ________________________________________________
 Bicycle, e-scooter.
 ```
 
-:computer: Software
+Software
 --------------------------------------------------------------------------------------------
 ```
 Automatic deletion of data = Google, Microsoft, Meta should free up data centers, I mean dead people have accounts today. 1 backup in a data center another should be peer to peer distributed for 6 months.(Like Telegram is giving, auto deletion of account if inactive and not intervened within 6 months)
@@ -814,7 +814,7 @@ If you choose a quick format an internal drive/Pen Drive/external hard disk. Dat
 So how to download, when you download it asks where to save, there you have to select memory card in case of phone, and Pen drive like 32gb, use low memory, work on it, upload it to the cloud drive(you can permanently delete data in cloud), then deep format the memory card.
 ```
 
-:video_camera: Media
+Media
 --------------------------------------------------------------------------------------------
 ```
 Best picture and sound quality = BBC, Warner bros, Nolan, Tom cruise, Marvel studios.
@@ -881,7 +881,7 @@ All jobs like law, software engineering will be taken by AI, so we don't need mo
 
 # General_knowledge 
 
-:film_strip: My choice of movies
+My choice of movies
 --------------------------------------------------------------------------------------------
 ```
 A few good men. 
@@ -973,7 +973,7 @@ The mentalist.
 The person of interest. 
 ```
 
-:milky_way: About the cosmos
+About the cosmos
 --------------------------------------------------------------------------------------------
 ```
 People often ask me why all this? 
@@ -1015,7 +1015,7 @@ Grih(to seize/take hold)(planets) = The problem is the so-called science includi
 Your cat is saying something to you but you don't understand, you can if you pay attention, like other cats can understand by default. 
 Likewise everything that exists in this cosmos is a living being, you just don't understand what they eat or say.  
 
-The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you knowing the future is a part of the future. 
+The astrology that you are aware of, are all fake. You can know the future but the thing is you can't change it, because you know the future is a part of the future. 
 Yeah I said about free will, but I can't stop a wave, I can only swim when it's calm. 
 
 The palm prints also tell the future because everyone is unique. This is different from the above method. 
@@ -1038,7 +1038,7 @@ Why did you grow the population if you don't have enough resources, you don't ha
 This is an example of extreme ignorance. They will keep killing each other. 
 ```
 
-:fairy: Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
+Devas, deus(Latin), theos(Greek)  (Again these are not called gods, people use word god because western people don’t know any other word)
 --------------------------------------------------------------------------------------------
 ```
 Devas - tools - a person having ideal qualities- ideal senses - blue prints to follow. 
@@ -1110,7 +1110,7 @@ There are tribes here in Meghalaya called Khassi, where men go to the girl's hou
 https://youtu.be/Kje0ISEKKX0
 ```
 
-:family_man_woman_girl_boy: Purpose of life
+Purpose of life
 --------------------------------------------------------------------------------------------
 ```
 These below lines are absolute, so don't worry it is very difficult to achieve this. 
@@ -1170,7 +1170,7 @@ Transitional Fossils = This theory has problems because again let me tell you th
 Life originated in Africa, humans evolved from monkeys, they are just living in ignorance, there is no proof and you wont get any proof.
 ```
 
-:ghost: Atman(Sanskrit) = Soul/spirit(again these are not precise English words, they don't explain the meaning, I am using it as a western idiom)
+Atman(Sanskrit) = Soul/spirit(again these are not precise English words, they don't explain the meaning, I am using it as a western idiom)
 --------------------------------------------------------------------------------------------
 ```
 Spirit is the quality/information/definition/characteristics/properties of your body/any object. Spirit is not a material whereas your body is material/object. 
@@ -1191,7 +1191,7 @@ The spirit has no physical connection with your body, it is the meaning of the o
 ```
  
 
-:superhero: Ways to be immortal
+Ways to be immortal
 --------------------------------------------------------------------------------------------
 ```
 Having a child(passing own body/genetic material) (There is no guarantee that your offspring will be better than you, but still it will get better and better after many births) 
@@ -1203,7 +1203,7 @@ Having a major achievement(people that are not your blood relative will become y
 Attaching your name to the extraordinary person becoming part of the history. (The problem is how will you know who is the extraordinary person of such sophistication.) 
 ```
 
-:dna: Genetics
+Genetics
 --------------------------------------------------------------------------------------------
 ```
 If you want to know about women sex organs specifically then, I don't think there are too many differences between men and women, there is only 1 chromosome difference. The man was a woman, that's why they have nipples.  
@@ -1224,7 +1224,7 @@ If there are things that only girls have, then I can't verify that, personally e
 But I think the extra 23rd chromosome in females holds the information about womb design.
 ```
 
-:lotus_position: Yuj
+Yuj
 --------------------------------------------------------------------------------------------
 ```
 Yoga = Yog = Yuj(Sanskrit) = join(English) (the sound "uj" means to join/connect can also be found in words like marriage, merge, arrange)
@@ -1259,7 +1259,7 @@ ________________________________________________
 This is the real game. Yes, reading this list is also Yuj.
 ```
 
-:face_with_spiral_eyes: Mind
+Mind
 --------------------------------------------------------------------------------------------
 ```
 Awake - you are reading this(this is fake, you don't know the reality)
@@ -1296,6 +1296,25 @@ So my point is people perceive things differently according to their level of co
 So what I am doing is enhancing your vision to enable you to see what I see, the broad picture. 
 Because if I speak to you in Chinese no matter what secret I tell you, you won't understand a single thing.
 ```
+
+
+Language
+--------------------------------------------------------------------------------------------
+```
+The language was only spoken, and the writing scripts were very new. 
+The temples are carved by picture stories, if you see the script on a structure means that's not ancient. 
+
+So sounds were the first form of communication. 
+So humans learned sound from all other animals. 
+
+The other languages are lacking syntax and do not follow strict rules. That's why they lost precision over time. 
+
+So a language was necessary to lock the facts forever so that they won't get distorted over time, hence Sanskrit was developed. 
+
+That's why people don't understand concepts even if they are told in their mother tongue. 
+So the Shiva and sapt rishis spread across the world and made the culture. Sanskrit was taught. 
+```
+
 
 My state
 --------------------------------------------------------------------------------------------
@@ -1341,7 +1360,7 @@ So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will 
 I don't want Tesla's gigafactory here, bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. 
 Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
 
-Not all solar panels are good. The mono perc solar panel is the latest technology and highest rating 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
+Not all solar panels are good. The mono perc solar panel is the latest technology and highest rated 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
 
 I mean don't buy liquid hydrogen from outside, buy the H2 Electrolyzers from like nel hydrogen Norway. We have solar panels here, we just need to connect them. 
 The import tax on H2 electrolyser and fuel cell is 48%, now who is benefiting from this. I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary. 
@@ -1397,7 +1416,7 @@ The only reason for moving was inequality, but in a few years, money will not be
 The United Nations should be here, where I am, at the center. The elected leader of the country will not hold the power of the army but only the police. And of course, the judiciary has equal power as the executive. The power of all the arms will be controlled from here. 
 ```
 
-:detective: Conclusion
+Conclusion
 --------------------------------------------------------------------------------------------
 ```
 I have never been diagnosed with any disease, if you are vegetarian then you will be fine. 
@@ -1420,22 +1439,6 @@ In language I took Sanskrit. You can write an essay in just 5 lines. But still, 
 So how did I figure out these things, well I have been trained by nature itself, specifically the mighty adolescent age. 
 Trophies are temporary. What is not temporary. Nature is the best teacher.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
