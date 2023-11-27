@@ -388,26 +388,26 @@ Then khichdi is a good dish for babies. It is rice and dal mixed and boiled toge
 Appliances
 --------------------------------------------------------------------------------------------
 ```
-LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room...white emits UV...can damage eyes = 1 USD max(available all around the world).
+LED Bulb - 4 watts (study room) to 9 watts(outside) enough, golden yellow color light, use white color light outside or bathroom but not living room, bed room, white emits UV, which can damage eyes = 1 USD max(available all around the world).
 (Size of the bulb needs to be reduced, and the socket needs to be smaller like 2 pin plugs)
 
 BLDC fan - 30 to 40 watts, BLDC motor fans = 30 USD max(available all around the world).
 (Hemp fiber, 2-3 blade, more aerodynamic blades)
 
-Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) by solar.... not induction cooker(magnetism) = 20 USD max(available all around the world).
+Stove - wood fire(clay oven), cast iron hot plate cooker(heating coil inside) powered by solar, not induction cooker(magnetism) = 20 USD max(available all around the world).
 (should be made of Clay body)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
-Microwave and other ovens - stainless steel and Teflon coating inside, very dangerous.(petroleum gas powered oven very dangerous)
+Microwave and other ovens - stainless steel and Teflon coating inside, therefore very dangerous.(petroleum gas powered oven very dangerous)
 
-Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing so avoid these.
+Mixer/ grinder/ juicer = there is a poisonous grease inside the blade bearing therefore avoid these.
 
 Water purifier - Avoid using RO, its equivalent to distilled water used in big batteries and has nothing in it, no minerals. 
 Live near rivers, drink direct, well water drink direct(not steady wells/only stream wells), don't dig new wells like every person is boring his own, stop cities live near rivers.
 ** Avoid drinking from ponds or lakes, these are not flowing water.
 
-1 star = very high consumption, highest bill, lowest efficiency.
-2 star, 3 star, 4 star.
-5 star = very low consumption, lowest bill, highest efficiency.
+1 star, 2 star, 3 star, 4 star = very high consumption, highest bill, lowest efficiency.(Needs to be banned)
+
+5 star = very low consumption, lowest bill, highest efficiency.(Rectifier needs to be removed, well can be sold separately)
 
 Refrigerator(100w) =  200 liters 5 star inverter fridge = 200 USD MAX
 (should be made of hemp fiber(outer body) and Clay body(inner body), cylindrical shape)(one power on indicator LED, WiFi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
@@ -424,7 +424,7 @@ Dishwasher(200w) = 5 star inverter = 300 USD MAX(available all around the world)
 
 On spot power generation is recommended (transmission lines are very inefficient; more than half the power lost is hysteresis only).
 ________________________________________________
-solar panel = mono perc [500 w] (life = 25 years) = 300 USD MAX(available all over the world)(might require 2 panels in low sunlight areas like Norway).
+solar panel = bifacial mono perc [600 w] (life = 25 years) = 150 USD MAX(available all over the world)(might require 2 panels in low sunlight areas like Norway).
 (should be made of hemp fiber)
 
 solar inverter with WiFi phone app = [4 kw] (life = depends) = 200 USD MAX(available all over the world).
