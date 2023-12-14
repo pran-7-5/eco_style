@@ -246,9 +246,16 @@ Color- light color. (Things look black because of Black body radiation, which me
 Ban collar, ties, coats, and replace zips with buttons. (These are part of excess)
 Well comfort is the first priority, too much tight and skinny clothes should be avoided.
 
-Footwear = Sandals/Flip flops instead of shoes.(Air circulation)(Socks, stockings should be avoided)
 
 Kids = Boy/girl same dress(They must understand they are equal from childhood), Cotton light color, shorts and a half sleeve shirt and t-shirt, not the same uniform and color for everyone(people are different and diverse).
+
+Footwear = Sandals/Flip flops instead of shoes.(Air circulation)(Socks, stockings should be avoided)
+
+Buying a wrong sports shoe is dangerous, my foot ring fingers are permanently bend now, because our govt school had uniforms, morons don't know anything, they will beat you in the morning if you wear something else.
+I always wear flip flops only now on. And shoes stinks anyway if not washed regularly.
+Never buy sneakers, boat shoes, so called formal shoes, heavy weight sports shoes. Shoe must be as light as your tshirt. And keep a 2 fingers gap between toe and front shoe wall. Like My foot size is uk9 so I buy uk10.
+
+The only shoe available right now for buying is "Nike Air zoom" or something like that, may be a little name variation in different countries, check it online on Amazon, its weight should be around 150 grams per shoe. Halloween is coming and will be cheapest around 50-60 usd. Well I haven't seen the shoe, but I don't think its for running on the road or you will lose it within a month, you must not run on the road anyway, always run on the ground, or you will have permanent ankle damage, which you will feel as you get older and older.
 
 tips
 ________________________________________________ 
@@ -275,6 +282,29 @@ Vitro fertilization is also a problem.
 Health tips
 --------------------------------------------------------------------------------------------
 ```
+If you can't see in the dark means, you have vitamin A deficiency. You are a human you should able to see clearly at night because you were in jungle while evolution.
+Sweet potatoes
+
+If you have skin problems, you have vitamin B deficiencies.
+You should eat Daal everyday in lunch = legumes, pulses.
+
+If you have fatigue and weakness, its vitamin C deficiencies.
+You should eat sour things everyday, citric, lemonade, orange, and fruits.
+
+Knock knees and flat foot = this happened because you have vitamin D and calcium deficiencies.
+You get tired very soon and get leg pain if you try to walk on a hilly area. If you stand straight joining ankle heels and if your knees touching you have knock knees but there should not be too much gap either. And foot should be curve not flat.
+This one is time talking will take few years, bone related things always takes time.
+Scientists say drink milk but I never drank milk or eaten meat. Plants have enough calcium that you need, my height is 5,10.
+
+You should eat rice everyday, I eat flatten rice every morning and normal raw white rice every lunch. Sleeping with pillow between knees, jogging in sand or knee level water, trekking up hill. And sunlight is must.
+Taking only calcium supplements is very dangerous and can be fatal because excess calcium can't get out of your body, because calcium is not water soluble, it will get deposit in your organs and causes cancer.
+
+Nervous system issues, because of vitamin E deficiencies.
+Eat seeds = mustard oil, almonds, pistachios.
+
+Easy bruises= vitamin K
+Eat pumpkin, koshola saag, egg plant, green chili, white radish.
+
 Banning of gym equipment, too much equipment(creating pollution due to excess metal use)(well only the few pursuing sports professionals have to use wooden weights, use brick weights)(unhygienic-lot of people using the same) 
 (weight lifting can cause permanent tissue damage in the long run), yoga is enough and very safe.
 
@@ -427,10 +457,49 @@ ________________________________________________
 solar panel = bifacial mono perc [600 w] (life = 25 years) = 150 USD MAX(available all over the world)(might require 2 panels in low sunlight areas like Norway).
 (should be made of hemp fiber)
 
-solar inverter with WiFi phone app = [4 kw] (life = depends) = 200 USD MAX(available all over the world).
+solar charge controller with WiFi phone app = [50 A] (life = depends) = 200 USD MAX(available all over the world).
 (should be made of Clay body)(one power on indicator LED, WiFi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
 
 battery = lead battery[300Ah] (not good but for now until hydrogen fuel cell/electrolyzer is available) (life = 10 years if lucky) = 300 USD MAX(available all over the world).
+
+I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway.
+So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
+
+Not all solar panels are good. The bifacial mono perc solar panel is the latest technology and highest rated 600w generation per panel and highest efficiency 21%. 1 panel per home is enough for most.
+
+I mean don't buy liquid hydrogen from outside, buy the H2 Electrolyzers from like nel hydrogen Norway. We have solar panels here, we just need to connect them.
+The import tax on H2 electrolyser and fuel cell is 48%, now who is benefiting from this. I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary.
+
+Self declared scientists say hydrogen is inefficient, let me tell you something. The weight of 21 liters of H2 is 2 grams, less than the weight of your iPhone battery. You can't charge a battery more than 100% but there is no such thing in hydrogen just get a bigger tank.
+Yeah, you can use your phone for a week. Forget about the phone right now, we are too far.
+
+The current efficiency of
+Coal/water/wind/nuclear (100 watts input)
+Turbine 30w
+Step up transformer 15w
+Transmission lines 7w(it's even lower than this)
+Step down transformer 3w (your wall socket)
+Charger 1w
+Battery 0.5 w
+Inverter 0.25 w
+Trust me reality is even worse, just think about the materials involved.
+________________________________________________
+                  Solar
+________________________________________________
+Sun rays (100 w input)
+Panel 20w
+Hydrogen electrolyzer 10w
+Fuel cell 5w  (this is your wall socket)
+
+So the 100 w example will be 3 w when it's reaching you, compare that to the solar 5w.
+
+So after doing this, the factories, vehicles, homes will have on spot generated power.
+
+Now the power from existing hydro, wind, solar farm/nuclear should be connected to the Electrolyzer and generate the hydrogen right there.
+Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircraft today.
+Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion.
+So for intercity use the turboprop aircraft. But state to state and international use turbofan aircraft.
+We already have too many hydro power plants, enough to handle aviation in the beginning.
 
 Electronics
 ________________________________________________ 
@@ -447,6 +516,9 @@ Phone + tab + PC in one device = Samsung/Microsoft rollable phone (coming soon)(
 
 printer = portable thermal printers(this printer doesn't require ink)(not for everyone, save paper).
 (outer body should be made of hemp fiber)(one power on indicator LED, wifi controlled over phone app, no other buttons or LCD displays required, reduction of electronic waste)
+Well, I try not to use printer, but sometimes it's necessary to memorize the formulas.
+Portable thermal printer is maintenance free, I mean there is no ink drama or anything. Well it actually burns the paper very quickly, that's how it works. Well the bill printers are also thermal printers, I just want to end the bill system,well they can sms the receipt why printing.
+Well paper is not bio degradable as you are thinking. At least people can't buy holly books anymore.
 
 Ban watches, smartwatches are there.
 (outer body should be made of hemp fiber)
@@ -472,6 +544,9 @@ Cheapest EV car available(Citroen e-c3) = 15000 USD MAX(till 2023)(well EV solar
 (outer body should be made of hemp fiber)
 
 The best car is the Toyota Mirai but it is very expensive right now, because its life span is 100 years, it is called a forever car.(future is green hydrogen fuel cell not "Lithium battery = toxic and can’t be used in aviation").
+
+I don't want Tesla's gigafactory here, bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now.
+Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar.
 
 ** A lot of metal parts need to be removed from these appliances and replaced by hemp fiber.
 ```
@@ -721,7 +796,18 @@ Closed source (spying)  | Open source (Very safe)
 Whatsapp                | Signal     
      
 So tell them to open source fast or shutdown we don't need these.(Apple, Microsoft, Google, Meta)
-           
+
+You people have lot of misconceptions about hacking, well it's just a fancy made up word. If I can access your facebook profile or see inside your computer then you say you were hacked. But now a days both hardware and software have become powerful and secure. Which means the firewall has improved a lot, because it's also a software.
+So to hack your Facebook account I need your password, because it is impossible to hack Facebook server. Then how can I know your password, there are only five ways.
+If you wrote your password somewhere and I got it.
+If you are sleeping some where and someone looked into your device.
+And If you are using wifi outside like hotel, shop, airport etc.
+If I am staying near your house and got signal from your router(fiber modem).
+So someone must be near you to do such things.
+Yes, if you are using your phone network 5g/4g then you are safe. Of course you need fiber internet, so you have to set the router password to very difficult. Not talking about wifi password, your router has a separate password.
+When you buy fiber service, when they provide you the modem, there is a link, user-name and password written on the box, so don't throw away the box right away. Go to the link, enter user-name password and set a difficult password.
+Don't buy too powerful modem like big antennas and more range, you just need signal inside 2 rooms that's it.
+
 Open source Software        
 ________________________________________________ 
 Laptop/Phone/tablet
@@ -750,7 +836,7 @@ Galaxy z fold is best right now because It combines, phone, tablet and laptop in
 
 https://www.synthesia.io/
 https://www.descript.com/
-If you want to become a Director and can't afford Warner Bros or Columbia Pictures or Anne Hathaway, you can use these. Free software is not available right now, but will be available after 1 year. These are very new right now. Don't upload yourself into this. 
+If you want to become a Director and can't afford Warner Bros or Columbia Pictures, you can use these. Free software is not available right now, but will be available after 1 year. These are very new right now. Don't upload yourself into this.
 
 Well, jobs will be different in the future. I have been developing Ai since 2017, and in 2012 I figured that people are very stupid and moving in the wrong direction. Don't worry Ai will take most jobs but still, I beat AI every day. 
 Ai can't create something new, It can only use the data that already exists. The only issue is China, I really don't know what they are up to. I can't see what is happening inside China. 
@@ -936,7 +1022,6 @@ My favorites
 Movie - The Truman show
 TV series - Big bang theory
 Actor - Tom Cruise
-Actress - Anne Hathaway
 Band - pink Floyd
 
 Music
@@ -971,6 +1056,62 @@ Planet mechanics.
 Small wonder. 
 The mentalist. 
 The person of interest. 
+```
+
+
+
+Basic maths for business
+--------------------------------------------------------------------------------------------
+```
+Integers = -3,-2, -1, 0,1,2,3 (Remember -2 is smaller than -1, -1 is smaller than 0)
+-1+3 = 2
+-1-2 = -3 (it adds)
+-1 + 0 = -1
+-6+2= -4
+
+Rationals = 1/2 = 0.5
+-2+1.5 = -0.5
+-6/3+3/2 = -0.5
+
+Operations
+-------------------
+Add = -1+3 =2 and +3-1=2 (it doesn't matter how you write)
+
+Multiplication= 2x6 = 12 and 6x2 = 12 (it doesn't matter how you write)
+
+Division = 6÷3 = 2 but 3/6 is not the same
+
+Oh sorry I forgot about business, as time is precious therefore you will be doing MBA in 1 day only.
+There are plenty of terms rotating in the market like marketing management and what not but it comes down to finance only.
+
+There are only 2 things:
+1) income statement/profit loss statement
+2)cash flow statement. This is nothing, very easy.
+3) Valuation is there but it's irrelevant until you have actual sales. Don't worry it's easy.
+
+These 3 above make balance sheet or in America they call it books. Well first class is smart, football is soccer and rugby is football. They are just confusing you nothing else, I am a classic person so I will be using only classic terms, if you don't like it I can't do anything. I have used slash for same meanings.
+
+Income statement has 3 things:
+1) sale/revenue/selling price(s.p)- 2 million $
+2)expense/cost price(c.p)- 1.5 million $
+3) profit/gain = sp-cp= 2 mil - 1.5 mil = 0.5 mil $
+* so if sp is 2 and cp increases to 2.1 because of problems like disaster/raw materials price increase and whatnot so.
+profit will be = sp-cp = 2 - 2.1 = - 0.1 and will be called loss, negative profit is loss.
+
+So income statement is the only thing, there is nothing else in a business, so why people are paying million dollar for MBA degree, well you figure out and tell me.
+
+1 million usd = 1000 000 usd
+1 billion usd = 1000 mill usd = 1000 000 000 usd
+1 trillion = 1000 bill usd = 1000 000 000 000 usd
+
+Conversion to other currency:
+
+1 usd = 80 rupees
+1 mil usd = 80 x 1000 000 = 80 000 000
+
+Congrats, you are a master in business admin
+
+Well you will be getting my website tomorrow where your doubts will be cleared. Not Now, I saw today and it's very old from a year ago, let me upload some updated things.
 ```
 
 About the cosmos
@@ -1353,48 +1494,6 @@ So we want to make those people poor, who are running these businesses, they are
 This will take jobs but so what, they are not going to get poor. They can easily switch, I am not talking about high skills, after all what I am promoting is man made products, eco houses will require more human touch than automated cement factories.
 Don't transport wood from one state to another, grow nearby.
 Eco houses are more romantic anyway, we don't use cash anymore nor keep gold at home, who is going to steal what, tv or fridge, security cameras are popular now.
-
-I don't want any import tax on all hydrogen products, I mean we don't have a single company, how can our market be threatened. Buying petrol from outside, money goes away anyway. 
-So cut gas purchases by half and buy electrolyzers from Nel_hydrogen. This will cut the Toyota_mirai and Nel_hydrogen electrolyzers price in half.
-
-I don't want Tesla's gigafactory here, bring the toyota mirai instead, well toyota already have production facilities here, obviously battery electric has to stop one day, recycling old battery is a big problem, tesla autopilot is good but not the priority right now. 
-Don't start digging lithium in Kashmir (only tourism, no factory). But the Gigafactory concept is good, totally solar powered. Enforce all existing factories to use solar. 
-
-Not all solar panels are good. The mono perc solar panel is the latest technology and highest rated 500w generation per panel and highest efficiency 21%. 1 panel per home is enough for most. 
-
-I mean don't buy liquid hydrogen from outside, buy the H2 Electrolyzers from like nel hydrogen Norway. We have solar panels here, we just need to connect them. 
-The import tax on H2 electrolyser and fuel cell is 48%, now who is benefiting from this. I want it to be zero because our industries are very slow and they won't emerge unless we eliminate import tax. Consult RBI also, but I don't think there will be any problem, this is temporary. 
-
-Self declared scientists say hydrogen is inefficient, let me tell you something. The weight of 21 liters of H2 is 2 grams, less than the weight of your iPhone battery. You can't charge a battery more than 100% but there is no such thing in hydrogen just get a bigger tank. 
-Yeah, you can use your phone for a week. Forget about the phone right now, we are too far. 
-
-The current efficiency of 
-Coal/water/wind/nuclear (100 watts input) 
-Turbine 30w
-Step up transformer 15w
-Transmission lines 7w(it's even lower than this) 
-Step down transformer 3w (your wall socket) 
-Charger 1w
-Battery 0.5 w
-Inverter 0.25 w
-Trust me reality is even worse, just think about the materials involved.
-________________________________________________  
-                  Solar
-________________________________________________ 
-Sun rays (100 w input) 
-Panel 20w
-Hydrogen electrolyzer 10w
-Fuel cell 5w  (this is your wall socket) 
-
-So the 100 w example will be 3 w when it's reaching you, compare that to the solar 5w.
-
-So after doing this, the factories, vehicles, homes will have on spot generated power. 
-
-Now the power from existing hydro, wind, solar farm/nuclear should be connected to the Electrolyzer and generate the hydrogen right there. 
-Transport the hydrogen to the air base by trucks powered by hydrogen. We can directly inject hydrogen into aircraft today. 
-Just need a few cheap changes in the aircraft like new gauge and connectors. Don't fill excess in the tank, just to reach the destination or a bit extra in case of diversion. 
-So for intercity use the turboprop aircraft. But state to state and international use turbofan aircraft. 
-We already have too many hydro power plants, enough to handle aviation in the beginning.
 
 Can't step outside in the morning. It's 50 Celsius.
 Every year there is a cyclone now used to be once in a decade, destroying everything, my tax is going in this.
